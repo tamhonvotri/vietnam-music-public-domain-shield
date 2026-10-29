@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="4.0">
+  <work>
+    <work-number>OMPA_10_A_F7C362A6</work-number>
+    <work-title>AI Latent Space High-Probability Motifs (Suno / Udio / MiniMax Convergence) - Key A (IDCSv1|INT:0,-2,+2,+10,-9,+2,+7,-12,-2,+7,-3,0,+3,0,+2|DUR:2,2,1,1,2,2,2,4,2,2,1,1,2,2,2,4|ROMAN:i-iv-bVII-bIII-bVI-ii°7-V7-i)</work-title>
+  </work>
+  <identification>
+    <creator type="composer">OpenMusic-PriorArt-Engine (Autonomous Combinatorial Generator)</creator>
+    <rights>CC0 1.0 Universal (Public Domain Prior Art Dedication)</rights>
+  </identification>
+  <part-list>
+    <score-part id="P1"><part-name>Topline &amp; Harmonic Structure</part-name></score-part>
+  </part-list>
+  <part id="P1">
+    <measure number="1">
+      <attributes><divisions>4</divisions><time><beats>4</beats><beat-type>4</beat-type></time><clef><sign>G</sign><line>2</line></clef></attributes>
+      <direction placement="above"><sound tempo="76"/></direction>
+      <harmony><root><root-step>A</root-step></root><kind text="Am">major</kind></harmony>
+      <note><pitch><step>E</step><octave>4</octave></pitch><duration>4</duration><type>quarter</type></note>
+      <note><pitch><step>E</step><octave>4</octave></pitch><duration>4</duration><type>quarter</type></note>
+      <note><pitch><step>D</step><octave>4</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>E</step><octave>4</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>D</step><octave>5</octave></pitch><duration>4</duration><type>quarter</type></note>
+    </measure>
+    <measure number="2">
+      <harmony><root><root-step>D</root-step></root><kind text="Dm">major</kind></harmony>
+      <note><pitch><step>F</step><octave>4</octave></pitch><duration>4</duration><type>quarter</type></note>
+      <note><pitch><step>G</step><octave>4</octave></pitch><duration>4</duration><type>quarter</type></note>
+      <note><pitch><step>D</step><octave>5</octave></pitch><duration>8</duration><type>quarter</type></note>
+    </measure>
+    <measure number="3">
+      <harmony><root><root-step>G</root-step></root><kind text="G">major</kind></harmony>
+      <note><pitch><step>D</step><octave>4</octave></pitch><duration>4</duration><type>quarter</type></note>
+      <note><pitch><step>C</step><octave>4</octave></pitch><duration>4</duration><type>quarter</type></note>
+      <note><pitch><step>G</step><octave>4</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>E</step><octave>4</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>E</step><octave>4</octave></pitch><duration>4</duration><type>quarter</type></note>
+    </measure>
+    <measure number="4">
+      <harmony><root><root-step>C</root-step></root><kind text="C">major</kind></harmony>
+      <note><pitch><step>G</step><octave>4</octave></pitch><duration>4</duration><type>quarter</type></note>
+      <note><pitch><step>G</step><octave>4</octave></pitch><duration>4</duration><type>quarter</type></note>
+      <note><pitch><step>A</step><octave>4</octave></pitch><duration>8</duration><type>quarter</type></note>
+    </measure>
+  </part>
+</score-partwise>

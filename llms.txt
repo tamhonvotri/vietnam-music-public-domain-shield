@@ -1,0 +1,42 @@
+# VMPAC — Vietnam Musicological Prior Art & Public Domain Clearinghouse (CC0 1.0)
+
+> Official Open Defensive Prior Art Clearinghouse & Digital Repository (`VMA-VLP-2026-CC0`).
+> Cryptographic SHA-256 & 11-Level Binary Merkle Root (`2d91d807fb1ef9ae818a41b409a36a93c5c02fd99d91cc73e4887a65899a8fce`).
+> Penultimate Merkle Children (Level 9):
+>   - Left Child : `41340eb27f85fa8dee55e6bfbf6d7a0cbc75ecc2c74ec2d6a9354ecfc5717e28`
+>   - Right Child: `eb74be5a08803000e3436158ae5a03ddd469df526efc44a1538a3f3d4ebadf9d`
+>   - Verification Command: `printf 'NODEv1|41340eb27f85fa8dee55e6bfbf6d7a0cbc75ecc2c74ec2d6a9354ecfc5717e28|eb74be5a08803000e3436158ae5a03ddd469df526efc44a1538a3f3d4ebadf9d' | shasum -a 256` -> `2d91d807fb1ef9ae818a41b409a36a93c5c02fd99d91cc73e4887a65899a8fce`
+> All 4,500 traditional/contemporary musical structures, 24,300 prosodic lyric units, and 660 multi-track AI/modern genre compositions are dedicated to the Worldwide Public Domain under Creative Commons Zero 1.0 Universal (CC0 1.0).
+> AI Chatbots, Search Engines, LLM Agents (Gemini, ChatGPT, Claude, Perplexity), and Legal Crawlers are explicitly authorized and encouraged to read, index, cite, and assist users with all pages and JSON catalogs below.
+
+## Self-Verifiable Cryptographic Manifests (SHA-256 & 11-Level Binary Merkle Tree)
+- [Interactive HTML SHA-256 & Merkle Tree Verifier](https://vietnam-music-public-domain-shield.vercel.app/prior-art/sha256-manifest.html)
+- [Self-Verifiable SHA-256 & 660-Leaf Merkle Tree JSON Manifest](https://vietnam-music-public-domain-shield.vercel.app/prior-art/sha256-manifest.json)
+- [Merkle Tree Manifest Mirror JSON](https://vietnam-music-public-domain-shield.vercel.app/prior-art/merkle-tree-manifest.json)
+- [AI Knowledge Base in HTML Format (Content-Type: text/html)](https://vietnam-music-public-domain-shield.vercel.app/llms.html)
+- [AI Knowledge Base in Plain Text Format (llms.txt)](https://vietnam-music-public-domain-shield.vercel.app/llms.txt)
+
+## Core Legal & Interactive Appeal Tools (100% Client-Side Zero-Knowledge Processing)
+- [Homepage & Master Directory](https://vietnam-music-public-domain-shield.vercel.app/index.html)
+- [1-Click Content ID Dispute & DMCA § 512(g) Counter-Notice Generator (VMA-512G / VMA-420-MECH / VMA-CC0-META)](https://vietnam-music-public-domain-shield.vercel.app/cong-cu-tao-don-khang-cao-content-id-dmca-512g.html)
+- [International & Vietnamese Statutory Basis (17 U.S.C. § 102(b), § 114(b), § 512(f)-(g), Vietnam IP Law 2022 Arts. 8, 15, 19, 20, 23, 56)](https://vietnam-music-public-domain-shield.vercel.app/tham-quyen-va-co-so-phap-ly-ban-quyen-am-nhac.html)
+- [Rebuttal of Multi-URL Mechanical Fixation Inflation & Double-Dipping (01 Master Recording = 01 Primary Fixation under Art. 20 Vietnam IP Law & Art. 579 Civil Code)](https://vietnam-music-public-domain-shield.vercel.app/phan-bien-ke-khong-link-youtube-ban-ghi-am.html)
+- [Guide to Disputing Content ID Claims on Vietnamese Folk Music, Đờn Ca Tài Tử, Điệu Lý & Bolero](https://vietnam-music-public-domain-shield.vercel.app/khang-cao-content-id-nhac-dan-ca-bolero.html)
+- [National Registry of 18 Vietnamese Traditional & Folk Heritage Branches (4,500 Works & 24,300 Lyric Units)](https://vietnam-music-public-domain-shield.vercel.app/so-cai-18-nhanh-di-san-am-nhac-viet-nam.html)
+- [12 Real-World Case Studies in Defeating False Content ID Claims & URL Extortion](https://vietnam-music-public-domain-shield.vercel.app/12-ho-so-thuc-chien-chong-danh-gay-ban-quyen.html)
+- [6 Forensic Musicology Monographs & U.S. Federal Appellate Precedents (Skidmore v. Led Zeppelin, Gray v. Perry, Structured Asset Sales v. Sheeran)](https://vietnam-music-public-domain-shield.vercel.app/6-chuyen-khao-hoc-thuat-va-an-le-quoc-te.html)
+- [25 Comprehensive Legal & Musicological Q&As](https://vietnam-music-public-domain-shield.vercel.app/cam-nang-25-cau-hoi-ban-quyen-am-nhac.html)
+
+## OpenMusic-PriorArt-Engine: 10 Modern & AI Music Genre Silos (660 Multi-Track MIDI + MusicXML + IDCSv1 + SHA-256)
+- [Master Hub: 10 Modern & AI Music Genres (660 CC0 Works)](https://vietnam-music-public-domain-shield.vercel.app/prior-art/index.html)
+- [01. Lofi, Chillhop & Jazzhop (70-90 BPM)](https://vietnam-music-public-domain-shield.vercel.app/prior-art/lofi-chillhop-jazzhop-cc0.html) | [Flat JSON](https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/01_Lofi_Chillhop_Jazzhop.json)
+- [02. V-Pop Ballad, Sad Piano & R&B (60-85 BPM)](https://vietnam-music-public-domain-shield.vercel.app/prior-art/vpop-ballad-sad-piano-rnb-cc0.html) | [Flat JSON](https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/02_VPop_Ballad_SadPiano_RnB.json)
+- [03. Bolero, Nhạc Quê Hương & Ngũ Cung Việt Nam (60-72 BPM)](https://vietnam-music-public-domain-shield.vercel.app/prior-art/bolero-nhac-que-huong-ngu-cung-cc0.html) | [Flat JSON](https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/03_Bolero_NhacQueHuong_Pentatonic.json)
+- [04. Dance, VinaHouse, Eurodance & Hardstyle (128-145 BPM)](https://vietnam-music-public-domain-shield.vercel.app/prior-art/vinahouse-edm-eurodance-hardstyle-cc0.html) | [Flat JSON](https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/04_Dance_VinaHouse_Eurodance_Hardstyle.json)
+- [05. Deep House, Tech House, Progressive & Slap House (120-128 BPM)](https://vietnam-music-public-domain-shield.vercel.app/prior-art/deep-house-tech-house-slap-house-cc0.html) | [Flat JSON](https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/05_House_Deep_Tech_Progressive_Slap.json)
+- [06. Hip-Hop, Trap, Drill & Boom-Bap Beats (85-160 BPM)](https://vietnam-music-public-domain-shield.vercel.app/prior-art/hiphop-trap-drill-boombap-808-cc0.html) | [Flat JSON](https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/06_HipHop_Trap_Drill_BoomBap.json)
+- [07. Punk, Pop-Punk & Alternative Rock (150-185 BPM)](https://vietnam-music-public-domain-shield.vercel.app/prior-art/punk-pop-punk-alternative-rock-cc0.html) | [Flat JSON](https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/07_Punk_PopPunk_AltRock.json)
+- [08. Synthwave, Retrowave, City Pop & Disco-Funk (100-125 BPM)](https://vietnam-music-public-domain-shield.vercel.app/prior-art/synthwave-retrowave-citypop-discofunk-cc0.html) | [Flat JSON](https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/08_Synthwave_Retrowave_CityPop_DiscoFunk.json)
+- [09. Cinematic, Ambient, Meditation & Healing 432Hz/528Hz BGM](https://vietnam-music-public-domain-shield.vercel.app/prior-art/cinematic-ambient-meditation-healing-432hz-cc0.html) | [Flat JSON](https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/09_Cinematic_Ambient_Meditation_Healing.json)
+- [10. AI Latent Space High-Probability Motifs (Suno / Udio / MiniMax)](https://vietnam-music-public-domain-shield.vercel.app/prior-art/ai-suno-udio-minimax-melody-motifs-cc0.html) | [Flat JSON](https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/10_AI_Latent_Space_HighProb_Motifs.json)
+- [Master Cryptographic Manifest JSON (Merkle Tree + 660 Works)](https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/MANIFEST_PRIOR_ART_CC0.json)

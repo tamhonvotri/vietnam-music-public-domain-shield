@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Huy hiệu Hội đồng Lưu ký Tiên nghệ thuật Âm nhạc học và Miền công cộng VMPAC">
+  <defs>
+    <linearGradient id="navyGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d315c"/>
+      <stop offset="100%" stop-color="#061830"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f3d27a"/>
+      <stop offset="50%" stop-color="#c99b2e"/>
+      <stop offset="100%" stop-color="#966d0f"/>
+    </linearGradient>
+  </defs>
+  <!-- Outer Gold Medallion Rim -->
+  <circle cx="60" cy="60" r="58" fill="url(#goldGrad)"/>
+  <circle cx="60" cy="60" r="54.5" fill="url(#navyGrad)"/>
+  <circle cx="60" cy="60" r="50.5" fill="none" stroke="url(#goldGrad)" stroke-width="1.2" stroke-dasharray="2.5 1.8"/>
+  <circle cx="60" cy="60" r="47" fill="none" stroke="url(#goldGrad)" stroke-width="0.9"/>
+
+  <!-- Subtle Globe Latitude & Longitude Lines -->
+  <ellipse cx="60" cy="56" rx="30" ry="30" fill="none" stroke="#1e497c" stroke-width="0.8"/>
+  <ellipse cx="60" cy="56" rx="16" ry="30" fill="none" stroke="#1e497c" stroke-width="0.8"/>
+  <line x1="30" y1="56" x2="90" y2="56" stroke="#1e497c" stroke-width="0.8"/>
+  <line x1="34" y1="43" x2="86" y2="43" stroke="#1e497c" stroke-width="0.7"/>
+  <line x1="34" y1="69" x2="86" y2="69" stroke="#1e497c" stroke-width="0.7"/>
+
+  <!-- Left & Right Heraldic Laurel Branches -->
+  <path d="M32,82 C22,70 21,50 29,35 C32,30 36,26 41,23" fill="none" stroke="url(#goldGrad)" stroke-width="2" stroke-linecap="round"/>
+  <path d="M88,82 C98,70 99,50 91,35 C88,30 84,26 79,23" fill="none" stroke="url(#goldGrad)" stroke-width="2" stroke-linecap="round"/>
+  <!-- Laurel Leaves Left -->
+  <ellipse cx="26" cy="68" rx="4.5" ry="2" transform="rotate(-35 26 68)" fill="url(#goldGrad)"/>
+  <ellipse cx="24" cy="57" rx="4.5" ry="2" transform="rotate(-15 24 57)" fill="url(#goldGrad)"/>
+  <ellipse cx="26" cy="46" rx="4.5" ry="2" transform="rotate(10 26 46)" fill="url(#goldGrad)"/>
+  <ellipse cx="31" cy="36" rx="4.5" ry="2" transform="rotate(30 31 36)" fill="url(#goldGrad)"/>
+  <ellipse cx="38" cy="27" rx="4.2" ry="1.8" transform="rotate(45 38 27)" fill="url(#goldGrad)"/>
+  <!-- Laurel Leaves Right -->
+  <ellipse cx="94" cy="68" rx="4.5" ry="2" transform="rotate(35 94 68)" fill="url(#goldGrad)"/>
+  <ellipse cx="96" cy="57" rx="4.5" ry="2" transform="rotate(15 96 57)" fill="url(#goldGrad)"/>
+  <ellipse cx="94" cy="46" rx="4.5" ry="2" transform="rotate(-10 94 46)" fill="url(#goldGrad)"/>
+  <ellipse cx="89" cy="36" rx="4.5" ry="2" transform="rotate(-30 89 36)" fill="url(#goldGrad)"/>
+  <ellipse cx="82" cy="27" rx="4.2" ry="1.8" transform="rotate(-45 82 27)" fill="url(#goldGrad)"/>
+
+  <!-- 5-Line Pentatonic Musical Wave Across Center -->
+  <path d="M33,59 Q46,53 60,59 T87,59" fill="none" stroke="#68a8ff" stroke-width="1" opacity="0.85"/>
+  <path d="M33,63 Q46,57 60,63 T87,63" fill="none" stroke="#68a8ff" stroke-width="1" opacity="0.85"/>
+  <path d="M33,67 Q46,61 60,67 T87,67" fill="none" stroke="#68a8ff" stroke-width="1" opacity="0.85"/>
+
+  <!-- Central Scales of Justice Pillar & Balance Beam -->
+  <polygon points="60,22 63.5,29 56.5,29" fill="url(#goldGrad)"/>
+  <rect x="58.2" y="28" width="3.6" height="46" rx="1.2" fill="url(#goldGrad)"/>
+  <rect x="46" y="73" width="28" height="4" rx="1.5" fill="url(#goldGrad)"/>
+  <rect x="42" y="77" width="36" height="3.5" rx="1.2" fill="url(#goldGrad)"/>
+  <!-- Balance Beam -->
+  <path d="M36,36 L84,36" stroke="url(#goldGrad)" stroke-width="3" stroke-linecap="round"/>
+  <!-- Left Scale Pan -->
+  <line x1="39" y1="36" x2="34" y2="51" stroke="url(#goldGrad)" stroke-width="1.2"/>
+  <line x1="39" y1="36" x2="44" y2="51" stroke="url(#goldGrad)" stroke-width="1.2"/>
+  <path d="M32,51 Q39,57 46,51 Z" fill="url(#goldGrad)"/>
+  <!-- Right Scale Pan -->
+  <line x1="81" y1="36" x2="76" y2="51" stroke="url(#goldGrad)" stroke-width="1.2"/>
+  <line x1="81" y1="36" x2="86" y2="51" stroke="url(#goldGrad)" stroke-width="1.2"/>
+  <path d="M74,51 Q81,57 88,51 Z" fill="url(#goldGrad)"/>
+
+  <!-- Top Sovereign Star -->
+  <polygon points="60,11 61.6,15.5 66.4,15.5 62.5,18.3 64,22.8 60,20 56,22.8 57.5,18.3 53.6,15.5 58.4,15.5" fill="url(#goldGrad)"/>
+
+  <!-- Institutional Ribbon Scroll at Base -->
+  <rect x="20" y="85" width="80" height="14" rx="3" fill="url(#goldGrad)" stroke="#061830" stroke-width="1"/>
+  <text x="60" y="94.5" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="7.6" font-weight="bold" fill="#061830" letter-spacing="0.8">VMPAC • CC0</text>
+</svg>

@@ -1,0 +1,5366 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Kho Tiên Nghệ Thuật (Prior Art CC0) Nhạc Thiền, Ambient, Healing 432Hz/528Hz & Cinematic BGM — Chống Vơ Vét Content ID",
+  "description": "Cơ sở dữ liệu Tiên Nghệ Thuật (Prior Art CC0 1.0) bảo vệ các kênh Nhạc Thiền, Ambient, Yoga, Spa, Ngủ Ngon & Healing 432Hz/528Hz trước nạn vơ vét bản quyền Content ID: Drone Pads ngân dài, hợp âm treo Sus2/Sus4/Maj9 và Piano rải thưa kèm Reverb.",
+  "url": "https://vietnam-music-public-domain-shield.vercel.app/prior-art/cinematic-ambient-meditation-healing-432hz-cc0.html",
+  "sameAs": "https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/09_Cinematic_Ambient_Meditation_Healing.json",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "isAccessibleForFree": true,
+  "keywords": [
+    "bản quyền nhạc thiền meditation",
+    "nhạc healing 432hz 528hz bị đánh bản quyền",
+    "kháng cáo content id nhạc ngủ ngon ambient",
+    "drone pad sus2 maj9 cc0",
+    "chống vơ vét bản quyền nhạc thư giãn spa"
+  ],
+  "creator": {
+    "@type": "Organization",
+    "name": "VMPAC — OpenMusic Prior Art Engine",
+    "url": "https://vietnam-music-public-domain-shield.vercel.app"
+  },
+  "master_merkle_root": "2d91d807fb1ef9ae818a41b409a36a93c5c02fd99d91cc73e4887a65899a8fce",
+  "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+  "total_works_in_genre": 60,
+  "records": [
+    {
+      "index": 529,
+      "work_id": "OMPA_09_C_CB23EA70",
+      "uuid": "cb23ea70-e47c-544d-ac18-357b9bfb3fc4",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "C",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 60,
+      "bars": 4,
+      "voicing_type": "spread_open",
+      "arpeggio_style": "block_sustained",
+      "roman_progression": "Isus2 -> IVmaj9 -> vi7 -> Isus4",
+      "chord_progression": "Csus2 -> Fmaj9 -> Am7 -> Csus4",
+      "scientific_pitch_notation": "C4 G4 F4 B4 G4 E4 C4 C4",
+      "midi_note_array": [
+        60,
+        67,
+        65,
+        71,
+        67,
+        64,
+        60,
+        60
+      ],
+      "semitone_interval_vector": [
+        7,
+        -2,
+        6,
+        -4,
+        -3,
+        -4,
+        0
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U D U D D D R",
+      "allen_forte_mod12_set": [
+        0,
+        4,
+        5,
+        7,
+        11
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+7,-2,+6,-4,-3,-4,0|DUR:1,1,1,1,1,1,1,1|ROMAN:Isus2-IVmaj9-vi7-Isus4",
+      "canonical_invariant_sha256": "c1c857c96645291fa8623844babeb483b7017062616293c567f1ce18ac4f1573",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_C_CB23EA70.mid",
+      "midi_sha256": "949aaae28d11aa9ab86c79ed3afd833021d3124c487a1dd8ee64a5b2ef227bff",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_C_CB23EA70.musicxml",
+      "musicxml_sha256": "8b92c2e5592a1c58d4c8c9ee1563c32fad342a9fca1d2405aecfdad37e2a3977",
+      "wav_file": "genres/09_Cinematic_Ambient_Meditation_Healing/wav/OMPA_09_C_CB23EA70.wav",
+      "wav_sha256": "46c1a104de251a467bd38edd8e6c249a597e3555968b5fa96bacf1b0a36af5ef",
+      "warp_minus5pct_wav_sha256": "76c8674e48fb3aca0569abab9a5b50dd2301bc103ebfdfdeb55f4deb81421626",
+      "warp_plus5pct_wav_sha256": "d532e6c650a6f99003d18fb575cff4ef568bd98df4656f8b536f0fe0400c019f",
+      "leaf_sha256": "db868f6d8c8941383e0439fed47c807fc9827e6d00a35f7deaeaf2f7f998c598",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "07048aa708ec2ac7a34ab7f7fe92499ea89d7c06cabc4c7b476acd6b5589be55"
+        },
+        {
+          "position": "right",
+          "hash": "f3a39417758388d2e771a6cf74c3856d2b502e8c62d07494803af0d867d619e0"
+        },
+        {
+          "position": "right",
+          "hash": "55f97f7aecb7870840523b562ff758cacf2fb9bb7abc8ba2840b916a980fff08"
+        }
+      ]
+    },
+    {
+      "index": 530,
+      "work_id": "OMPA_09_Cs_5D638415",
+      "uuid": "5d638415-c143-592b-b0f3-adf4ccac0311",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "C#",
+      "scale_mode": "ionian_major",
+      "bpm": 66,
+      "bars": 4,
+      "voicing_type": "root_pos",
+      "arpeggio_style": "block_sustained",
+      "roman_progression": "Isus2 -> IVmaj9 -> vi7 -> Isus4",
+      "chord_progression": "C#sus2 -> F#maj9 -> Bbm7 -> C#sus4",
+      "scientific_pitch_notation": "Eb4 Ab4 C#4 Ab4 C#5 Ab4 F#4 F4",
+      "midi_note_array": [
+        63,
+        68,
+        61,
+        68,
+        73,
+        68,
+        66,
+        65
+      ],
+      "semitone_interval_vector": [
+        5,
+        -7,
+        7,
+        5,
+        -5,
+        -2,
+        -1
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U D U U D D D",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        3,
+        5,
+        10
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+5,-7,+7,+5,-5,-2,-1|DUR:1,1,1,1,1,1,1,1|ROMAN:Isus2-IVmaj9-vi7-Isus4",
+      "canonical_invariant_sha256": "8331b6af61f8a938242e9934a4fdf5ad3e8628a1f183a97380221a7125df7c13",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_Cs_5D638415.mid",
+      "midi_sha256": "83bc587c9afad246998dd650e731e0ceca56e4558f53bf27aa1244eedf6b2f33",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_Cs_5D638415.musicxml",
+      "musicxml_sha256": "f97c89930719d486bdeefe99c56d60bf18106b86e2880a2ef2b4039105845734",
+      "wav_file": "genres/09_Cinematic_Ambient_Meditation_Healing/wav/OMPA_09_Cs_5D638415.wav",
+      "wav_sha256": "186462c90e00ebfb3cac0443dfc9b507f4dd2d09449ede48d50607f5e8f2964e",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "07048aa708ec2ac7a34ab7f7fe92499ea89d7c06cabc4c7b476acd6b5589be55",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "db868f6d8c8941383e0439fed47c807fc9827e6d00a35f7deaeaf2f7f998c598"
+        },
+        {
+          "position": "right",
+          "hash": "f3a39417758388d2e771a6cf74c3856d2b502e8c62d07494803af0d867d619e0"
+        },
+        {
+          "position": "right",
+          "hash": "55f97f7aecb7870840523b562ff758cacf2fb9bb7abc8ba2840b916a980fff08"
+        }
+      ]
+    },
+    {
+      "index": 531,
+      "work_id": "OMPA_09_D_9E0715FA",
+      "uuid": "9e0715fa-ce61-5564-b394-ea299faba8b6",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "D",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 74,
+      "bars": 4,
+      "voicing_type": "second_inv",
+      "arpeggio_style": "block_sustained",
+      "roman_progression": "Isus2 -> IVmaj9 -> vi7 -> Isus4",
+      "chord_progression": "Dsus2 -> Gmaj9 -> Bm7 -> Dsus4",
+      "scientific_pitch_notation": "D4 Ab3 B3 E3 A3 B3 D4 D4",
+      "midi_note_array": [
+        62,
+        56,
+        59,
+        52,
+        57,
+        59,
+        62,
+        62
+      ],
+      "semitone_interval_vector": [
+        -6,
+        3,
+        -7,
+        5,
+        2,
+        3,
+        0
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D U D U U U R",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        6,
+        7,
+        9
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-6,+3,-7,+5,+2,+3,0|DUR:1,1,1,1,1,1,1,1|ROMAN:Isus2-IVmaj9-vi7-Isus4",
+      "canonical_invariant_sha256": "d4bcb54d3e876b6275ad1c78eb3ba9101782eb829ce2b849e65c086fe177e715",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_D_9E0715FA.mid",
+      "midi_sha256": "b55383a57d6eddc0ac6999265921278caeebee7abd1d8d21f151d653bb58ab9f",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_D_9E0715FA.musicxml",
+      "musicxml_sha256": "5ef45ecd0d5838a3ab348941725db23e480ddd6bfe8a05bfc71b5623931a4007",
+      "wav_file": "genres/09_Cinematic_Ambient_Meditation_Healing/wav/OMPA_09_D_9E0715FA.wav",
+      "wav_sha256": "1f8aa4dc6c6bff05d04df2cd43dffac7287db8a89e1d374d2c245ab3276b6e35",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "469654696a25cd1daae7c26b0d2b0cbd053d86ae8820467aed8c2583bcb87f17",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "bac1de7dc4a64ff7ac59ded3c912b0d139591457bb5fd5f9d76d7fe070d89ba1"
+        },
+        {
+          "position": "left",
+          "hash": "175df8faf4067bbac05a632d74c40de36090144de2b1a45bac4efb5cd510f176"
+        },
+        {
+          "position": "right",
+          "hash": "55f97f7aecb7870840523b562ff758cacf2fb9bb7abc8ba2840b916a980fff08"
+        }
+      ]
+    },
+    {
+      "index": 532,
+      "work_id": "OMPA_09_Eb_D2B0F573",
+      "uuid": "d2b0f573-80b6-5f61-933c-31e9a860dbce",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "Eb",
+      "scale_mode": "major_pentatonic",
+      "bpm": 60,
+      "bars": 4,
+      "voicing_type": "spread_open",
+      "arpeggio_style": "block_sustained",
+      "roman_progression": "Isus2 -> IVmaj9 -> vi7 -> Isus4",
+      "chord_progression": "Ebsus2 -> Abmaj9 -> Cm7 -> Ebsus4",
+      "scientific_pitch_notation": "Bb3 Bb3 Bb3 Bb3 Eb3 F3 Eb4 Eb4",
+      "midi_note_array": [
+        58,
+        58,
+        58,
+        58,
+        51,
+        53,
+        63,
+        63
+      ],
+      "semitone_interval_vector": [
+        0,
+        0,
+        0,
+        -7,
+        2,
+        10,
+        0
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* R R R D U U R",
+      "allen_forte_mod12_set": [
+        0,
+        5,
+        7
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:0,0,0,-7,+2,+10,0|DUR:1,1,1,1,1,1,1,1|ROMAN:Isus2-IVmaj9-vi7-Isus4",
+      "canonical_invariant_sha256": "853b0bf68ac6ae3bef259945784c6d16077bc1039332740a7c6c63ed96e7bd73",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_Eb_D2B0F573.mid",
+      "midi_sha256": "7c93a4a225d256c6f6934e141894164f14ea247bb5369a6e57b949c54ad21ac8",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_Eb_D2B0F573.musicxml",
+      "musicxml_sha256": "35e792797c6b29036c2a7ea8bce2085bca4fa26b1ff3983300c90ec0448633ca",
+      "wav_file": "genres/09_Cinematic_Ambient_Meditation_Healing/wav/OMPA_09_Eb_D2B0F573.wav",
+      "wav_sha256": "46cf991a2f9871056c7def7b7f0abbd96da934bdb7d8d28a4a04e16ecf809419",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "bac1de7dc4a64ff7ac59ded3c912b0d139591457bb5fd5f9d76d7fe070d89ba1",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "469654696a25cd1daae7c26b0d2b0cbd053d86ae8820467aed8c2583bcb87f17"
+        },
+        {
+          "position": "left",
+          "hash": "175df8faf4067bbac05a632d74c40de36090144de2b1a45bac4efb5cd510f176"
+        },
+        {
+          "position": "right",
+          "hash": "55f97f7aecb7870840523b562ff758cacf2fb9bb7abc8ba2840b916a980fff08"
+        }
+      ]
+    },
+    {
+      "index": 533,
+      "work_id": "OMPA_09_E_952AAA67",
+      "uuid": "952aaa67-a282-500b-8bd6-46a1ccc51713",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "E",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 66,
+      "bars": 4,
+      "voicing_type": "root_pos",
+      "arpeggio_style": "block_sustained",
+      "roman_progression": "Isus2 -> IVmaj9 -> vi7 -> Isus4",
+      "chord_progression": "Esus2 -> Amaj9 -> C#m7 -> Esus4",
+      "scientific_pitch_notation": "E4 B4 Ab4 Eb5 B4 Ab4 E4 E4",
+      "midi_note_array": [
+        64,
+        71,
+        68,
+        75,
+        71,
+        68,
+        64,
+        64
+      ],
+      "semitone_interval_vector": [
+        7,
+        -3,
+        7,
+        -4,
+        -3,
+        -4,
+        0
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U D U D D D R",
+      "allen_forte_mod12_set": [
+        0,
+        4,
+        7,
+        11
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+7,-3,+7,-4,-3,-4,0|DUR:1,1,1,1,1,1,1,1|ROMAN:Isus2-IVmaj9-vi7-Isus4",
+      "canonical_invariant_sha256": "75773b15584287f3a5e090d5c8f0fc8e618df0631212ad7b0279228763daa5f0",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_E_952AAA67.mid",
+      "midi_sha256": "e748d784e31ff9018fb4f77b9b9502ecb35355467af07dd388ca3182d8eb2cc1",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_E_952AAA67.musicxml",
+      "musicxml_sha256": "304b08ff37a02b79f568973f26f8b8c85b743e8153942eb23bdb3d2a9cde6db9",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "70bee8ee0163effb73acaf9f87d590cb54d251911e3e37336b3efced25aa2b53",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "7d8e91d0329b96422bef774a9dbc61aae173f8d449a5465aa9864b3c5b9bc9ca"
+        },
+        {
+          "position": "right",
+          "hash": "3cc84c32a5c238c02ce71542455db1da0fc7442cdf6860fdd26144ac2d842420"
+        },
+        {
+          "position": "left",
+          "hash": "8d973c8801ba66a985122a28090e984f0498ab3c8220b2b116b4040cd604cb68"
+        }
+      ]
+    },
+    {
+      "index": 534,
+      "work_id": "OMPA_09_F_87CBE7A0",
+      "uuid": "87cbe7a0-071e-5817-b181-ab99f61d9120",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "F",
+      "scale_mode": "hirajoshi_ambient",
+      "bpm": 74,
+      "bars": 4,
+      "voicing_type": "second_inv",
+      "arpeggio_style": "block_sustained",
+      "roman_progression": "Isus2 -> IVmaj9 -> vi7 -> Isus4",
+      "chord_progression": "Fsus2 -> Bbmaj9 -> Dm7 -> Fsus4",
+      "scientific_pitch_notation": "G4 Ab4 A4 C#5 C5 G5 Bb4 F4",
+      "midi_note_array": [
+        67,
+        68,
+        69,
+        73,
+        72,
+        79,
+        70,
+        65
+      ],
+      "semitone_interval_vector": [
+        1,
+        1,
+        4,
+        -1,
+        7,
+        -9,
+        -5
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U U U D U D D",
+      "allen_forte_mod12_set": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        10
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+1,+1,+4,-1,+7,-9,-5|DUR:1,1,1,1,1,1,1,1|ROMAN:Isus2-IVmaj9-vi7-Isus4",
+      "canonical_invariant_sha256": "34cf02a8eed7700549054fd3a29c880ca0e778dd93a3e07993396a03f0fd814e",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_F_87CBE7A0.mid",
+      "midi_sha256": "8bc0e160d898708cd29fb13fbb4535ed25ba64dc3f0a2b4b330ad865f54d4186",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_F_87CBE7A0.musicxml",
+      "musicxml_sha256": "9b3de6ddcddea056c7035edd29529889eb93de5746dcadb06e777842d3abd102",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "7d8e91d0329b96422bef774a9dbc61aae173f8d449a5465aa9864b3c5b9bc9ca",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "70bee8ee0163effb73acaf9f87d590cb54d251911e3e37336b3efced25aa2b53"
+        },
+        {
+          "position": "right",
+          "hash": "3cc84c32a5c238c02ce71542455db1da0fc7442cdf6860fdd26144ac2d842420"
+        },
+        {
+          "position": "left",
+          "hash": "8d973c8801ba66a985122a28090e984f0498ab3c8220b2b116b4040cd604cb68"
+        }
+      ]
+    },
+    {
+      "index": 535,
+      "work_id": "OMPA_09_Fs_563B22A6",
+      "uuid": "563b22a6-6d53-5d41-b5b2-caf1699e9d8e",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "F#",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 60,
+      "bars": 4,
+      "voicing_type": "spread_open",
+      "arpeggio_style": "block_sustained",
+      "roman_progression": "Isus2 -> IVmaj9 -> vi7 -> Isus4",
+      "chord_progression": "F#sus2 -> Bmaj9 -> Ebm7 -> F#sus4",
+      "scientific_pitch_notation": "F#4 C4 Eb4 Ab3 C#4 Eb4 F#4 F#4",
+      "midi_note_array": [
+        66,
+        60,
+        63,
+        56,
+        61,
+        63,
+        66,
+        66
+      ],
+      "semitone_interval_vector": [
+        -6,
+        3,
+        -7,
+        5,
+        2,
+        3,
+        0
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D U D U U U R",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        6,
+        7,
+        9
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-6,+3,-7,+5,+2,+3,0|DUR:1,1,1,1,1,1,1,1|ROMAN:Isus2-IVmaj9-vi7-Isus4",
+      "canonical_invariant_sha256": "d4bcb54d3e876b6275ad1c78eb3ba9101782eb829ce2b849e65c086fe177e715",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_Fs_563B22A6.mid",
+      "midi_sha256": "87227e93ab3cac0422aa0285b1843c579388d42f759f09714113313841ce59c2",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_Fs_563B22A6.musicxml",
+      "musicxml_sha256": "72b35acd272dcf6a2f4a45f5c5740146a06c43bfc0ee52e6377c5bd5a3114e38",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "f345cf0c48f3d4f01283b17bbf6e07c01f1dfa80b2d1c115359978b629b49a25",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "bfb837b02e2c3c98e60cfbc30fee96984463dcfe874ad5a918af2460b6c72177"
+        },
+        {
+          "position": "left",
+          "hash": "b6951a71d79f13f3c821db045938c56908d3ca30fb49ce84f77bf0ebad7a8ecf"
+        },
+        {
+          "position": "left",
+          "hash": "8d973c8801ba66a985122a28090e984f0498ab3c8220b2b116b4040cd604cb68"
+        }
+      ]
+    },
+    {
+      "index": 536,
+      "work_id": "OMPA_09_G_5DE5B271",
+      "uuid": "5de5b271-7a0d-5c24-940b-a1912526afc5",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "G",
+      "scale_mode": "ionian_major",
+      "bpm": 66,
+      "bars": 4,
+      "voicing_type": "root_pos",
+      "arpeggio_style": "block_sustained",
+      "roman_progression": "Isus2 -> IVmaj9 -> vi7 -> Isus4",
+      "chord_progression": "Gsus2 -> Cmaj9 -> Em7 -> Gsus4",
+      "scientific_pitch_notation": "D4 G4 E4 C4 D4 C4 C4 B4",
+      "midi_note_array": [
+        62,
+        67,
+        64,
+        60,
+        62,
+        60,
+        60,
+        71
+      ],
+      "semitone_interval_vector": [
+        5,
+        -3,
+        -4,
+        2,
+        -2,
+        0,
+        11
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U D D U D R U",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        5,
+        9,
+        10
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+5,-3,-4,+2,-2,0,+11|DUR:1,1,1,1,1,1,1,1|ROMAN:Isus2-IVmaj9-vi7-Isus4",
+      "canonical_invariant_sha256": "3b53ed7f68901ec435196cf94bf75ae26def7603a626cdc9e2cb4962f36fb698",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_G_5DE5B271.mid",
+      "midi_sha256": "856dce6bb5a2c8d7f40ce7529bac36dc7485176b3febbaa9a044cf80c732e332",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_G_5DE5B271.musicxml",
+      "musicxml_sha256": "ca7e0e8f542b405ae5daab9b4bd32128d24e7096c79d8619ded902fb83489684",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "bfb837b02e2c3c98e60cfbc30fee96984463dcfe874ad5a918af2460b6c72177",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "f345cf0c48f3d4f01283b17bbf6e07c01f1dfa80b2d1c115359978b629b49a25"
+        },
+        {
+          "position": "left",
+          "hash": "b6951a71d79f13f3c821db045938c56908d3ca30fb49ce84f77bf0ebad7a8ecf"
+        },
+        {
+          "position": "left",
+          "hash": "8d973c8801ba66a985122a28090e984f0498ab3c8220b2b116b4040cd604cb68"
+        }
+      ]
+    },
+    {
+      "index": 537,
+      "work_id": "OMPA_09_Ab_B9280A48",
+      "uuid": "b9280a48-9619-59c8-ad98-31538d18a878",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "Ab",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 74,
+      "bars": 4,
+      "voicing_type": "second_inv",
+      "arpeggio_style": "block_sustained",
+      "roman_progression": "Isus2 -> IVmaj9 -> vi7 -> Isus4",
+      "chord_progression": "Absus2 -> C#maj9 -> Fm7 -> Absus4",
+      "scientific_pitch_notation": "Ab4 Eb5 C5 G5 Eb5 C5 Ab4 Ab4",
+      "midi_note_array": [
+        68,
+        75,
+        72,
+        79,
+        75,
+        72,
+        68,
+        68
+      ],
+      "semitone_interval_vector": [
+        7,
+        -3,
+        7,
+        -4,
+        -3,
+        -4,
+        0
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U D U D D D R",
+      "allen_forte_mod12_set": [
+        0,
+        4,
+        7,
+        11
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+7,-3,+7,-4,-3,-4,0|DUR:1,1,1,1,1,1,1,1|ROMAN:Isus2-IVmaj9-vi7-Isus4",
+      "canonical_invariant_sha256": "75773b15584287f3a5e090d5c8f0fc8e618df0631212ad7b0279228763daa5f0",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_Ab_B9280A48.mid",
+      "midi_sha256": "c8129ef3f7fca5c74dc6cb12db465f7fb446b3c5fe11d2c90fb2b83d1c32e60c",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_Ab_B9280A48.musicxml",
+      "musicxml_sha256": "a9c88025876d457427c6e9a1c609ff5948500f02318cb46570532cdce525d51f",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "fdb35f1d75b691b60e301c8a39dfe9b51975e1ea5271db964a2b9dff51871552",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "fedd00437735ce43ef1b98a0d0addbc2022844f51a47bb3a408227d5b9a50201"
+        },
+        {
+          "position": "right",
+          "hash": "c4d7e28018aca3410b1d5f8159635d1220aa628e645d4223243adb37a4306e75"
+        },
+        {
+          "position": "right",
+          "hash": "d2838c30a8a1086100f520d0c50b0a549b816737b463ab03c6a25ef8bd7c6f59"
+        }
+      ]
+    },
+    {
+      "index": 538,
+      "work_id": "OMPA_09_A_19647409",
+      "uuid": "19647409-221a-5d16-823b-1222bbded499",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "A",
+      "scale_mode": "major_pentatonic",
+      "bpm": 60,
+      "bars": 4,
+      "voicing_type": "spread_open",
+      "arpeggio_style": "block_sustained",
+      "roman_progression": "Isus2 -> IVmaj9 -> vi7 -> Isus4",
+      "chord_progression": "Asus2 -> Dmaj9 -> F#m7 -> Asus4",
+      "scientific_pitch_notation": "B5 C#5 A4 B5 E5 F#5 E5 A4",
+      "midi_note_array": [
+        83,
+        73,
+        69,
+        83,
+        76,
+        78,
+        76,
+        69
+      ],
+      "semitone_interval_vector": [
+        -10,
+        -4,
+        14,
+        -7,
+        2,
+        -2,
+        -7
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D D U D U D D",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        5,
+        7,
+        10
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-10,-4,+14,-7,+2,-2,-7|DUR:1,1,1,1,1,1,1,1|ROMAN:Isus2-IVmaj9-vi7-Isus4",
+      "canonical_invariant_sha256": "fb55f372221b8c7e5248c41b550404e460b4d4620ca4ec29f48d608900e138ad",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_A_19647409.mid",
+      "midi_sha256": "3818f62ad80b04ff086b6a6038d7b944e1855a42eccf5b7829bd2add69eae9a6",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_A_19647409.musicxml",
+      "musicxml_sha256": "a957970830115942af321ac1160d0c4520f35050cb4005d626d8cd26b1275eea",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "fedd00437735ce43ef1b98a0d0addbc2022844f51a47bb3a408227d5b9a50201",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "fdb35f1d75b691b60e301c8a39dfe9b51975e1ea5271db964a2b9dff51871552"
+        },
+        {
+          "position": "right",
+          "hash": "c4d7e28018aca3410b1d5f8159635d1220aa628e645d4223243adb37a4306e75"
+        },
+        {
+          "position": "right",
+          "hash": "d2838c30a8a1086100f520d0c50b0a549b816737b463ab03c6a25ef8bd7c6f59"
+        }
+      ]
+    },
+    {
+      "index": 539,
+      "work_id": "OMPA_09_Bb_A6806DDC",
+      "uuid": "a6806ddc-241d-5627-b3dd-e0664c29406c",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "Bb",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 66,
+      "bars": 4,
+      "voicing_type": "root_pos",
+      "arpeggio_style": "block_sustained",
+      "roman_progression": "Isus2 -> IVmaj9 -> vi7 -> Isus4",
+      "chord_progression": "Bbsus2 -> Ebmaj9 -> Gm7 -> Bbsus4",
+      "scientific_pitch_notation": "Bb4 E4 G4 C4 F4 G4 Bb4 Bb4",
+      "midi_note_array": [
+        70,
+        64,
+        67,
+        60,
+        65,
+        67,
+        70,
+        70
+      ],
+      "semitone_interval_vector": [
+        -6,
+        3,
+        -7,
+        5,
+        2,
+        3,
+        0
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D U D U U U R",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        6,
+        7,
+        9
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-6,+3,-7,+5,+2,+3,0|DUR:1,1,1,1,1,1,1,1|ROMAN:Isus2-IVmaj9-vi7-Isus4",
+      "canonical_invariant_sha256": "d4bcb54d3e876b6275ad1c78eb3ba9101782eb829ce2b849e65c086fe177e715",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_Bb_A6806DDC.mid",
+      "midi_sha256": "f9ab4a15ae9f1a6c44ebeb5c2abe7a23d7173fa1faf7b557b7731379cb98d2cc",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_Bb_A6806DDC.musicxml",
+      "musicxml_sha256": "a1ff52e883856befb7d041a52777bdf4a7319447ab0f1a8673ddc3d6b4dd41aa",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "e6a2f8fec3839cf40bf07dde40a0e71e0d65222c3c4af474f8d2fd0f4b4288a1",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "ee515cce132e54d20f435e5fa2eda9f20efb66c89fa2b8749fbcc4fb6663aff8"
+        },
+        {
+          "position": "left",
+          "hash": "320dee8649bfceda5e541ce565836285826b80f344680aef5b92e727bf1071a3"
+        },
+        {
+          "position": "right",
+          "hash": "d2838c30a8a1086100f520d0c50b0a549b816737b463ab03c6a25ef8bd7c6f59"
+        }
+      ]
+    },
+    {
+      "index": 540,
+      "work_id": "OMPA_09_B_7AC551E0",
+      "uuid": "7ac551e0-f962-51b1-81e0-140046152d90",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "B",
+      "scale_mode": "hirajoshi_ambient",
+      "bpm": 74,
+      "bars": 4,
+      "voicing_type": "second_inv",
+      "arpeggio_style": "block_sustained",
+      "roman_progression": "Isus2 -> IVmaj9 -> vi7 -> Isus4",
+      "chord_progression": "Bsus2 -> Emaj9 -> Abm7 -> Bsus4",
+      "scientific_pitch_notation": "C#4 F#4 Eb5 C#4 B3 F#4 B3 B4",
+      "midi_note_array": [
+        61,
+        66,
+        75,
+        61,
+        59,
+        66,
+        59,
+        71
+      ],
+      "semitone_interval_vector": [
+        5,
+        9,
+        -14,
+        -2,
+        7,
+        -7,
+        12
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U U D D U D U",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        5,
+        10
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+5,+9,-14,-2,+7,-7,+12|DUR:1,1,1,1,1,1,1,1|ROMAN:Isus2-IVmaj9-vi7-Isus4",
+      "canonical_invariant_sha256": "4c39e68431764aee659ac44af9eb31414cd80fd42403bd4d3cf11af747665060",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_B_7AC551E0.mid",
+      "midi_sha256": "3640d50a7402e80369c8e2fe38d7f5b80ad3e79c0735e26c041499cd576be201",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_B_7AC551E0.musicxml",
+      "musicxml_sha256": "a04720f14d2fc30eeb2c5da301544836c4048d7d287bc12112ce551e3a318e5b",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "ee515cce132e54d20f435e5fa2eda9f20efb66c89fa2b8749fbcc4fb6663aff8",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "e6a2f8fec3839cf40bf07dde40a0e71e0d65222c3c4af474f8d2fd0f4b4288a1"
+        },
+        {
+          "position": "left",
+          "hash": "320dee8649bfceda5e541ce565836285826b80f344680aef5b92e727bf1071a3"
+        },
+        {
+          "position": "right",
+          "hash": "d2838c30a8a1086100f520d0c50b0a549b816737b463ab03c6a25ef8bd7c6f59"
+        }
+      ]
+    },
+    {
+      "index": 541,
+      "work_id": "OMPA_09_C_835CAFF8",
+      "uuid": "835caff8-986e-5083-a18f-3304a6bc793a",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "C",
+      "scale_mode": "ionian_major",
+      "bpm": 60,
+      "bars": 8,
+      "voicing_type": "root_pos",
+      "arpeggio_style": "arp_up",
+      "roman_progression": "Imaj9 -> IVmaj9 -> Imaj9 -> IVmaj9",
+      "chord_progression": "Cmaj9 -> Fmaj9 -> Cmaj9 -> Fmaj9",
+      "scientific_pitch_notation": "E3 D4 C4 F3 B3 F3 A3 F4 E3 A3 F4 F3 E3 B3 A3 C4",
+      "midi_note_array": [
+        52,
+        62,
+        60,
+        53,
+        59,
+        53,
+        57,
+        65,
+        52,
+        57,
+        65,
+        53,
+        52,
+        59,
+        57,
+        60
+      ],
+      "semitone_interval_vector": [
+        10,
+        -2,
+        -7,
+        6,
+        -6,
+        4,
+        8,
+        -13,
+        5,
+        8,
+        -12,
+        -1,
+        7,
+        -2,
+        3
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U D D U D U U D U U D D U D U",
+      "allen_forte_mod12_set": [
+        0,
+        1,
+        5,
+        7,
+        8,
+        10
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+10,-2,-7,+6,-6,+4,+8,-13,+5,+8,-12,-1,+7,-2,+3|DUR:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1|ROMAN:Imaj9-IVmaj9-Imaj9-IVmaj9",
+      "canonical_invariant_sha256": "fa9420688ec0edeeae79aafe0680ddb9712da361d75d3ce6264ed6508fd54591",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_C_835CAFF8.mid",
+      "midi_sha256": "dee45a09699c923ba77996d2d7445f42de020ca49473365321bb41d868e9773f",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_C_835CAFF8.musicxml",
+      "musicxml_sha256": "5d6e132352fc1e70db31cbdb7b65e558dc276024e4b64a4fa4f238bd95c70a17",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "75c6c74ab75dd78cabab38a11636a3642d0269ee6fb8d392169dc32aa67f0a59",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "ca6a639a9d8bda9d74f5f2d5da1d1c165147e998663d926d1a1b2f21cc366110"
+        },
+        {
+          "position": "right",
+          "hash": "6fbdf9fb76c44398514a0381aa4af0d510264a8c34b9229cd86ca4676916523a"
+        },
+        {
+          "position": "left",
+          "hash": "acbd8fcab1f24e11db5fdd1a972266203b93a239b829782123ab2c5576eb7b2a"
+        }
+      ]
+    },
+    {
+      "index": 542,
+      "work_id": "OMPA_09_Cs_EA9ACE0D",
+      "uuid": "ea9ace0d-c48f-58c7-9e0c-5db194494be9",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "C#",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 66,
+      "bars": 8,
+      "voicing_type": "second_inv",
+      "arpeggio_style": "arp_up",
+      "roman_progression": "Imaj9 -> IVmaj9 -> Imaj9 -> IVmaj9",
+      "chord_progression": "C#maj9 -> F#maj9 -> C#maj9 -> F#maj9",
+      "scientific_pitch_notation": "C#4 Ab4 Ab4 Bb4 Ab4 G4 F4 C4 Eb4 Ab4 F4 C#5 Ab4 F4 F4 C4",
+      "midi_note_array": [
+        61,
+        68,
+        68,
+        70,
+        68,
+        67,
+        65,
+        60,
+        63,
+        68,
+        65,
+        73,
+        68,
+        65,
+        65,
+        60
+      ],
+      "semitone_interval_vector": [
+        7,
+        0,
+        2,
+        -2,
+        -1,
+        -2,
+        -5,
+        3,
+        5,
+        -3,
+        8,
+        -5,
+        -3,
+        0,
+        -5
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U R U D D D D U U D U D D R D",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        4,
+        6,
+        7,
+        9,
+        11
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+7,0,+2,-2,-1,-2,-5,+3,+5,-3,+8,-5,-3,0,-5|DUR:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1|ROMAN:Imaj9-IVmaj9-Imaj9-IVmaj9",
+      "canonical_invariant_sha256": "f02282491270800aea9fa0ae35951705495fcecb597653c0a5670db0cce05e76",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_Cs_EA9ACE0D.mid",
+      "midi_sha256": "fa5de941ee5a0e7e32cae0409fe5c8b43b948eb5bb5e31715a89a4089553c69c",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_Cs_EA9ACE0D.musicxml",
+      "musicxml_sha256": "a7135e7993d1616cb1c09b34547c815080d4ea8cb832f10a7ceca9f7b82cfc3e",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "ca6a639a9d8bda9d74f5f2d5da1d1c165147e998663d926d1a1b2f21cc366110",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "75c6c74ab75dd78cabab38a11636a3642d0269ee6fb8d392169dc32aa67f0a59"
+        },
+        {
+          "position": "right",
+          "hash": "6fbdf9fb76c44398514a0381aa4af0d510264a8c34b9229cd86ca4676916523a"
+        },
+        {
+          "position": "left",
+          "hash": "acbd8fcab1f24e11db5fdd1a972266203b93a239b829782123ab2c5576eb7b2a"
+        }
+      ]
+    },
+    {
+      "index": 543,
+      "work_id": "OMPA_09_D_A6AB05B6",
+      "uuid": "a6ab05b6-4587-5e2e-afdd-143c10e51516",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "D",
+      "scale_mode": "major_pentatonic",
+      "bpm": 74,
+      "bars": 8,
+      "voicing_type": "spread_open",
+      "arpeggio_style": "arp_up",
+      "roman_progression": "Imaj9 -> IVmaj9 -> Imaj9 -> IVmaj9",
+      "chord_progression": "Dmaj9 -> Gmaj9 -> Dmaj9 -> Gmaj9",
+      "scientific_pitch_notation": "F#5 F#4 D4 F#5 D5 B4 D5 D4 A4 D5 D4 B4 A5 B4 G4 A4",
+      "midi_note_array": [
+        78,
+        66,
+        62,
+        78,
+        74,
+        71,
+        74,
+        62,
+        69,
+        74,
+        62,
+        71,
+        81,
+        71,
+        67,
+        69
+      ],
+      "semitone_interval_vector": [
+        -12,
+        -4,
+        16,
+        -4,
+        -3,
+        3,
+        -12,
+        7,
+        5,
+        -12,
+        9,
+        10,
+        -10,
+        -4,
+        2
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D D U D D U D U U D U U D D U",
+      "allen_forte_mod12_set": [
+        0,
+        1,
+        3,
+        5,
+        8
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-12,-4,+16,-4,-3,+3,-12,+7,+5,-12,+9,+10,-10,-4,+2|DUR:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1|ROMAN:Imaj9-IVmaj9-Imaj9-IVmaj9",
+      "canonical_invariant_sha256": "25ade60c96e82cc5c0dd8566fe40b928154a956424f1cc87a6092cf65c49ee61",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_D_A6AB05B6.mid",
+      "midi_sha256": "d7fd309d7f138f5c22dc3aa6380cec02ed9b19ae3b0d99fd19d3b747d5616247",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_D_A6AB05B6.musicxml",
+      "musicxml_sha256": "73aad2a2ca2f2f82b00e65440fc405610386d09fc99d2197d8b47b0adf429083",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "3e3867ce6d97dfdf1fbce8824a62a41a82858c10ed07d590a9916b25488ec7ca",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "2c06b6c8dac11707150430f2787bc449228c234fe366a79f8a4fcd1d1e3c9d44"
+        },
+        {
+          "position": "left",
+          "hash": "c8cf79855f49b18ca0b52a489616da5c8d091e44edb51c886b08ca89b4b3d010"
+        },
+        {
+          "position": "left",
+          "hash": "acbd8fcab1f24e11db5fdd1a972266203b93a239b829782123ab2c5576eb7b2a"
+        }
+      ]
+    },
+    {
+      "index": 544,
+      "work_id": "OMPA_09_Eb_7B837BFD",
+      "uuid": "7b837bfd-6794-59bd-a189-77e6400ccd19",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "Eb",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 60,
+      "bars": 8,
+      "voicing_type": "root_pos",
+      "arpeggio_style": "arp_up",
+      "roman_progression": "Imaj9 -> IVmaj9 -> Imaj9 -> IVmaj9",
+      "chord_progression": "Ebmaj9 -> Abmaj9 -> Ebmaj9 -> Abmaj9",
+      "scientific_pitch_notation": "Eb4 Bb3 C4 F3 Bb3 Bb3 Eb4 F4 Eb4 G3 Eb4 F3 Bb3 D4 Eb4 Eb4",
+      "midi_note_array": [
+        63,
+        58,
+        60,
+        53,
+        58,
+        58,
+        63,
+        65,
+        63,
+        55,
+        63,
+        53,
+        58,
+        62,
+        63,
+        63
+      ],
+      "semitone_interval_vector": [
+        -5,
+        2,
+        -7,
+        5,
+        0,
+        5,
+        2,
+        -2,
+        -8,
+        8,
+        -10,
+        5,
+        4,
+        1,
+        0
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D U D U R U U D D U D U U U R",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        4,
+        7,
+        9,
+        11
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-5,+2,-7,+5,0,+5,+2,-2,-8,+8,-10,+5,+4,+1,0|DUR:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1|ROMAN:Imaj9-IVmaj9-Imaj9-IVmaj9",
+      "canonical_invariant_sha256": "86b768f410668478e67203e92549ade39b623ee63c2653e39f17ca9c957cac2d",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_Eb_7B837BFD.mid",
+      "midi_sha256": "d1a1120e8bcc64ed138d2bd3ff4524765af98ba7f0b979daf745656b64a16cf3",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_Eb_7B837BFD.musicxml",
+      "musicxml_sha256": "b2e5807aa436fc98e51c502fcccd347ffc835b45c45d8c0c9ed320bd4e66bd01",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "2c06b6c8dac11707150430f2787bc449228c234fe366a79f8a4fcd1d1e3c9d44",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "3e3867ce6d97dfdf1fbce8824a62a41a82858c10ed07d590a9916b25488ec7ca"
+        },
+        {
+          "position": "left",
+          "hash": "c8cf79855f49b18ca0b52a489616da5c8d091e44edb51c886b08ca89b4b3d010"
+        },
+        {
+          "position": "left",
+          "hash": "acbd8fcab1f24e11db5fdd1a972266203b93a239b829782123ab2c5576eb7b2a"
+        }
+      ]
+    },
+    {
+      "index": 545,
+      "work_id": "OMPA_09_E_A322CD30",
+      "uuid": "a322cd30-7aec-53d1-832a-8eab0e5c8b3e",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "E",
+      "scale_mode": "hirajoshi_ambient",
+      "bpm": 66,
+      "bars": 8,
+      "voicing_type": "second_inv",
+      "arpeggio_style": "arp_up",
+      "roman_progression": "Imaj9 -> IVmaj9 -> Imaj9 -> IVmaj9",
+      "chord_progression": "Emaj9 -> Amaj9 -> Emaj9 -> Amaj9",
+      "scientific_pitch_notation": "F#3 B3 B4 F#3 E3 C4 B3 E4 B3 B3 E4 C4 E3 F#3 Ab4 E4",
+      "midi_note_array": [
+        54,
+        59,
+        71,
+        54,
+        52,
+        60,
+        59,
+        64,
+        59,
+        59,
+        64,
+        60,
+        52,
+        54,
+        68,
+        64
+      ],
+      "semitone_interval_vector": [
+        5,
+        12,
+        -17,
+        -2,
+        8,
+        -1,
+        5,
+        -5,
+        0,
+        5,
+        -4,
+        -8,
+        2,
+        14,
+        -4
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U U D D U D U D R U D D U U D",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        5,
+        6,
+        10
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+5,+12,-17,-2,+8,-1,+5,-5,0,+5,-4,-8,+2,+14,-4|DUR:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1|ROMAN:Imaj9-IVmaj9-Imaj9-IVmaj9",
+      "canonical_invariant_sha256": "371b8b55967295b2a9622421b10c6aca1df91f60df2f5f5d4b2f3fa4bd7c8e99",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_E_A322CD30.mid",
+      "midi_sha256": "582bfad8dc1ab8e9d821113f5ee85b4ff877c4a053c5060fa0c1d836d667e12b",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_E_A322CD30.musicxml",
+      "musicxml_sha256": "8135c9334c7040dd2b7513c9d251969cd93847a942a66926fdd7ab40aa542351",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "020d888826599efb2c5bd4b433ae15ddfcc69656e18e98b5f40aa87dea3c5042",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "dce684ca214819357a86e6e69f3e7bcee7f9f7f1e76183ba60c41cb8a19e2e3c"
+        },
+        {
+          "position": "right",
+          "hash": "4010467958ffc6f52cf8138ad2e9768c26e08c58ed6956387448e10bd38c527a"
+        },
+        {
+          "position": "right",
+          "hash": "33a7eb75590e4e2c128df9b12ac2802671335a1b57ff143719fb0214437d11a2"
+        }
+      ]
+    },
+    {
+      "index": 546,
+      "work_id": "OMPA_09_F_E7ECD8C8",
+      "uuid": "e7ecd8c8-2b88-5f7c-8bcc-7f6c736a1ddf",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "F",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 74,
+      "bars": 8,
+      "voicing_type": "spread_open",
+      "arpeggio_style": "arp_up",
+      "roman_progression": "Imaj9 -> IVmaj9 -> Imaj9 -> IVmaj9",
+      "chord_progression": "Fmaj9 -> Bbmaj9 -> Fmaj9 -> Bbmaj9",
+      "scientific_pitch_notation": "G4 C5 Bb4 F5 C5 A4 Bb4 E4 F4 D5 Bb4 D5 C5 A4 F4 G4",
+      "midi_note_array": [
+        67,
+        72,
+        70,
+        77,
+        72,
+        69,
+        70,
+        64,
+        65,
+        74,
+        70,
+        74,
+        72,
+        69,
+        65,
+        67
+      ],
+      "semitone_interval_vector": [
+        5,
+        -2,
+        7,
+        -5,
+        -3,
+        1,
+        -6,
+        1,
+        9,
+        -4,
+        4,
+        -2,
+        -3,
+        -4,
+        2
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U D U D D U D U U D U D D D U",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        3,
+        5,
+        7,
+        9,
+        10
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+5,-2,+7,-5,-3,+1,-6,+1,+9,-4,+4,-2,-3,-4,+2|DUR:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1|ROMAN:Imaj9-IVmaj9-Imaj9-IVmaj9",
+      "canonical_invariant_sha256": "3c5e4912272bfe358bbf2c2f91e146006e7ff204f4276051c92838a443a93f88",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_F_E7ECD8C8.mid",
+      "midi_sha256": "26e3da41d42afcdac82605e38f26221bceff3c1c7cec2e64136147eab6da2b22",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_F_E7ECD8C8.musicxml",
+      "musicxml_sha256": "489a82b565cca095be7bd74bccaa1705f9068190e10e83f04ceea1831fe078ee",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "dce684ca214819357a86e6e69f3e7bcee7f9f7f1e76183ba60c41cb8a19e2e3c",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "020d888826599efb2c5bd4b433ae15ddfcc69656e18e98b5f40aa87dea3c5042"
+        },
+        {
+          "position": "right",
+          "hash": "4010467958ffc6f52cf8138ad2e9768c26e08c58ed6956387448e10bd38c527a"
+        },
+        {
+          "position": "right",
+          "hash": "33a7eb75590e4e2c128df9b12ac2802671335a1b57ff143719fb0214437d11a2"
+        }
+      ]
+    },
+    {
+      "index": 547,
+      "work_id": "OMPA_09_Fs_CEB6D75E",
+      "uuid": "ceb6d75e-ff67-5653-bd38-dc2b6537fe5b",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "F#",
+      "scale_mode": "ionian_major",
+      "bpm": 60,
+      "bars": 8,
+      "voicing_type": "root_pos",
+      "arpeggio_style": "arp_up",
+      "roman_progression": "Imaj9 -> IVmaj9 -> Imaj9 -> IVmaj9",
+      "chord_progression": "F#maj9 -> Bmaj9 -> F#maj9 -> Bmaj9",
+      "scientific_pitch_notation": "C#5 Eb5 F#4 C#5 Ab5 C#5 Bb4 B4 C#5 Bb4 B4 C#5 F5 F#5 Bb4 F#4",
+      "midi_note_array": [
+        73,
+        75,
+        66,
+        73,
+        80,
+        73,
+        70,
+        71,
+        73,
+        70,
+        71,
+        73,
+        77,
+        78,
+        70,
+        66
+      ],
+      "semitone_interval_vector": [
+        2,
+        -9,
+        7,
+        7,
+        -7,
+        -3,
+        1,
+        2,
+        -3,
+        1,
+        2,
+        4,
+        1,
+        -8,
+        -4
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U D U U D D U U D U U U U D D",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        4,
+        5,
+        7,
+        9,
+        10
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+2,-9,+7,+7,-7,-3,+1,+2,-3,+1,+2,+4,+1,-8,-4|DUR:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1|ROMAN:Imaj9-IVmaj9-Imaj9-IVmaj9",
+      "canonical_invariant_sha256": "9340649f50ff201a47cbcc09ad4e7ba4f99c2d105b878ed975895576bf5a2931",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_Fs_CEB6D75E.mid",
+      "midi_sha256": "e340f859768aa2209c887cbfc19f80f21a6724f23f48524c583ecac5a0380dcf",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_Fs_CEB6D75E.musicxml",
+      "musicxml_sha256": "b95283e4f79927d71917a9d54dd94d6f0cefcd198d223079a1361b3181d70330",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "19894b6064ea53e2003e0700ac2d020f37d385b73ead1eef952099cd3f22e8a4",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "de237f3efc309529b782e2e8960fbbedb3f882320db0644795fdb8a22ed38ff1"
+        },
+        {
+          "position": "left",
+          "hash": "c09b7102800e72fedd82a4dfcad8b331e2ebe7bbed10f26dd9b803ebd9eb2e7f"
+        },
+        {
+          "position": "right",
+          "hash": "33a7eb75590e4e2c128df9b12ac2802671335a1b57ff143719fb0214437d11a2"
+        }
+      ]
+    },
+    {
+      "index": 548,
+      "work_id": "OMPA_09_G_1247CA9D",
+      "uuid": "1247ca9d-7844-517a-ba5e-09d15b705af0",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "G",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 66,
+      "bars": 8,
+      "voicing_type": "second_inv",
+      "arpeggio_style": "arp_up",
+      "roman_progression": "Imaj9 -> IVmaj9 -> Imaj9 -> IVmaj9",
+      "chord_progression": "Gmaj9 -> Cmaj9 -> Gmaj9 -> Cmaj9",
+      "scientific_pitch_notation": "G4 B3 G4 A3 D4 F#4 G4 G4 A4 B3 E4 B3 D4 D4 G4 G4",
+      "midi_note_array": [
+        67,
+        59,
+        67,
+        57,
+        62,
+        66,
+        67,
+        67,
+        69,
+        59,
+        64,
+        59,
+        62,
+        62,
+        67,
+        67
+      ],
+      "semitone_interval_vector": [
+        -8,
+        8,
+        -10,
+        5,
+        4,
+        1,
+        0,
+        2,
+        -10,
+        5,
+        -5,
+        3,
+        0,
+        5,
+        0
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D U D U U U R U D U D U R U R",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        4,
+        7,
+        9,
+        11
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-8,+8,-10,+5,+4,+1,0,+2,-10,+5,-5,+3,0,+5,0|DUR:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1|ROMAN:Imaj9-IVmaj9-Imaj9-IVmaj9",
+      "canonical_invariant_sha256": "db0b41e7bf6b6cb876d95cc94ae9d253e3f3039bf94e381df0f0f38211392e2e",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_G_1247CA9D.mid",
+      "midi_sha256": "d76d12be3cd3bed425709647ea0d6aa0e1c4544fa1244aa38109e45dcf2ddb03",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_G_1247CA9D.musicxml",
+      "musicxml_sha256": "3124361da1c6399a6ed71314a9d3d7682447aee93333b8da25845fdec9c477c2",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "de237f3efc309529b782e2e8960fbbedb3f882320db0644795fdb8a22ed38ff1",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "19894b6064ea53e2003e0700ac2d020f37d385b73ead1eef952099cd3f22e8a4"
+        },
+        {
+          "position": "left",
+          "hash": "c09b7102800e72fedd82a4dfcad8b331e2ebe7bbed10f26dd9b803ebd9eb2e7f"
+        },
+        {
+          "position": "right",
+          "hash": "33a7eb75590e4e2c128df9b12ac2802671335a1b57ff143719fb0214437d11a2"
+        }
+      ]
+    },
+    {
+      "index": 549,
+      "work_id": "OMPA_09_Ab_CAE4E60C",
+      "uuid": "cae4e60c-e97a-59a5-8700-5e5c89a23ef5",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "Ab",
+      "scale_mode": "major_pentatonic",
+      "bpm": 74,
+      "bars": 8,
+      "voicing_type": "spread_open",
+      "arpeggio_style": "arp_up",
+      "roman_progression": "Imaj9 -> IVmaj9 -> Imaj9 -> IVmaj9",
+      "chord_progression": "Abmaj9 -> C#maj9 -> Abmaj9 -> C#maj9",
+      "scientific_pitch_notation": "Eb4 Eb4 Ab4 F4 Ab3 Bb3 Ab4 Ab4 Bb3 Bb4 Ab4 Bb3 Eb4 Bb3 Eb4 Eb5",
+      "midi_note_array": [
+        63,
+        63,
+        68,
+        65,
+        56,
+        58,
+        68,
+        68,
+        58,
+        70,
+        68,
+        58,
+        63,
+        58,
+        63,
+        75
+      ],
+      "semitone_interval_vector": [
+        0,
+        5,
+        -3,
+        -9,
+        2,
+        10,
+        0,
+        -10,
+        12,
+        -2,
+        -10,
+        5,
+        -5,
+        5,
+        12
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* R U D D U U R D U D D U D U U",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        5,
+        7
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:0,+5,-3,-9,+2,+10,0,-10,+12,-2,-10,+5,-5,+5,+12|DUR:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1|ROMAN:Imaj9-IVmaj9-Imaj9-IVmaj9",
+      "canonical_invariant_sha256": "ec0edda38ad7670aed0f4e479e235b8a1032a7106b0cf71bd6dced94b3cc8148",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_Ab_CAE4E60C.mid",
+      "midi_sha256": "e5028ef7f756b8c4abf127e32b4620105a994e6fd395a0b98fb769a043dfc1b6",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_Ab_CAE4E60C.musicxml",
+      "musicxml_sha256": "7ea64a077fa2d1b5313908e27267ee92d673a8a0af48ae99572ef18b21abb653",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "b5e47fff81516b89e34b96e7be03ae72ea471f4bcd60ea59db26cdaecb0f7444",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "b07f2ed83ab5725bed704cd34d119932e9c611da5dfd432d74369e348a6be30a"
+        },
+        {
+          "position": "right",
+          "hash": "b6e0dfa6621a2cdafe43aa9ad2ceb5c02c717e8259ed96f1cbc25792207e2c25"
+        },
+        {
+          "position": "left",
+          "hash": "5fb355dbbbd17f166b916739d8f30b6882ebbf91abb0024693e0a0bfd86c5c70"
+        }
+      ]
+    },
+    {
+      "index": 550,
+      "work_id": "OMPA_09_A_1B55389C",
+      "uuid": "1b55389c-2216-5fcd-b0b9-ea775aca83c7",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "A",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 60,
+      "bars": 8,
+      "voicing_type": "root_pos",
+      "arpeggio_style": "arp_up",
+      "roman_progression": "Imaj9 -> IVmaj9 -> Imaj9 -> IVmaj9",
+      "chord_progression": "Amaj9 -> Dmaj9 -> Amaj9 -> Dmaj9",
+      "scientific_pitch_notation": "A4 F#5 C#5 F#5 Ab5 C#5 C#5 B4 A4 E5 E5 F#5 E5 Eb5 C#5 Ab4",
+      "midi_note_array": [
+        69,
+        78,
+        73,
+        78,
+        80,
+        73,
+        73,
+        71,
+        69,
+        76,
+        76,
+        78,
+        76,
+        75,
+        73,
+        68
+      ],
+      "semitone_interval_vector": [
+        9,
+        -5,
+        5,
+        2,
+        -7,
+        0,
+        -2,
+        -2,
+        7,
+        0,
+        2,
+        -2,
+        -1,
+        -2,
+        -5
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U D U U D R D D U R U D D D D",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        4,
+        6,
+        7,
+        9,
+        11
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+9,-5,+5,+2,-7,0,-2,-2,+7,0,+2,-2,-1,-2,-5|DUR:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1|ROMAN:Imaj9-IVmaj9-Imaj9-IVmaj9",
+      "canonical_invariant_sha256": "4bde98bab05467bee04b7824171dd15b9d479f9e88f4cabefa300ba497d7c201",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_A_1B55389C.mid",
+      "midi_sha256": "797da30acca6e99124c8303cc8bb74bd86b19c68d1aec44d8df0faaefad6c9f9",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_A_1B55389C.musicxml",
+      "musicxml_sha256": "8594fceb4afa904d870742b3ce2172b66fa59ce0d8722f0efd0522f40c72228c",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "b07f2ed83ab5725bed704cd34d119932e9c611da5dfd432d74369e348a6be30a",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "b5e47fff81516b89e34b96e7be03ae72ea471f4bcd60ea59db26cdaecb0f7444"
+        },
+        {
+          "position": "right",
+          "hash": "b6e0dfa6621a2cdafe43aa9ad2ceb5c02c717e8259ed96f1cbc25792207e2c25"
+        },
+        {
+          "position": "left",
+          "hash": "5fb355dbbbd17f166b916739d8f30b6882ebbf91abb0024693e0a0bfd86c5c70"
+        }
+      ]
+    },
+    {
+      "index": 551,
+      "work_id": "OMPA_09_Bb_F149739F",
+      "uuid": "f149739f-ac32-5e50-9316-b3a2f9d77ce5",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "Bb",
+      "scale_mode": "hirajoshi_ambient",
+      "bpm": 66,
+      "bars": 8,
+      "voicing_type": "second_inv",
+      "arpeggio_style": "arp_up",
+      "roman_progression": "Imaj9 -> IVmaj9 -> Imaj9 -> IVmaj9",
+      "chord_progression": "Bbmaj9 -> Ebmaj9 -> Bbmaj9 -> Ebmaj9",
+      "scientific_pitch_notation": "F5 C#5 F5 F#5 Bb5 C#6 D5 Bb4 D6 C#5 Bb4 C#6 Bb5 F#5 Bb5 Bb4",
+      "midi_note_array": [
+        77,
+        73,
+        77,
+        78,
+        82,
+        85,
+        74,
+        70,
+        86,
+        73,
+        70,
+        85,
+        82,
+        78,
+        82,
+        70
+      ],
+      "semitone_interval_vector": [
+        -4,
+        4,
+        1,
+        4,
+        3,
+        -11,
+        -4,
+        16,
+        -13,
+        -3,
+        15,
+        -3,
+        -4,
+        4,
+        -12
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D U U U U D D U D D U D D U D",
+      "allen_forte_mod12_set": [
+        0,
+        1,
+        5,
+        8,
+        9
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-4,+4,+1,+4,+3,-11,-4,+16,-13,-3,+15,-3,-4,+4,-12|DUR:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1|ROMAN:Imaj9-IVmaj9-Imaj9-IVmaj9",
+      "canonical_invariant_sha256": "2da509d4e366e8e983bc86a859923ec5d43375f95dc50b3ab7681d00605f4589",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_Bb_F149739F.mid",
+      "midi_sha256": "f4f1f92ab6c072081e7387c6ca2e2eac1dab5aff88a8fdfcd641c9e9832c359e",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_Bb_F149739F.musicxml",
+      "musicxml_sha256": "1fb0e7b83d57e98f042a75f80af002dbde76d7ed9f088c8a711707a61e065693",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "01d4693822a5a1fb1b6c09e92dc3ff10ac733399a112ba6b45e0cdedfff7c657",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "8199a3276eb38376e3565682da36a568e4eb4264e65ecbd73b24e00e886a2beb"
+        },
+        {
+          "position": "left",
+          "hash": "c7a387612a8e12e416582ffec3aa9251abe4035a8bec449ceab060ba14776107"
+        },
+        {
+          "position": "left",
+          "hash": "5fb355dbbbd17f166b916739d8f30b6882ebbf91abb0024693e0a0bfd86c5c70"
+        }
+      ]
+    },
+    {
+      "index": 552,
+      "work_id": "OMPA_09_B_476E6BFC",
+      "uuid": "476e6bfc-c25e-5304-9811-5be37cc497e8",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "B",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 74,
+      "bars": 8,
+      "voicing_type": "spread_open",
+      "arpeggio_style": "arp_up",
+      "roman_progression": "Imaj9 -> IVmaj9 -> Imaj9 -> IVmaj9",
+      "chord_progression": "Bmaj9 -> Emaj9 -> Bmaj9 -> Emaj9",
+      "scientific_pitch_notation": "C#5 Eb4 Ab4 Eb4 F#4 F#4 B4 B4 B4 F#4 Ab4 C#4 F#4 F#4 B4 C#5",
+      "midi_note_array": [
+        73,
+        63,
+        68,
+        63,
+        66,
+        66,
+        71,
+        71,
+        71,
+        66,
+        68,
+        61,
+        66,
+        66,
+        71,
+        73
+      ],
+      "semitone_interval_vector": [
+        -10,
+        5,
+        -5,
+        3,
+        0,
+        5,
+        0,
+        0,
+        -5,
+        2,
+        -7,
+        5,
+        0,
+        5,
+        2
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D U D U R U R R D U D U R U U",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        5,
+        7,
+        10
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-10,+5,-5,+3,0,+5,0,0,-5,+2,-7,+5,0,+5,+2|DUR:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1|ROMAN:Imaj9-IVmaj9-Imaj9-IVmaj9",
+      "canonical_invariant_sha256": "b1729c9f64340f0e60c3f45b97e77bb3674900bb80ee5f6c8c457a465736c468",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_B_476E6BFC.mid",
+      "midi_sha256": "6bd3f16ea9aa0a138db853e38a9ca50339d2c40646065842e89062329cc8f11a",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_B_476E6BFC.musicxml",
+      "musicxml_sha256": "f59f9be765cc7d2e6412426b54cfdcbd8a53900d0b0adbf2d1dc7c5a4cc45c9d",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "8199a3276eb38376e3565682da36a568e4eb4264e65ecbd73b24e00e886a2beb",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "01d4693822a5a1fb1b6c09e92dc3ff10ac733399a112ba6b45e0cdedfff7c657"
+        },
+        {
+          "position": "left",
+          "hash": "c7a387612a8e12e416582ffec3aa9251abe4035a8bec449ceab060ba14776107"
+        },
+        {
+          "position": "left",
+          "hash": "5fb355dbbbd17f166b916739d8f30b6882ebbf91abb0024693e0a0bfd86c5c70"
+        }
+      ]
+    },
+    {
+      "index": 553,
+      "work_id": "OMPA_09_C_965B99FB",
+      "uuid": "965b99fb-4de3-508f-8004-e26046b1ef0b",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "C",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 60,
+      "bars": 4,
+      "voicing_type": "second_inv",
+      "arpeggio_style": "alberti_piano",
+      "roman_progression": "i -> VI -> III -> VII",
+      "chord_progression": "Cm -> Ab -> Eb -> Bb",
+      "scientific_pitch_notation": "C4 F#3 C4 C3 G3 C4 Bb3 A3",
+      "midi_note_array": [
+        60,
+        54,
+        60,
+        48,
+        55,
+        60,
+        58,
+        57
+      ],
+      "semitone_interval_vector": [
+        -6,
+        6,
+        -12,
+        7,
+        5,
+        -2,
+        -1
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D U D U U D D",
+      "allen_forte_mod12_set": [
+        0,
+        6,
+        7,
+        9,
+        10
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-6,+6,-12,+7,+5,-2,-1|DUR:1,1,1,1,1,1,1,1|ROMAN:i-VI-III-VII",
+      "canonical_invariant_sha256": "9f9a69ef3ddafaf158e0a04e5abefd13c5da310fe618775e85ecef0c2cb2bc6a",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_C_965B99FB.mid",
+      "midi_sha256": "db6b804623a22dd56b85f60015c6842f614b378746a0a271d10d210baa649186",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_C_965B99FB.musicxml",
+      "musicxml_sha256": "031c24a3b321d922a40c2c2d80a7955985bd7eb2637bf6b63a1b415b46dabed6",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "79eb05307a567a56e4d784f084d8dccc96becb91abc935c7568342d67f5e6993",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "2d6f27eb4aeb2828fcd1e03d8061e59f41876a308cc513e83bd94ed6bd1e0056"
+        },
+        {
+          "position": "right",
+          "hash": "e1f191863fa77b50be5acd3e8ccba02dccc010c6f4b0b3efd96b531653f0cc50"
+        },
+        {
+          "position": "right",
+          "hash": "9f0689973ea562b157173678d298e6eaeaac4295c32c70e6a24539713fe00db0"
+        }
+      ]
+    },
+    {
+      "index": 554,
+      "work_id": "OMPA_09_Cs_437FD7E1",
+      "uuid": "437fd7e1-eaa1-5d56-92ef-3b786d8695b0",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "C#",
+      "scale_mode": "major_pentatonic",
+      "bpm": 66,
+      "bars": 4,
+      "voicing_type": "spread_open",
+      "arpeggio_style": "alberti_piano",
+      "roman_progression": "i -> VI -> III -> VII",
+      "chord_progression": "C#m -> A -> E -> B",
+      "scientific_pitch_notation": "C#4 Ab3 A3 C#4 B2 Eb3 F#4 C#4",
+      "midi_note_array": [
+        61,
+        56,
+        57,
+        61,
+        47,
+        51,
+        66,
+        61
+      ],
+      "semitone_interval_vector": [
+        -5,
+        1,
+        4,
+        -14,
+        4,
+        15,
+        -5
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D U U D U U D",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        5,
+        7,
+        8,
+        10
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-5,+1,+4,-14,+4,+15,-5|DUR:1,1,1,1,1,1,1,1|ROMAN:i-VI-III-VII",
+      "canonical_invariant_sha256": "5698113ec81924e4551032ccd2820f9b1e3d410a0c98225effe48de06c0f8dfb",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_Cs_437FD7E1.mid",
+      "midi_sha256": "8a9778b0096036f15ae1863c314cf0593ff3dcb780a8a9924477c52cbd5d51a0",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_Cs_437FD7E1.musicxml",
+      "musicxml_sha256": "dba5660f7cd0c16cc4feb2ad002c2d9862656ffe7a94eba46717fa3e6a9dfd32",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "2d6f27eb4aeb2828fcd1e03d8061e59f41876a308cc513e83bd94ed6bd1e0056",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "79eb05307a567a56e4d784f084d8dccc96becb91abc935c7568342d67f5e6993"
+        },
+        {
+          "position": "right",
+          "hash": "e1f191863fa77b50be5acd3e8ccba02dccc010c6f4b0b3efd96b531653f0cc50"
+        },
+        {
+          "position": "right",
+          "hash": "9f0689973ea562b157173678d298e6eaeaac4295c32c70e6a24539713fe00db0"
+        }
+      ]
+    },
+    {
+      "index": 555,
+      "work_id": "OMPA_09_D_F4DD40B2",
+      "uuid": "f4dd40b2-626f-5b71-9517-2f4df06ef0c9",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "D",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 74,
+      "bars": 4,
+      "voicing_type": "root_pos",
+      "arpeggio_style": "alberti_piano",
+      "roman_progression": "i -> VI -> III -> VII",
+      "chord_progression": "Dm -> Bb -> F -> C",
+      "scientific_pitch_notation": "D4 C#5 F4 C#5 C5 D4 E4 F#4",
+      "midi_note_array": [
+        62,
+        73,
+        65,
+        73,
+        72,
+        62,
+        64,
+        66
+      ],
+      "semitone_interval_vector": [
+        11,
+        -8,
+        8,
+        -1,
+        -10,
+        2,
+        2
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U D U D D U U",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        3,
+        4,
+        10,
+        11
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+11,-8,+8,-1,-10,+2,+2|DUR:1,1,1,1,1,1,1,1|ROMAN:i-VI-III-VII",
+      "canonical_invariant_sha256": "8735cf587a795a936eb655ff5eccbda1545b08acae21e33c491085e4dc7d7825",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_D_F4DD40B2.mid",
+      "midi_sha256": "66d937b287c15d5a517bef2b60d02d5d156fa8e4d2e5b4916e2d2dd97ecbbc22",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_D_F4DD40B2.musicxml",
+      "musicxml_sha256": "7ace23c2df5e7b0a9a865cf9ab846dbd821542447ab599eaf65007011f227839",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "2a4530385d708e3bf4e4650a1f13a37c93627615f7c29d36c2e69008a4d09bc6",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "2c42deda24cb6f19f2641a980dacd3c1abbe563f466bca1fe8571e348c98483a"
+        },
+        {
+          "position": "left",
+          "hash": "2f5930955dbbd944fdcbc7d9ec0fd236c04c246f429fb842ccee80e8cd161b62"
+        },
+        {
+          "position": "right",
+          "hash": "9f0689973ea562b157173678d298e6eaeaac4295c32c70e6a24539713fe00db0"
+        }
+      ]
+    },
+    {
+      "index": 556,
+      "work_id": "OMPA_09_Eb_0ECFC2CE",
+      "uuid": "0ecfc2ce-3df5-5f68-875d-d319a87473a2",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "Eb",
+      "scale_mode": "hirajoshi_ambient",
+      "bpm": 60,
+      "bars": 4,
+      "voicing_type": "second_inv",
+      "arpeggio_style": "alberti_piano",
+      "roman_progression": "i -> VI -> III -> VII",
+      "chord_progression": "Ebm -> B -> F# -> C#",
+      "scientific_pitch_notation": "Bb4 F#4 B4 B4 Bb4 Bb5 F4 Eb4",
+      "midi_note_array": [
+        70,
+        66,
+        71,
+        71,
+        70,
+        82,
+        65,
+        63
+      ],
+      "semitone_interval_vector": [
+        -4,
+        5,
+        0,
+        -1,
+        12,
+        -17,
+        -2
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D U R D U D D",
+      "allen_forte_mod12_set": [
+        0,
+        1,
+        5,
+        7,
+        8
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-4,+5,0,-1,+12,-17,-2|DUR:1,1,1,1,1,1,1,1|ROMAN:i-VI-III-VII",
+      "canonical_invariant_sha256": "b3ad0fd2be3503a0b46fa18bb0eae95e78a0f1b948d57e85750447fcd6973a91",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_Eb_0ECFC2CE.mid",
+      "midi_sha256": "2491a3f8ff989997b406f02ef8f2cea19fe0b56bb4e107eccb658edd57dd5271",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_Eb_0ECFC2CE.musicxml",
+      "musicxml_sha256": "ad080535cdb8f50caa577e31465b1bb95db91be6d6275ba5fa1e19dad7bdd79b",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "2c42deda24cb6f19f2641a980dacd3c1abbe563f466bca1fe8571e348c98483a",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "2a4530385d708e3bf4e4650a1f13a37c93627615f7c29d36c2e69008a4d09bc6"
+        },
+        {
+          "position": "left",
+          "hash": "2f5930955dbbd944fdcbc7d9ec0fd236c04c246f429fb842ccee80e8cd161b62"
+        },
+        {
+          "position": "right",
+          "hash": "9f0689973ea562b157173678d298e6eaeaac4295c32c70e6a24539713fe00db0"
+        }
+      ]
+    },
+    {
+      "index": 557,
+      "work_id": "OMPA_09_E_77D7F13F",
+      "uuid": "77d7f13f-46c8-5727-9eb4-df31836912d8",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "E",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 66,
+      "bars": 4,
+      "voicing_type": "spread_open",
+      "arpeggio_style": "alberti_piano",
+      "roman_progression": "i -> VI -> III -> VII",
+      "chord_progression": "Em -> C -> G -> D",
+      "scientific_pitch_notation": "G4 Bb3 C4 Bb3 B3 C#4 F#4 C#4",
+      "midi_note_array": [
+        67,
+        58,
+        60,
+        58,
+        59,
+        61,
+        66,
+        61
+      ],
+      "semitone_interval_vector": [
+        -9,
+        2,
+        -2,
+        1,
+        2,
+        5,
+        -5
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D U D U U U D",
+      "allen_forte_mod12_set": [
+        0,
+        3,
+        4,
+        5,
+        6,
+        11
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-9,+2,-2,+1,+2,+5,-5|DUR:1,1,1,1,1,1,1,1|ROMAN:i-VI-III-VII",
+      "canonical_invariant_sha256": "5a6978359450b57fce1d570c90e662da28ac6140b2551a79b8186dde19c925ab",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_E_77D7F13F.mid",
+      "midi_sha256": "380322dff1ac2a27e4d55ae0ba36dee670cdbc7c23f97c6f56b6f198c027b63c",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_E_77D7F13F.musicxml",
+      "musicxml_sha256": "8a680b4e6cdb362d70711b7baaba9d582809167a9901aba38a694dcf720e1bce",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "506b1b142ec18e2573e061a2ac07fe9b79b88349e33c82c6865b676f2c4caacc",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "d0d630f77f72af66c7540902d24bf857b08addabfdebdda3880525e215e14d73"
+        },
+        {
+          "position": "right",
+          "hash": "a2503fcf8033e7e83120f923c717f9994b85d01ff61d462573c7a219ff23f7ca"
+        },
+        {
+          "position": "left",
+          "hash": "be3b9563b638605b28ae3da0663f3aaaa88c0c0a63064c9ea4aef4912ee5bb82"
+        }
+      ]
+    },
+    {
+      "index": 558,
+      "work_id": "OMPA_09_F_461B1FAE",
+      "uuid": "461b1fae-cfb3-507d-a663-5c0f8ef0e2ad",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "F",
+      "scale_mode": "ionian_major",
+      "bpm": 74,
+      "bars": 4,
+      "voicing_type": "root_pos",
+      "arpeggio_style": "alberti_piano",
+      "roman_progression": "i -> VI -> III -> VII",
+      "chord_progression": "Fm -> C# -> Ab -> Eb",
+      "scientific_pitch_notation": "C4 A4 F4 Bb3 Eb4 Bb3 Bb3 C5",
+      "midi_note_array": [
+        60,
+        69,
+        65,
+        58,
+        63,
+        58,
+        58,
+        72
+      ],
+      "semitone_interval_vector": [
+        9,
+        -4,
+        -7,
+        5,
+        -5,
+        0,
+        14
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U D D U D R U",
+      "allen_forte_mod12_set": [
+        0,
+        3,
+        5,
+        9,
+        10
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+9,-4,-7,+5,-5,0,+14|DUR:1,1,1,1,1,1,1,1|ROMAN:i-VI-III-VII",
+      "canonical_invariant_sha256": "eea5301259ccf989ab51e88cf8ba4f0983f58b6ecb1c23c270ed17d831694659",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_F_461B1FAE.mid",
+      "midi_sha256": "2d20f8ffb750823b9e5fbc9adbcae5ff104d1bf5282363340038f818f9675a23",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_F_461B1FAE.musicxml",
+      "musicxml_sha256": "13f45a894487325ca5e49ddf1f1da70006983a501e057a46d21d1eac92abbde4",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "d0d630f77f72af66c7540902d24bf857b08addabfdebdda3880525e215e14d73",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "506b1b142ec18e2573e061a2ac07fe9b79b88349e33c82c6865b676f2c4caacc"
+        },
+        {
+          "position": "right",
+          "hash": "a2503fcf8033e7e83120f923c717f9994b85d01ff61d462573c7a219ff23f7ca"
+        },
+        {
+          "position": "left",
+          "hash": "be3b9563b638605b28ae3da0663f3aaaa88c0c0a63064c9ea4aef4912ee5bb82"
+        }
+      ]
+    },
+    {
+      "index": 559,
+      "work_id": "OMPA_09_Fs_24C802EE",
+      "uuid": "24c802ee-37da-5b14-9727-aec572e23437",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "F#",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 60,
+      "bars": 4,
+      "voicing_type": "second_inv",
+      "arpeggio_style": "alberti_piano",
+      "roman_progression": "i -> VI -> III -> VII",
+      "chord_progression": "F#m -> D -> A -> E",
+      "scientific_pitch_notation": "F#4 Bb4 D5 F5 C#5 C#5 Ab4 F#4",
+      "midi_note_array": [
+        66,
+        70,
+        74,
+        77,
+        73,
+        73,
+        68,
+        66
+      ],
+      "semitone_interval_vector": [
+        4,
+        4,
+        3,
+        -4,
+        0,
+        -5,
+        -2
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U U U D R D D",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        4,
+        7,
+        8,
+        11
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+4,+4,+3,-4,0,-5,-2|DUR:1,1,1,1,1,1,1,1|ROMAN:i-VI-III-VII",
+      "canonical_invariant_sha256": "9ff1d5df636a0644d3ebd2a2237dfde3042a6483bc9cf9e183ce45b66fcd487c",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_Fs_24C802EE.mid",
+      "midi_sha256": "a5492f899f44f1c32182f4d83a6693743836f4e6c702be71eafccf597e359424",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_Fs_24C802EE.musicxml",
+      "musicxml_sha256": "927d896f7ff4561a6d71285a07a83f4ebf7414dceff4d10c3b26a0243ed76ace",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "56ea751c471ef175f683f00ca4b4a8fd5040fe5400d150325e74b30b2c3e7de2",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "f111b5d7b1f887f1aaa30fdb5b1d15bdc42ad5a848647e80124743a88f415900"
+        },
+        {
+          "position": "left",
+          "hash": "f321aec92b06924717b92fa2898ea4aa07a139b4ae4ec984169a1fc798ad1a95"
+        },
+        {
+          "position": "left",
+          "hash": "be3b9563b638605b28ae3da0663f3aaaa88c0c0a63064c9ea4aef4912ee5bb82"
+        }
+      ]
+    },
+    {
+      "index": 560,
+      "work_id": "OMPA_09_G_04D988ED",
+      "uuid": "04d988ed-9012-57ee-975d-022c87bd7507",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "G",
+      "scale_mode": "major_pentatonic",
+      "bpm": 66,
+      "bars": 4,
+      "voicing_type": "spread_open",
+      "arpeggio_style": "alberti_piano",
+      "roman_progression": "i -> VI -> III -> VII",
+      "chord_progression": "Gm -> Eb -> Bb -> F",
+      "scientific_pitch_notation": "D6 B4 G4 D6 F5 E5 A5 G4",
+      "midi_note_array": [
+        86,
+        71,
+        67,
+        86,
+        77,
+        76,
+        81,
+        67
+      ],
+      "semitone_interval_vector": [
+        -15,
+        -4,
+        19,
+        -9,
+        -1,
+        5,
+        -14
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D D U D D U D",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        3,
+        5,
+        7,
+        9
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-15,-4,+19,-9,-1,+5,-14|DUR:1,1,1,1,1,1,1,1|ROMAN:i-VI-III-VII",
+      "canonical_invariant_sha256": "fe01177f70a5fe6d95e4ff3264096325a18ba210ae2a14a49ff922c3b0f55b41",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_G_04D988ED.mid",
+      "midi_sha256": "6418c79903a14ca8224a9b4f191ab7b29c14dbe7ed0f1fe6a75e39b096c40bde",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_G_04D988ED.musicxml",
+      "musicxml_sha256": "d02ed76035c47404236a8b29e29f148ae01a1f3d42ecacdded2a26e58d57bb6f",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "f111b5d7b1f887f1aaa30fdb5b1d15bdc42ad5a848647e80124743a88f415900",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "56ea751c471ef175f683f00ca4b4a8fd5040fe5400d150325e74b30b2c3e7de2"
+        },
+        {
+          "position": "left",
+          "hash": "f321aec92b06924717b92fa2898ea4aa07a139b4ae4ec984169a1fc798ad1a95"
+        },
+        {
+          "position": "left",
+          "hash": "be3b9563b638605b28ae3da0663f3aaaa88c0c0a63064c9ea4aef4912ee5bb82"
+        }
+      ]
+    },
+    {
+      "index": 561,
+      "work_id": "OMPA_09_Ab_09DAB56C",
+      "uuid": "09dab56c-1db7-5641-9e33-5fb0c1366ff6",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "Ab",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 74,
+      "bars": 4,
+      "voicing_type": "root_pos",
+      "arpeggio_style": "alberti_piano",
+      "roman_progression": "i -> VI -> III -> VII",
+      "chord_progression": "Abm -> E -> B -> F#",
+      "scientific_pitch_notation": "Ab4 F4 E4 Ab3 F#4 F4 F#4 C5",
+      "midi_note_array": [
+        68,
+        65,
+        64,
+        56,
+        66,
+        65,
+        66,
+        72
+      ],
+      "semitone_interval_vector": [
+        -3,
+        -1,
+        -8,
+        10,
+        -1,
+        1,
+        6
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D D D U D U U",
+      "allen_forte_mod12_set": [
+        0,
+        4,
+        8,
+        9,
+        10
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-3,-1,-8,+10,-1,+1,+6|DUR:1,1,1,1,1,1,1,1|ROMAN:i-VI-III-VII",
+      "canonical_invariant_sha256": "f9c7c5b4dbe86574156dcf0604bf562ccd7eed0d5bbc320dab832597407bf6ec",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_Ab_09DAB56C.mid",
+      "midi_sha256": "52a935d4d0acbf728fe206f229a8108ddfd37f9bcbfddeadbe283651d54de469",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_Ab_09DAB56C.musicxml",
+      "musicxml_sha256": "929377b0803d614459edda022f9ed19a1ddc319d6634bc1ac8a49b4e80d64aef",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "fbb0880731df2d905d6adbe840d3c8ba747bdae2d5fd9a29a49ff95281f77563",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "6813b0cbf088378584d072688da2085229524b339bb3bd975041049afd07b6e4"
+        },
+        {
+          "position": "right",
+          "hash": "f8a7eb0f32433cb0f0c20e8b2ea842a5704010e8bbb6411fdec1233ff435f7fb"
+        },
+        {
+          "position": "right",
+          "hash": "f220d5ef8e84eb8d161e0ecb4ef1bc97a1a0440a49c64e17ba3792c1ce766175"
+        }
+      ]
+    },
+    {
+      "index": 562,
+      "work_id": "OMPA_09_A_A46AB910",
+      "uuid": "a46ab910-c9b6-5044-9ef3-4eb834769fb4",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "A",
+      "scale_mode": "hirajoshi_ambient",
+      "bpm": 60,
+      "bars": 4,
+      "voicing_type": "second_inv",
+      "arpeggio_style": "alberti_piano",
+      "roman_progression": "i -> VI -> III -> VII",
+      "chord_progression": "Am -> F -> C -> G",
+      "scientific_pitch_notation": "C4 E4 F5 B3 G3 A4 B3 A4",
+      "midi_note_array": [
+        60,
+        64,
+        77,
+        59,
+        55,
+        69,
+        59,
+        69
+      ],
+      "semitone_interval_vector": [
+        4,
+        13,
+        -18,
+        -4,
+        14,
+        -10,
+        10
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U U D D U D U",
+      "allen_forte_mod12_set": [
+        0,
+        4,
+        5,
+        7,
+        9,
+        11
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+4,+13,-18,-4,+14,-10,+10|DUR:1,1,1,1,1,1,1,1|ROMAN:i-VI-III-VII",
+      "canonical_invariant_sha256": "211157229475d6edd9a082df49d59ce4c81871bb867aa43f0b2ad9137dcabf50",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_A_A46AB910.mid",
+      "midi_sha256": "f4d2b2f1cb457aade2da82cd9ed9cb5efe352735a4004a10edc09543ecdd965c",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_A_A46AB910.musicxml",
+      "musicxml_sha256": "28e219443c41180be19e13d1d00cf5e11b49ad49f7adb0c09754526707b311af",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "6813b0cbf088378584d072688da2085229524b339bb3bd975041049afd07b6e4",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "fbb0880731df2d905d6adbe840d3c8ba747bdae2d5fd9a29a49ff95281f77563"
+        },
+        {
+          "position": "right",
+          "hash": "f8a7eb0f32433cb0f0c20e8b2ea842a5704010e8bbb6411fdec1233ff435f7fb"
+        },
+        {
+          "position": "right",
+          "hash": "f220d5ef8e84eb8d161e0ecb4ef1bc97a1a0440a49c64e17ba3792c1ce766175"
+        }
+      ]
+    },
+    {
+      "index": 563,
+      "work_id": "OMPA_09_Bb_73160229",
+      "uuid": "73160229-a28c-571f-844f-e87a55791718",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "Bb",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 66,
+      "bars": 4,
+      "voicing_type": "spread_open",
+      "arpeggio_style": "alberti_piano",
+      "roman_progression": "i -> VI -> III -> VII",
+      "chord_progression": "Bbm -> F# -> C# -> Ab",
+      "scientific_pitch_notation": "C#5 D5 C#5 C6 F5 Bb4 Eb5 Bb4",
+      "midi_note_array": [
+        73,
+        74,
+        73,
+        84,
+        77,
+        70,
+        75,
+        70
+      ],
+      "semitone_interval_vector": [
+        1,
+        -1,
+        11,
+        -7,
+        -7,
+        5,
+        -5
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U D U D D U D",
+      "allen_forte_mod12_set": [
+        0,
+        1,
+        2,
+        4,
+        9,
+        11
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+1,-1,+11,-7,-7,+5,-5|DUR:1,1,1,1,1,1,1,1|ROMAN:i-VI-III-VII",
+      "canonical_invariant_sha256": "ee1dfff5e423af5a6316cb854f37d7ee618a801ee59b12ea81c13d811d3093d7",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_Bb_73160229.mid",
+      "midi_sha256": "7e20715ab688182e524ddb362640f6e6356f976fad7a96d1961300e81f565e6c",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_Bb_73160229.musicxml",
+      "musicxml_sha256": "5b8175dcaa78063fc175c4951f6128513b002194f9201210dfb517530a2617d1",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "8937093e0dd0091f6af9acb72103a50e230b705a68d370b6a93a456e55e3cae9",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "511c360fbc6f34b5065dd8ad5873d4bd6f5e787488b9110e64fe34a87de0380b"
+        },
+        {
+          "position": "left",
+          "hash": "a2b35effb11d6d317a96a2f389f609fa09210fa8b7c3deec84e3f1ac37606cf9"
+        },
+        {
+          "position": "right",
+          "hash": "f220d5ef8e84eb8d161e0ecb4ef1bc97a1a0440a49c64e17ba3792c1ce766175"
+        }
+      ]
+    },
+    {
+      "index": 564,
+      "work_id": "OMPA_09_B_D3C19AEB",
+      "uuid": "d3c19aeb-9680-5a55-80d2-4cd3e7b4cdc1",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "B",
+      "scale_mode": "ionian_major",
+      "bpm": 74,
+      "bars": 4,
+      "voicing_type": "root_pos",
+      "arpeggio_style": "alberti_piano",
+      "roman_progression": "i -> VI -> III -> VII",
+      "chord_progression": "Bm -> G -> D -> A",
+      "scientific_pitch_notation": "F#5 Bb5 B4 F#5 D6 F#5 E5 F#5",
+      "midi_note_array": [
+        78,
+        82,
+        71,
+        78,
+        86,
+        78,
+        76,
+        78
+      ],
+      "semitone_interval_vector": [
+        4,
+        -11,
+        7,
+        8,
+        -8,
+        -2,
+        2
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U D U U D D U",
+      "allen_forte_mod12_set": [
+        0,
+        4,
+        5,
+        8,
+        10
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+4,-11,+7,+8,-8,-2,+2|DUR:1,1,1,1,1,1,1,1|ROMAN:i-VI-III-VII",
+      "canonical_invariant_sha256": "8293e935d240259749555e7b647e3c9e4b04d067718370a3c03accf55dcfcff5",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_B_D3C19AEB.mid",
+      "midi_sha256": "5d9a61439efa41deb87a17400619a4fbaaadf8bbbf8d378705708c54768a152d",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_B_D3C19AEB.musicxml",
+      "musicxml_sha256": "ec468b9875bcdc873b6bb1235329aed48d6870883b77a0c7570aa15a974038c1",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "511c360fbc6f34b5065dd8ad5873d4bd6f5e787488b9110e64fe34a87de0380b",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "8937093e0dd0091f6af9acb72103a50e230b705a68d370b6a93a456e55e3cae9"
+        },
+        {
+          "position": "left",
+          "hash": "a2b35effb11d6d317a96a2f389f609fa09210fa8b7c3deec84e3f1ac37606cf9"
+        },
+        {
+          "position": "right",
+          "hash": "f220d5ef8e84eb8d161e0ecb4ef1bc97a1a0440a49c64e17ba3792c1ce766175"
+        }
+      ]
+    },
+    {
+      "index": 565,
+      "work_id": "OMPA_09_C_DF69A40C",
+      "uuid": "df69a40c-d5f8-59e4-a8f4-c75a80dbae82",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "C",
+      "scale_mode": "major_pentatonic",
+      "bpm": 60,
+      "bars": 8,
+      "voicing_type": "spread_open",
+      "arpeggio_style": "block_sustained",
+      "roman_progression": "Iadd9 -> V -> IVmaj7 -> Isus2",
+      "chord_progression": "Cadd9 -> G -> Fmaj7 -> Csus2",
+      "scientific_pitch_notation": "D3 G3 B3 D3 C3 D3 G3 C4 D3 G3 B3 D3 C3 D3 G3 C4",
+      "midi_note_array": [
+        50,
+        55,
+        59,
+        50,
+        48,
+        50,
+        55,
+        60,
+        50,
+        55,
+        59,
+        50,
+        48,
+        50,
+        55,
+        60
+      ],
+      "semitone_interval_vector": [
+        5,
+        4,
+        -9,
+        -2,
+        2,
+        5,
+        5,
+        -10,
+        5,
+        4,
+        -9,
+        -2,
+        2,
+        5,
+        5
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U U D D U U U D U U D D U U U",
+      "allen_forte_mod12_set": [
+        0,
+        5,
+        9,
+        10
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+5,+4,-9,-2,+2,+5,+5,-10,+5,+4,-9,-2,+2,+5,+5|DUR:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1|ROMAN:Iadd9-V-IVmaj7-Isus2",
+      "canonical_invariant_sha256": "790d4cc675c0f2523c106151f4b5c2184be0f64ef5c464a376b17d29c1b0e07a",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_C_DF69A40C.mid",
+      "midi_sha256": "c2c3be3f09480da80c103f450f84fab6199361c8a75a82c0abc2e79dccbff8b4",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_C_DF69A40C.musicxml",
+      "musicxml_sha256": "888932a55d611954d1b832880770d23b38c8f33279a99e28b438fc4b54bd2a2c",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "8280aa7e37c661b5e7e5ac2f194fad6e20e907a0aa537bb153155ef0cfd813a5",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "fd01c2885d711c4f5079b3777b065d6a9bf13638b1c6d3eb90dcd901fa09df4c"
+        },
+        {
+          "position": "right",
+          "hash": "c56141fec1e666e6b5f4e7e60df9c5c3fd4a7fa8ae708cea06d0aa8ac5b4ca7b"
+        },
+        {
+          "position": "left",
+          "hash": "fc8232a2682fc91060d431c762ce21b7991be29a0bbc4eba14b4d077c5cec906"
+        }
+      ]
+    },
+    {
+      "index": 566,
+      "work_id": "OMPA_09_Cs_F67CAB60",
+      "uuid": "f67cab60-7eef-5c7c-91ad-c9205faf4835",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "C#",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 66,
+      "bars": 8,
+      "voicing_type": "root_pos",
+      "arpeggio_style": "block_sustained",
+      "roman_progression": "Iadd9 -> V -> IVmaj7 -> Isus2",
+      "chord_progression": "C#add9 -> Ab -> F#maj7 -> C#sus2",
+      "scientific_pitch_notation": "C#4 C4 C4 Eb3 C#4 Bb3 C#4 G4 C#4 G3 Eb4 Eb3 F#3 Eb4 C#4 C#4",
+      "midi_note_array": [
+        61,
+        60,
+        60,
+        51,
+        61,
+        58,
+        61,
+        67,
+        61,
+        55,
+        63,
+        51,
+        54,
+        63,
+        61,
+        61
+      ],
+      "semitone_interval_vector": [
+        -1,
+        0,
+        -9,
+        10,
+        -3,
+        3,
+        6,
+        -6,
+        -6,
+        8,
+        -12,
+        3,
+        9,
+        -2,
+        0
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D R D U D U U D D U D U U D R",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        5,
+        6,
+        9,
+        11
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-1,0,-9,+10,-3,+3,+6,-6,-6,+8,-12,+3,+9,-2,0|DUR:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1|ROMAN:Iadd9-V-IVmaj7-Isus2",
+      "canonical_invariant_sha256": "e2d1b03b7dfbfab6f73ec49efc48bce5f1f136cab310e8446d85f1e229e0b677",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_Cs_F67CAB60.mid",
+      "midi_sha256": "5c9f6eaf440cd656bbeb030776df0d5823bba2d710f7b45e5c2a2ba669cae0cf",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_Cs_F67CAB60.musicxml",
+      "musicxml_sha256": "41d3222ae542422dc777a14057719a34aebcbaf5db5b6423c50ec60deaa3af82",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "fd01c2885d711c4f5079b3777b065d6a9bf13638b1c6d3eb90dcd901fa09df4c",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "8280aa7e37c661b5e7e5ac2f194fad6e20e907a0aa537bb153155ef0cfd813a5"
+        },
+        {
+          "position": "right",
+          "hash": "c56141fec1e666e6b5f4e7e60df9c5c3fd4a7fa8ae708cea06d0aa8ac5b4ca7b"
+        },
+        {
+          "position": "left",
+          "hash": "fc8232a2682fc91060d431c762ce21b7991be29a0bbc4eba14b4d077c5cec906"
+        }
+      ]
+    },
+    {
+      "index": 567,
+      "work_id": "OMPA_09_D_2B2702D8",
+      "uuid": "2b2702d8-6db4-52d4-a0b1-c1aa3b9d49f0",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "D",
+      "scale_mode": "hirajoshi_ambient",
+      "bpm": 74,
+      "bars": 8,
+      "voicing_type": "second_inv",
+      "arpeggio_style": "block_sustained",
+      "roman_progression": "Iadd9 -> V -> IVmaj7 -> Isus2",
+      "chord_progression": "Dadd9 -> A -> Gmaj7 -> Dsus2",
+      "scientific_pitch_notation": "A4 F4 C#4 Bb4 D5 Bb4 E4 D4 A4 F4 C#4 Bb4 D5 Bb4 E4 D4",
+      "midi_note_array": [
+        69,
+        65,
+        61,
+        70,
+        74,
+        70,
+        64,
+        62,
+        69,
+        65,
+        61,
+        70,
+        74,
+        70,
+        64,
+        62
+      ],
+      "semitone_interval_vector": [
+        -4,
+        -4,
+        9,
+        4,
+        -4,
+        -6,
+        -2,
+        7,
+        -4,
+        -4,
+        9,
+        4,
+        -4,
+        -6,
+        -2
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D D U U D D D U D D U U D D D",
+      "allen_forte_mod12_set": [
+        0,
+        1,
+        4,
+        5,
+        7,
+        8
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-4,-4,+9,+4,-4,-6,-2,+7,-4,-4,+9,+4,-4,-6,-2|DUR:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1|ROMAN:Iadd9-V-IVmaj7-Isus2",
+      "canonical_invariant_sha256": "e701f36d62d73e5203ce754f1f0bfdcb36be999cf764b50ea1dd4496ea292616",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_D_2B2702D8.mid",
+      "midi_sha256": "6ea13f9573da4ce6d857404f8c029cff2543b0d2718b487adba875999c174a0c",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_D_2B2702D8.musicxml",
+      "musicxml_sha256": "500ede8f1665ad08d30c98a0c7d76cf92a61829045e58a3188998598cca26158",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "cdcb25df6c9541526bf13ca3bc867d537e2059b7854de1724a7cb03749d161d5",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "3303fc5e2bbf0770e9861974ee7887318e6789aec9ce22228cd96144a882bd6e"
+        },
+        {
+          "position": "left",
+          "hash": "ff8f336a5a8cddb4f44f144660802f73b0c4136cf9c66be9237f71d5737111f4"
+        },
+        {
+          "position": "left",
+          "hash": "fc8232a2682fc91060d431c762ce21b7991be29a0bbc4eba14b4d077c5cec906"
+        }
+      ]
+    },
+    {
+      "index": 568,
+      "work_id": "OMPA_09_Eb_5245F770",
+      "uuid": "5245f770-da90-58b9-bee8-e9724507c533",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "Eb",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 60,
+      "bars": 8,
+      "voicing_type": "spread_open",
+      "arpeggio_style": "block_sustained",
+      "roman_progression": "Iadd9 -> V -> IVmaj7 -> Isus2",
+      "chord_progression": "Ebadd9 -> Bb -> Abmaj7 -> Ebsus2",
+      "scientific_pitch_notation": "Bb4 Bb4 F4 G5 C5 G4 Bb4 Eb4 Eb4 Eb5 F4 D5 Eb5 G4 F4 A4",
+      "midi_note_array": [
+        70,
+        70,
+        65,
+        79,
+        72,
+        67,
+        70,
+        63,
+        63,
+        75,
+        65,
+        74,
+        75,
+        67,
+        65,
+        69
+      ],
+      "semitone_interval_vector": [
+        0,
+        -5,
+        14,
+        -7,
+        -5,
+        3,
+        -7,
+        0,
+        12,
+        -10,
+        9,
+        1,
+        -8,
+        -2,
+        4
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* R D U D D U D R U D U U D D U",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        4,
+        5,
+        7,
+        9,
+        11
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:0,-5,+14,-7,-5,+3,-7,0,+12,-10,+9,+1,-8,-2,+4|DUR:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1|ROMAN:Iadd9-V-IVmaj7-Isus2",
+      "canonical_invariant_sha256": "d21dbb66edc8bfffe39f6326314cd2e3bbd7462e36a4187bd538c2ec9d02b024",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_Eb_5245F770.mid",
+      "midi_sha256": "acffb172125a523f0ad185a20069cf2de2cf9cfd3556c9301c08264d21092e85",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_Eb_5245F770.musicxml",
+      "musicxml_sha256": "72985a1df62c9df5db56d56e9bef9b762d60cbc4d9fde52edad302b540e1c8f9",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "3303fc5e2bbf0770e9861974ee7887318e6789aec9ce22228cd96144a882bd6e",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "cdcb25df6c9541526bf13ca3bc867d537e2059b7854de1724a7cb03749d161d5"
+        },
+        {
+          "position": "left",
+          "hash": "ff8f336a5a8cddb4f44f144660802f73b0c4136cf9c66be9237f71d5737111f4"
+        },
+        {
+          "position": "left",
+          "hash": "fc8232a2682fc91060d431c762ce21b7991be29a0bbc4eba14b4d077c5cec906"
+        }
+      ]
+    },
+    {
+      "index": 569,
+      "work_id": "OMPA_09_E_5E444382",
+      "uuid": "5e444382-bfd5-5fcf-b96d-3ae39e951e75",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "E",
+      "scale_mode": "ionian_major",
+      "bpm": 66,
+      "bars": 8,
+      "voicing_type": "root_pos",
+      "arpeggio_style": "block_sustained",
+      "roman_progression": "Iadd9 -> V -> IVmaj7 -> Isus2",
+      "chord_progression": "Eadd9 -> B -> Amaj7 -> Esus2",
+      "scientific_pitch_notation": "Ab3 C#4 Eb4 A3 Ab3 A3 B3 E4 Ab3 C#4 Eb4 A3 Ab3 A3 B3 E4",
+      "midi_note_array": [
+        56,
+        61,
+        63,
+        57,
+        56,
+        57,
+        59,
+        64,
+        56,
+        61,
+        63,
+        57,
+        56,
+        57,
+        59,
+        64
+      ],
+      "semitone_interval_vector": [
+        5,
+        2,
+        -6,
+        -1,
+        1,
+        2,
+        5,
+        -8,
+        5,
+        2,
+        -6,
+        -1,
+        1,
+        2,
+        5
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U U D D U U U D U U D D U U U",
+      "allen_forte_mod12_set": [
+        0,
+        1,
+        3,
+        5,
+        7,
+        8
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+5,+2,-6,-1,+1,+2,+5,-8,+5,+2,-6,-1,+1,+2,+5|DUR:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1|ROMAN:Iadd9-V-IVmaj7-Isus2",
+      "canonical_invariant_sha256": "689d1cd13de03a88b2fb8ba70c152c49eac0c3c38c1e6031c7d7f6747b3ba0a6",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_E_5E444382.mid",
+      "midi_sha256": "99af1b6aa82103de1eac38f2079c710febd023d44546c26e68f78ecbef2bfcf5",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_E_5E444382.musicxml",
+      "musicxml_sha256": "39de89c9dd659e4ec8e919e89ee7e8789c000c2a33dacc7e324725d72d9e6e2d",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "319446a570c420cd7ce89a061aae1757cf7cf5506172c52d6942a1ce7f39e3a7",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "7c6fcabff95b4b552cf407374b5ccad7560e4031634af394343f186ecb2def4b"
+        },
+        {
+          "position": "right",
+          "hash": "82fec9c6ac7d041a901f8a0defa2d9a2cca6a7b96b8adb9cd1345559a3d4c29e"
+        },
+        {
+          "position": "right",
+          "hash": "6cab578071dcc6ff77f957c3882ec105ad9a86ea4e960274fabe844aace0ea15"
+        }
+      ]
+    },
+    {
+      "index": 570,
+      "work_id": "OMPA_09_F_F6A9E09C",
+      "uuid": "f6a9e09c-f60a-54e2-a670-de0d1df499b3",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "F",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 74,
+      "bars": 8,
+      "voicing_type": "second_inv",
+      "arpeggio_style": "block_sustained",
+      "roman_progression": "Iadd9 -> V -> IVmaj7 -> Isus2",
+      "chord_progression": "Fadd9 -> C -> Bbmaj7 -> Fsus2",
+      "scientific_pitch_notation": "F4 B3 G4 G3 Bb3 G4 F4 F4 C5 B3 E4 C4 Bb3 D4 G4 F4",
+      "midi_note_array": [
+        65,
+        59,
+        67,
+        55,
+        58,
+        67,
+        65,
+        65,
+        72,
+        59,
+        64,
+        60,
+        58,
+        62,
+        67,
+        65
+      ],
+      "semitone_interval_vector": [
+        -6,
+        8,
+        -12,
+        3,
+        9,
+        -2,
+        0,
+        7,
+        -13,
+        5,
+        -4,
+        -2,
+        4,
+        5,
+        -2
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D U D U U D R U D U D D U U D",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        5,
+        6,
+        7,
+        9,
+        11
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-6,+8,-12,+3,+9,-2,0,+7,-13,+5,-4,-2,+4,+5,-2|DUR:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1|ROMAN:Iadd9-V-IVmaj7-Isus2",
+      "canonical_invariant_sha256": "3b404620fa660b184e55eafbe9d10bfa1382a974046ce4ce5cceae34929e601c",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_F_F6A9E09C.mid",
+      "midi_sha256": "9a779fd3ddd78c8a640d7e4543e0d9aed26236e09660464c115d0a686795c852",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_F_F6A9E09C.musicxml",
+      "musicxml_sha256": "76c4121859480e5f99b97a338b69ec5211878bebbcb6e4aa4b611059cfe9c615",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "7c6fcabff95b4b552cf407374b5ccad7560e4031634af394343f186ecb2def4b",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "319446a570c420cd7ce89a061aae1757cf7cf5506172c52d6942a1ce7f39e3a7"
+        },
+        {
+          "position": "right",
+          "hash": "82fec9c6ac7d041a901f8a0defa2d9a2cca6a7b96b8adb9cd1345559a3d4c29e"
+        },
+        {
+          "position": "right",
+          "hash": "6cab578071dcc6ff77f957c3882ec105ad9a86ea4e960274fabe844aace0ea15"
+        }
+      ]
+    },
+    {
+      "index": 571,
+      "work_id": "OMPA_09_Fs_509C7132",
+      "uuid": "509c7132-c4a8-5020-982e-25fb4d6e40b4",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "F#",
+      "scale_mode": "major_pentatonic",
+      "bpm": 60,
+      "bars": 8,
+      "voicing_type": "spread_open",
+      "arpeggio_style": "block_sustained",
+      "roman_progression": "Iadd9 -> V -> IVmaj7 -> Isus2",
+      "chord_progression": "F#add9 -> C# -> Bmaj7 -> F#sus2",
+      "scientific_pitch_notation": "C#5 Bb4 F4 Eb5 F#5 Eb5 Ab4 F#4 C#5 Bb4 F4 Eb5 F#5 Eb5 Ab4 F#4",
+      "midi_note_array": [
+        73,
+        70,
+        65,
+        75,
+        78,
+        75,
+        68,
+        66,
+        73,
+        70,
+        65,
+        75,
+        78,
+        75,
+        68,
+        66
+      ],
+      "semitone_interval_vector": [
+        -3,
+        -5,
+        10,
+        3,
+        -3,
+        -7,
+        -2,
+        7,
+        -3,
+        -5,
+        10,
+        3,
+        -3,
+        -7,
+        -2
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D D U U D D D U D D U U D D D",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        4,
+        5,
+        7,
+        9
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-3,-5,+10,+3,-3,-7,-2,+7,-3,-5,+10,+3,-3,-7,-2|DUR:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1|ROMAN:Iadd9-V-IVmaj7-Isus2",
+      "canonical_invariant_sha256": "2be3bd1b75fcf230c0997dec8292836b05bd6207e684a1f2494371e9fdc5f45d",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_Fs_509C7132.mid",
+      "midi_sha256": "10972928697d886e4babf833d854a89730e17b327fd62e2826e2c8c158cded26",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_Fs_509C7132.musicxml",
+      "musicxml_sha256": "aa1321ba93f5e9d3bbe93df6f257deefad9e739d27715d5f41c9a62c3c4d30db",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "647f6a95daac1620d8e3532cffffddee88d050abf279823d7581d9f70ff8c75f",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "8e4f6f5e8745cb59eb4b374602929f4c7ec2f46217c5b27c2af41af814cfe467"
+        },
+        {
+          "position": "left",
+          "hash": "18e3d6165d8b406777c6ae3ad7c0303536362243cb5e9aa6db81497a22b9d927"
+        },
+        {
+          "position": "right",
+          "hash": "6cab578071dcc6ff77f957c3882ec105ad9a86ea4e960274fabe844aace0ea15"
+        }
+      ]
+    },
+    {
+      "index": 572,
+      "work_id": "OMPA_09_G_31A315D7",
+      "uuid": "31a315d7-5b5d-57a2-b660-87115c4fb7d9",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "G",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 66,
+      "bars": 8,
+      "voicing_type": "root_pos",
+      "arpeggio_style": "block_sustained",
+      "roman_progression": "Iadd9 -> V -> IVmaj7 -> Isus2",
+      "chord_progression": "Gadd9 -> D -> Cmaj7 -> Gsus2",
+      "scientific_pitch_notation": "G4 G5 A4 F#5 G5 B4 A4 C#5 G4 D5 F#5 F#5 E5 E5 A4 G4",
+      "midi_note_array": [
+        67,
+        79,
+        69,
+        78,
+        79,
+        71,
+        69,
+        73,
+        67,
+        74,
+        78,
+        78,
+        76,
+        76,
+        69,
+        67
+      ],
+      "semitone_interval_vector": [
+        12,
+        -10,
+        9,
+        1,
+        -8,
+        -2,
+        4,
+        -6,
+        7,
+        4,
+        0,
+        -2,
+        0,
+        -7,
+        -2
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U D U U D D U D U U R D R D D",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        4,
+        6,
+        7,
+        9,
+        11
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+12,-10,+9,+1,-8,-2,+4,-6,+7,+4,0,-2,0,-7,-2|DUR:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1|ROMAN:Iadd9-V-IVmaj7-Isus2",
+      "canonical_invariant_sha256": "fbbb0f14fc83caacab36750994c7610581a00b23a42ea9f26ddc02cbb0140c0a",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_G_31A315D7.mid",
+      "midi_sha256": "5e258f24eb62d0d8691a2ced4b65f06f32b92e77d900f47565a746d4813c1ecb",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_G_31A315D7.musicxml",
+      "musicxml_sha256": "d4749def8fdab7a0635b87a7e193acd7e3644e788de5d7c3b299013fcb9f2653",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "8e4f6f5e8745cb59eb4b374602929f4c7ec2f46217c5b27c2af41af814cfe467",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "647f6a95daac1620d8e3532cffffddee88d050abf279823d7581d9f70ff8c75f"
+        },
+        {
+          "position": "left",
+          "hash": "18e3d6165d8b406777c6ae3ad7c0303536362243cb5e9aa6db81497a22b9d927"
+        },
+        {
+          "position": "right",
+          "hash": "6cab578071dcc6ff77f957c3882ec105ad9a86ea4e960274fabe844aace0ea15"
+        }
+      ]
+    },
+    {
+      "index": 573,
+      "work_id": "OMPA_09_Ab_BF371E97",
+      "uuid": "bf371e97-ccb8-5435-9147-47b5f461924d",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "Ab",
+      "scale_mode": "hirajoshi_ambient",
+      "bpm": 74,
+      "bars": 8,
+      "voicing_type": "second_inv",
+      "arpeggio_style": "block_sustained",
+      "roman_progression": "Iadd9 -> V -> IVmaj7 -> Isus2",
+      "chord_progression": "Abadd9 -> Eb -> C#maj7 -> Absus2",
+      "scientific_pitch_notation": "Bb3 Eb4 G4 Bb3 Ab3 Bb3 Eb4 Ab4 Bb3 Eb4 G4 Bb3 Ab3 Bb3 Eb4 Ab4",
+      "midi_note_array": [
+        58,
+        63,
+        67,
+        58,
+        56,
+        58,
+        63,
+        68,
+        58,
+        63,
+        67,
+        58,
+        56,
+        58,
+        63,
+        68
+      ],
+      "semitone_interval_vector": [
+        5,
+        4,
+        -9,
+        -2,
+        2,
+        5,
+        5,
+        -10,
+        5,
+        4,
+        -9,
+        -2,
+        2,
+        5,
+        5
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U U D D U U U D U U D D U U U",
+      "allen_forte_mod12_set": [
+        0,
+        5,
+        9,
+        10
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+5,+4,-9,-2,+2,+5,+5,-10,+5,+4,-9,-2,+2,+5,+5|DUR:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1|ROMAN:Iadd9-V-IVmaj7-Isus2",
+      "canonical_invariant_sha256": "790d4cc675c0f2523c106151f4b5c2184be0f64ef5c464a376b17d29c1b0e07a",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_Ab_BF371E97.mid",
+      "midi_sha256": "19be2ea375c67a6ee660dd0a1a435414e8bac7fc7959531202ce4bd99b775f9a",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_Ab_BF371E97.musicxml",
+      "musicxml_sha256": "a4951e6be21f2ce2e9eea519476cc1104511a09ce60e9b4fdc2d4c6137efe623",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "9e62171f480b3612e43bfa5ea43e34934b9d4c0dc5f9c1081b1acacba4fa97e1",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "e0c91224a6326b80c6585a26d2a8064a7b0f2426864a9d7ba4870ddac00b55fc"
+        },
+        {
+          "position": "right",
+          "hash": "d29cc86c7916820f1e601b11b2c965a91b0cc6647c840f165daaa5880baaf935"
+        },
+        {
+          "position": "left",
+          "hash": "f375122ee9ad8d509f9e9709dc94a73e22a4f2d949f208ebcce87b7c64c8bd45"
+        }
+      ]
+    },
+    {
+      "index": 574,
+      "work_id": "OMPA_09_A_0FFFC04F",
+      "uuid": "0fffc04f-c8ca-5698-b853-f822d4c62a34",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "A",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 60,
+      "bars": 8,
+      "voicing_type": "spread_open",
+      "arpeggio_style": "block_sustained",
+      "roman_progression": "Iadd9 -> V -> IVmaj7 -> Isus2",
+      "chord_progression": "Aadd9 -> E -> Dmaj7 -> Asus2",
+      "scientific_pitch_notation": "E5 Eb4 Ab4 E4 D4 F#4 B4 A4 A4 Ab4 Ab4 B3 A4 F#4 A4 Eb5",
+      "midi_note_array": [
+        76,
+        63,
+        68,
+        64,
+        62,
+        66,
+        71,
+        69,
+        69,
+        68,
+        68,
+        59,
+        69,
+        66,
+        69,
+        75
+      ],
+      "semitone_interval_vector": [
+        -13,
+        5,
+        -4,
+        -2,
+        4,
+        5,
+        -2,
+        0,
+        -1,
+        0,
+        -9,
+        10,
+        -3,
+        3,
+        6
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D U D D U U D R D R D U D U U",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        4,
+        5,
+        7,
+        10,
+        11
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-13,+5,-4,-2,+4,+5,-2,0,-1,0,-9,+10,-3,+3,+6|DUR:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1|ROMAN:Iadd9-V-IVmaj7-Isus2",
+      "canonical_invariant_sha256": "4a959e3c684aca207d0a7201d2fe029edf8257b3f352e6725544d02f34f12abe",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_A_0FFFC04F.mid",
+      "midi_sha256": "ca11f9e369baeb71fa1218d2a26090261c6dfe4dc2acdee8303839e37f6c48a9",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_A_0FFFC04F.musicxml",
+      "musicxml_sha256": "7ae14c8d651e47c1cb9e10f6a1fad5aaf95b90f37f19a76022acb56aec74f0e3",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "e0c91224a6326b80c6585a26d2a8064a7b0f2426864a9d7ba4870ddac00b55fc",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "9e62171f480b3612e43bfa5ea43e34934b9d4c0dc5f9c1081b1acacba4fa97e1"
+        },
+        {
+          "position": "right",
+          "hash": "d29cc86c7916820f1e601b11b2c965a91b0cc6647c840f165daaa5880baaf935"
+        },
+        {
+          "position": "left",
+          "hash": "f375122ee9ad8d509f9e9709dc94a73e22a4f2d949f208ebcce87b7c64c8bd45"
+        }
+      ]
+    },
+    {
+      "index": 575,
+      "work_id": "OMPA_09_Bb_1B9A4B80",
+      "uuid": "1b9a4b80-b01d-51e8-8061-d98ed8856040",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "Bb",
+      "scale_mode": "ionian_major",
+      "bpm": 66,
+      "bars": 8,
+      "voicing_type": "root_pos",
+      "arpeggio_style": "block_sustained",
+      "roman_progression": "Iadd9 -> V -> IVmaj7 -> Isus2",
+      "chord_progression": "Bbadd9 -> F -> Ebmaj7 -> Bbsus2",
+      "scientific_pitch_notation": "F5 D5 A4 F5 G5 F5 C5 Bb4 F5 D5 A4 F5 G5 F5 C5 Bb4",
+      "midi_note_array": [
+        77,
+        74,
+        69,
+        77,
+        79,
+        77,
+        72,
+        70,
+        77,
+        74,
+        69,
+        77,
+        79,
+        77,
+        72,
+        70
+      ],
+      "semitone_interval_vector": [
+        -3,
+        -5,
+        8,
+        2,
+        -2,
+        -5,
+        -2,
+        7,
+        -3,
+        -5,
+        8,
+        2,
+        -2,
+        -5,
+        -2
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D D U U D D D U D D U U D D D",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        4,
+        5,
+        7,
+        9
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-3,-5,+8,+2,-2,-5,-2,+7,-3,-5,+8,+2,-2,-5,-2|DUR:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1|ROMAN:Iadd9-V-IVmaj7-Isus2",
+      "canonical_invariant_sha256": "7f065e94e9ca1099d072ff1d86c5bb1e798acc51a6123fe3917f3c3e3d50b80d",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_Bb_1B9A4B80.mid",
+      "midi_sha256": "b5a7fe427c58093bb7c34e89475d56dd90ab04508eeb348181c89c6874a686c3",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_Bb_1B9A4B80.musicxml",
+      "musicxml_sha256": "e4220e9fcdf1bf139428fcfd40da99a71a3243649c127b64e419a34a7882dc0c",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "a2499f26b6c8748183e61b6e2565628ead8e1c177cfbec8bac2e064bd5b12785",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "a9cb3b2b7a0f763d2c8234ae5dc9792b2348291cca0c8f749fcef111323a3f10"
+        },
+        {
+          "position": "left",
+          "hash": "8eb6696188e5e62ffc78f3c4af7e6525279d899cf85e2b80e0a12ed2602eb6f1"
+        },
+        {
+          "position": "left",
+          "hash": "f375122ee9ad8d509f9e9709dc94a73e22a4f2d949f208ebcce87b7c64c8bd45"
+        }
+      ]
+    },
+    {
+      "index": 576,
+      "work_id": "OMPA_09_B_0846F1DF",
+      "uuid": "0846f1df-8a18-5ac5-87cc-bba1357765a2",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "B",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 74,
+      "bars": 8,
+      "voicing_type": "second_inv",
+      "arpeggio_style": "block_sustained",
+      "roman_progression": "Iadd9 -> V -> IVmaj7 -> Isus2",
+      "chord_progression": "Badd9 -> F# -> Emaj7 -> Bsus2",
+      "scientific_pitch_notation": "B4 F#5 Bb5 Bb5 Ab5 Ab5 C#5 B4 F#5 F#5 C#5 Eb6 Ab5 Eb5 F#5 B4",
+      "midi_note_array": [
+        71,
+        78,
+        82,
+        82,
+        80,
+        80,
+        73,
+        71,
+        78,
+        78,
+        73,
+        87,
+        80,
+        75,
+        78,
+        71
+      ],
+      "semitone_interval_vector": [
+        7,
+        4,
+        0,
+        -2,
+        0,
+        -7,
+        -2,
+        7,
+        0,
+        -5,
+        14,
+        -7,
+        -5,
+        3,
+        -7
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U U R D R D D U R D U D D U D",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        4,
+        7,
+        9,
+        11
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+7,+4,0,-2,0,-7,-2,+7,0,-5,+14,-7,-5,+3,-7|DUR:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1|ROMAN:Iadd9-V-IVmaj7-Isus2",
+      "canonical_invariant_sha256": "6bbc627f755c25f6103753755cde082a672c4f9d2e7eb7742832d1f8d201ff35",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_B_0846F1DF.mid",
+      "midi_sha256": "eaea457df66c6ddbcaae62d6c47bb8730de237c0864285a23e180c5921b32e8b",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_B_0846F1DF.musicxml",
+      "musicxml_sha256": "96b1b898d47a4b6aacf262b1121c843ca7583de1e349cb4430837aaef854305c",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "a9cb3b2b7a0f763d2c8234ae5dc9792b2348291cca0c8f749fcef111323a3f10",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "a2499f26b6c8748183e61b6e2565628ead8e1c177cfbec8bac2e064bd5b12785"
+        },
+        {
+          "position": "left",
+          "hash": "8eb6696188e5e62ffc78f3c4af7e6525279d899cf85e2b80e0a12ed2602eb6f1"
+        },
+        {
+          "position": "left",
+          "hash": "f375122ee9ad8d509f9e9709dc94a73e22a4f2d949f208ebcce87b7c64c8bd45"
+        }
+      ]
+    },
+    {
+      "index": 577,
+      "work_id": "OMPA_09_C_2AE27632",
+      "uuid": "2ae27632-4e02-50be-ab9b-977870340703",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "C",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 60,
+      "bars": 4,
+      "voicing_type": "root_pos",
+      "arpeggio_style": "arp_up",
+      "roman_progression": "vi9 -> IVmaj9 -> Iadd9 -> V7sus4",
+      "chord_progression": "Am9 -> Fmaj9 -> Cadd9 -> G7sus4",
+      "scientific_pitch_notation": "C4 D5 E4 B4 D5 D4 D4 G4",
+      "midi_note_array": [
+        60,
+        74,
+        64,
+        71,
+        74,
+        62,
+        62,
+        67
+      ],
+      "semitone_interval_vector": [
+        14,
+        -10,
+        7,
+        3,
+        -12,
+        0,
+        5
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U D U U D R U",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        4,
+        7,
+        11
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+14,-10,+7,+3,-12,0,+5|DUR:1,1,1,1,1,1,1,1|ROMAN:vi9-IVmaj9-Iadd9-V7sus4",
+      "canonical_invariant_sha256": "b9ac0f4285d73f2c0a87a2534818a2ae6466e0b9a660796ba0c8429f3091f713",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_C_2AE27632.mid",
+      "midi_sha256": "87b03f9d1ba127193227c95761467846bdd3a289b69a860e2f14d53dbcab582f",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_C_2AE27632.musicxml",
+      "musicxml_sha256": "72ce17e85e7caf2fde45ac94e51841a7233a7257519ba58d09f92e3821ff0402",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "b86816897a732788cf1f5c7ff5e91c62df2c5806dd16e4c457fa80e0bd3c853f",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "454a629246d1d1452538a076efba6f009a45aa213be1a28ca3623df12db491cb"
+        },
+        {
+          "position": "right",
+          "hash": "1b6358715882f504bd88401969c8763e6323c2548eea90584bfb278e08433e82"
+        },
+        {
+          "position": "right",
+          "hash": "5e3c52fe2d18f041565a16edfc019101923eee3e2db65088e7e38b7bc7656354"
+        }
+      ]
+    },
+    {
+      "index": 578,
+      "work_id": "OMPA_09_Cs_BB0D51CC",
+      "uuid": "bb0d51cc-a44c-54d2-a4dd-e1768c2c1317",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "C#",
+      "scale_mode": "hirajoshi_ambient",
+      "bpm": 66,
+      "bars": 4,
+      "voicing_type": "second_inv",
+      "arpeggio_style": "arp_up",
+      "roman_progression": "vi9 -> IVmaj9 -> Iadd9 -> V7sus4",
+      "chord_progression": "Bbm9 -> F#maj9 -> C#add9 -> Ab7sus4",
+      "scientific_pitch_notation": "C#3 Ab3 F4 Eb3 C#3 E3 Ab3 C#4",
+      "midi_note_array": [
+        49,
+        56,
+        65,
+        51,
+        49,
+        52,
+        56,
+        61
+      ],
+      "semitone_interval_vector": [
+        7,
+        9,
+        -14,
+        -2,
+        3,
+        4,
+        5
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U U D D U U U",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        3,
+        4,
+        7
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+7,+9,-14,-2,+3,+4,+5|DUR:1,1,1,1,1,1,1,1|ROMAN:vi9-IVmaj9-Iadd9-V7sus4",
+      "canonical_invariant_sha256": "5561e9d34bc4fc5ce8c813593ca8ff562d4e636a4325838a5ccecceea2dd5449",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_Cs_BB0D51CC.mid",
+      "midi_sha256": "95da4e4be3e55cabe126828100e2043cd07efa8d0dedbaa6a2961066d7dc2afa",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_Cs_BB0D51CC.musicxml",
+      "musicxml_sha256": "0eb15c21027b1f4721d770ad268e7c5ea06a0ddd7dcc1df881cc763b8d66e61e",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "454a629246d1d1452538a076efba6f009a45aa213be1a28ca3623df12db491cb",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "b86816897a732788cf1f5c7ff5e91c62df2c5806dd16e4c457fa80e0bd3c853f"
+        },
+        {
+          "position": "right",
+          "hash": "1b6358715882f504bd88401969c8763e6323c2548eea90584bfb278e08433e82"
+        },
+        {
+          "position": "right",
+          "hash": "5e3c52fe2d18f041565a16edfc019101923eee3e2db65088e7e38b7bc7656354"
+        }
+      ]
+    },
+    {
+      "index": 579,
+      "work_id": "OMPA_09_D_C1E7A16B",
+      "uuid": "c1e7a16b-cbf1-5f53-80a2-b74303cad5d3",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "D",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 74,
+      "bars": 4,
+      "voicing_type": "spread_open",
+      "arpeggio_style": "arp_up",
+      "roman_progression": "vi9 -> IVmaj9 -> Iadd9 -> V7sus4",
+      "chord_progression": "Bm9 -> Gmaj9 -> Dadd9 -> A7sus4",
+      "scientific_pitch_notation": "B4 Ab3 B3 B3 A3 B3 A4 C#4",
+      "midi_note_array": [
+        71,
+        56,
+        59,
+        59,
+        57,
+        59,
+        69,
+        61
+      ],
+      "semitone_interval_vector": [
+        -15,
+        3,
+        0,
+        -2,
+        2,
+        10,
+        -8
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D U R D U U D",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        9,
+        10
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-15,+3,0,-2,+2,+10,-8|DUR:1,1,1,1,1,1,1,1|ROMAN:vi9-IVmaj9-Iadd9-V7sus4",
+      "canonical_invariant_sha256": "8f6cf63e0978ac6258d0b40b8512d9267ab81b5d9599bc5e6b83230997b0177e",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_D_C1E7A16B.mid",
+      "midi_sha256": "0229bf59c5d1f9bc7b9fc4899f54931262fa336da7cfea99c2f783828a854f24",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_D_C1E7A16B.musicxml",
+      "musicxml_sha256": "b29c143edbcd308e17763aba9124a16f00ce224679af6c911e2cb426f300f34e",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "6c7926c98c894a4015b2ebf8cc62cb3df125e96f801d317746f32900d80a2729",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "0a02b758abe5c416ce07990988a4591e3f0053782ee196a67d7a757f4b80cd27"
+        },
+        {
+          "position": "left",
+          "hash": "aefba3bdf4f91edf97cf04857351e6507d887382d9ad9974ca3ee9a1336a319a"
+        },
+        {
+          "position": "right",
+          "hash": "5e3c52fe2d18f041565a16edfc019101923eee3e2db65088e7e38b7bc7656354"
+        }
+      ]
+    },
+    {
+      "index": 580,
+      "work_id": "OMPA_09_Eb_E9E51F49",
+      "uuid": "e9e51f49-6479-529d-84b0-3350385b0964",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "Eb",
+      "scale_mode": "ionian_major",
+      "bpm": 60,
+      "bars": 4,
+      "voicing_type": "root_pos",
+      "arpeggio_style": "arp_up",
+      "roman_progression": "vi9 -> IVmaj9 -> Iadd9 -> V7sus4",
+      "chord_progression": "Cm9 -> Abmaj9 -> Ebadd9 -> Bb7sus4",
+      "scientific_pitch_notation": "Bb4 Ab4 Eb4 Bb4 Eb5 Bb4 F4 F4",
+      "midi_note_array": [
+        70,
+        68,
+        63,
+        70,
+        75,
+        70,
+        65,
+        65
+      ],
+      "semitone_interval_vector": [
+        -2,
+        -5,
+        7,
+        5,
+        -5,
+        -5,
+        0
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D D U U D D R",
+      "allen_forte_mod12_set": [
+        0,
+        5,
+        7,
+        10
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-2,-5,+7,+5,-5,-5,0|DUR:1,1,1,1,1,1,1,1|ROMAN:vi9-IVmaj9-Iadd9-V7sus4",
+      "canonical_invariant_sha256": "b533ef8d8a0259d776d522ff278790f839d039924b16b13a913c99b9fc512082",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_Eb_E9E51F49.mid",
+      "midi_sha256": "930b480a6df68cba4e4723d6260248929d3757b1c10c37fb825dea4bed1ef3b8",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_Eb_E9E51F49.musicxml",
+      "musicxml_sha256": "600eb1c7c57753a80b9b4395fecab5f7775861e969e00c3bf827c988588f1cf8",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "0a02b758abe5c416ce07990988a4591e3f0053782ee196a67d7a757f4b80cd27",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "6c7926c98c894a4015b2ebf8cc62cb3df125e96f801d317746f32900d80a2729"
+        },
+        {
+          "position": "left",
+          "hash": "aefba3bdf4f91edf97cf04857351e6507d887382d9ad9974ca3ee9a1336a319a"
+        },
+        {
+          "position": "right",
+          "hash": "5e3c52fe2d18f041565a16edfc019101923eee3e2db65088e7e38b7bc7656354"
+        }
+      ]
+    },
+    {
+      "index": 581,
+      "work_id": "OMPA_09_E_493AAE31",
+      "uuid": "493aae31-b173-5cd9-97d5-6b57e7999d7a",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "E",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 66,
+      "bars": 4,
+      "voicing_type": "second_inv",
+      "arpeggio_style": "arp_up",
+      "roman_progression": "vi9 -> IVmaj9 -> Iadd9 -> V7sus4",
+      "chord_progression": "C#m9 -> Amaj9 -> Eadd9 -> B7sus4",
+      "scientific_pitch_notation": "E4 Bb4 E5 Eb5 B4 Eb5 F#4 E4",
+      "midi_note_array": [
+        64,
+        70,
+        76,
+        75,
+        71,
+        75,
+        66,
+        64
+      ],
+      "semitone_interval_vector": [
+        6,
+        6,
+        -1,
+        -4,
+        4,
+        -9,
+        -2
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U U D D U D D",
+      "allen_forte_mod12_set": [
+        0,
+        2,
+        6,
+        7,
+        11
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+6,+6,-1,-4,+4,-9,-2|DUR:1,1,1,1,1,1,1,1|ROMAN:vi9-IVmaj9-Iadd9-V7sus4",
+      "canonical_invariant_sha256": "06d8f912b0a8c64d0294c40c87b13ee129c98b4179299cca01b5d24677538f9d",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_E_493AAE31.mid",
+      "midi_sha256": "a3c56d6e7872b7f087af6938a0b8eb323b64344ad148d43dda8b060d4d3b53a5",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_E_493AAE31.musicxml",
+      "musicxml_sha256": "e9510da00287bd4dda48648d272b48a29c64c09d47c991d7cab69d65f5f22363",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "daff511f0f950e9d6284c4d682dbfb258b09111fdb39d9b4e2772c3f5c616af4",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "b6ba38968f837585b9d51191d7a6e91fd8a7b6eed25bfc8565e7461ad5c39f44"
+        },
+        {
+          "position": "right",
+          "hash": "9130094b27f3b88629c80d8068e538be9ce2db0f9264313ee2e9ed753789e4a3"
+        },
+        {
+          "position": "left",
+          "hash": "6981135415555e074a178b413e3ba408b67949693e673dccdd1931ac2b510dd8"
+        }
+      ]
+    },
+    {
+      "index": 582,
+      "work_id": "OMPA_09_F_5FFA1B52",
+      "uuid": "5ffa1b52-0cf2-59d5-9e8b-9422cdfb0bfb",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "F",
+      "scale_mode": "major_pentatonic",
+      "bpm": 74,
+      "bars": 4,
+      "voicing_type": "spread_open",
+      "arpeggio_style": "arp_up",
+      "roman_progression": "vi9 -> IVmaj9 -> Iadd9 -> V7sus4",
+      "chord_progression": "Dm9 -> Bbmaj9 -> Fadd9 -> C7sus4",
+      "scientific_pitch_notation": "A3 C4 F4 A3 F3 G3 C4 F4",
+      "midi_note_array": [
+        57,
+        60,
+        65,
+        57,
+        53,
+        55,
+        60,
+        65
+      ],
+      "semitone_interval_vector": [
+        3,
+        5,
+        -8,
+        -4,
+        2,
+        5,
+        5
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U U D D U U U",
+      "allen_forte_mod12_set": [
+        0,
+        3,
+        8,
+        10
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+3,+5,-8,-4,+2,+5,+5|DUR:1,1,1,1,1,1,1,1|ROMAN:vi9-IVmaj9-Iadd9-V7sus4",
+      "canonical_invariant_sha256": "3168b9a671612ad1a4e426df952e9bd6988269a630c1eb8b5af8224ebc234a00",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_F_5FFA1B52.mid",
+      "midi_sha256": "585aa4631296ee45c4e4c7b3fcb19aa3bb19bb08e60b244f50bcc15cb60971c0",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_F_5FFA1B52.musicxml",
+      "musicxml_sha256": "aeaf04dc3f5a09550af5457e5c8ca50bb1a6e5d298ca0b7cd8bd8ce87f76a899",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "b6ba38968f837585b9d51191d7a6e91fd8a7b6eed25bfc8565e7461ad5c39f44",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "daff511f0f950e9d6284c4d682dbfb258b09111fdb39d9b4e2772c3f5c616af4"
+        },
+        {
+          "position": "right",
+          "hash": "9130094b27f3b88629c80d8068e538be9ce2db0f9264313ee2e9ed753789e4a3"
+        },
+        {
+          "position": "left",
+          "hash": "6981135415555e074a178b413e3ba408b67949693e673dccdd1931ac2b510dd8"
+        }
+      ]
+    },
+    {
+      "index": 583,
+      "work_id": "OMPA_09_Fs_A8E12362",
+      "uuid": "a8e12362-42a0-546f-a4c9-76e292d216c2",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "F#",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 60,
+      "bars": 4,
+      "voicing_type": "root_pos",
+      "arpeggio_style": "arp_up",
+      "roman_progression": "vi9 -> IVmaj9 -> Iadd9 -> V7sus4",
+      "chord_progression": "Ebm9 -> Bmaj9 -> F#add9 -> C#7sus4",
+      "scientific_pitch_notation": "F#4 F#4 Eb4 F#3 F#4 Eb4 F#4 C#5",
+      "midi_note_array": [
+        66,
+        66,
+        63,
+        54,
+        66,
+        63,
+        66,
+        73
+      ],
+      "semitone_interval_vector": [
+        0,
+        -3,
+        -9,
+        12,
+        -3,
+        3,
+        7
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* R D D U D U U",
+      "allen_forte_mod12_set": [
+        0,
+        7,
+        9
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:0,-3,-9,+12,-3,+3,+7|DUR:1,1,1,1,1,1,1,1|ROMAN:vi9-IVmaj9-Iadd9-V7sus4",
+      "canonical_invariant_sha256": "2976e4b78c705fa1a3bd447794924e111603c01d740eed17b5766ba9042c1a71",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_Fs_A8E12362.mid",
+      "midi_sha256": "3844804ab9afe94b88005dff5e182240b8fc2a02e2212b8172a4d55787a9b66d",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_Fs_A8E12362.musicxml",
+      "musicxml_sha256": "b2feffa15c8f7347eb262dd7ce7f7b172b06dd4fc7f4087a2d1a10a107baa116",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "e6828d293af76b60b723dc6fa8410997a489280db2d51c770c7ad422fc246982",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "f2a677efbd48afd25c84adf6b9a8e3a8875366fb0e22affb69d772f170c229c2"
+        },
+        {
+          "position": "left",
+          "hash": "ab6c95ad1151ebd4ec061bd3b05a97a5af70868be9a0510ca58ff2ce5362c0ec"
+        },
+        {
+          "position": "left",
+          "hash": "6981135415555e074a178b413e3ba408b67949693e673dccdd1931ac2b510dd8"
+        }
+      ]
+    },
+    {
+      "index": 584,
+      "work_id": "OMPA_09_G_A58C92AD",
+      "uuid": "a58c92ad-a290-5969-9792-b412a7935058",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "G",
+      "scale_mode": "hirajoshi_ambient",
+      "bpm": 66,
+      "bars": 4,
+      "voicing_type": "second_inv",
+      "arpeggio_style": "arp_up",
+      "roman_progression": "vi9 -> IVmaj9 -> Iadd9 -> V7sus4",
+      "chord_progression": "Em9 -> Cmaj9 -> Gadd9 -> D7sus4",
+      "scientific_pitch_notation": "E5 Bb4 B4 Eb5 G5 G5 A4 G4",
+      "midi_note_array": [
+        76,
+        70,
+        71,
+        75,
+        79,
+        79,
+        69,
+        67
+      ],
+      "semitone_interval_vector": [
+        -6,
+        1,
+        4,
+        4,
+        0,
+        -10,
+        -2
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D U U U R D D",
+      "allen_forte_mod12_set": [
+        0,
+        3,
+        5,
+        6,
+        7,
+        11
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-6,+1,+4,+4,0,-10,-2|DUR:1,1,1,1,1,1,1,1|ROMAN:vi9-IVmaj9-Iadd9-V7sus4",
+      "canonical_invariant_sha256": "c893aae5bd60ed7ceb1be103a06bbabd04647d72e7e0da4acefe969b94494fcb",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_G_A58C92AD.mid",
+      "midi_sha256": "6816aad217e53199ab3e77383574cea3ade1841bd7adf5cead8131caa821c9c9",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_G_A58C92AD.musicxml",
+      "musicxml_sha256": "0b277cbe4eaa920caa1b4280dff55c5127c77f11458893806f962ea118677374",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "f2a677efbd48afd25c84adf6b9a8e3a8875366fb0e22affb69d772f170c229c2",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "e6828d293af76b60b723dc6fa8410997a489280db2d51c770c7ad422fc246982"
+        },
+        {
+          "position": "left",
+          "hash": "ab6c95ad1151ebd4ec061bd3b05a97a5af70868be9a0510ca58ff2ce5362c0ec"
+        },
+        {
+          "position": "left",
+          "hash": "6981135415555e074a178b413e3ba408b67949693e673dccdd1931ac2b510dd8"
+        }
+      ]
+    },
+    {
+      "index": 585,
+      "work_id": "OMPA_09_Ab_8E981245",
+      "uuid": "8e981245-d05d-5735-a096-a4dd968ce8b9",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "Ab",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 74,
+      "bars": 4,
+      "voicing_type": "spread_open",
+      "arpeggio_style": "arp_up",
+      "roman_progression": "vi9 -> IVmaj9 -> Iadd9 -> V7sus4",
+      "chord_progression": "Fm9 -> C#maj9 -> Abadd9 -> Eb7sus4",
+      "scientific_pitch_notation": "F5 D5 C#5 D6 Eb5 Bb4 Eb5 Ab4",
+      "midi_note_array": [
+        77,
+        74,
+        73,
+        86,
+        75,
+        70,
+        75,
+        68
+      ],
+      "semitone_interval_vector": [
+        -3,
+        -1,
+        13,
+        -11,
+        -5,
+        5,
+        -7
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D D U D D U D",
+      "allen_forte_mod12_set": [
+        0,
+        3,
+        5,
+        8,
+        9,
+        10
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-3,-1,+13,-11,-5,+5,-7|DUR:1,1,1,1,1,1,1,1|ROMAN:vi9-IVmaj9-Iadd9-V7sus4",
+      "canonical_invariant_sha256": "8b089db4473b4f7ef88604080e98747882927a5972b6e91bbb32f448d1a11446",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_Ab_8E981245.mid",
+      "midi_sha256": "268fa9556500edead79d9596a6ef53d33a4362bd1307ab21cf1dc04528591371",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_Ab_8E981245.musicxml",
+      "musicxml_sha256": "52dd461c84a0ef4586222b962435d039d95abf900506d2db787f976b0c97d860",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "f813c9112fcc329137c65771a1686c73c5b2de56961746f506bce4392528f796",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "ed90762bfafa7c809dd54d2978bc47eda766f4691f6b38ccaef49d0f512cfa18"
+        },
+        {
+          "position": "right",
+          "hash": "6d03887058c67a95a84d456f49a9b0dd9becbd7c5470c63ec1d96d9a430fdf85"
+        },
+        {
+          "position": "right",
+          "hash": "99dce80e7cea2689f2d0071c5ed456546a0f9112d077a8e2abf39e1313750716"
+        }
+      ]
+    },
+    {
+      "index": 586,
+      "work_id": "OMPA_09_A_CA6BBE6B",
+      "uuid": "ca6bbe6b-0cab-5e15-815c-0b8aadf32a83",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "A",
+      "scale_mode": "ionian_major",
+      "bpm": 60,
+      "bars": 4,
+      "voicing_type": "root_pos",
+      "arpeggio_style": "arp_up",
+      "roman_progression": "vi9 -> IVmaj9 -> Iadd9 -> V7sus4",
+      "chord_progression": "F#m9 -> Dmaj9 -> Aadd9 -> E7sus4",
+      "scientific_pitch_notation": "C#4 Ab4 A4 D4 C#4 D4 E4 B4",
+      "midi_note_array": [
+        61,
+        68,
+        69,
+        62,
+        61,
+        62,
+        64,
+        71
+      ],
+      "semitone_interval_vector": [
+        7,
+        1,
+        -7,
+        -1,
+        1,
+        2,
+        7
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* U U D D U U U",
+      "allen_forte_mod12_set": [
+        0,
+        1,
+        3,
+        7,
+        8,
+        10
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:+7,+1,-7,-1,+1,+2,+7|DUR:1,1,1,1,1,1,1,1|ROMAN:vi9-IVmaj9-Iadd9-V7sus4",
+      "canonical_invariant_sha256": "9f796b15bb913059d285a05b2e23c933f68dd757b4765753d90eed42d1b3fd0a",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_A_CA6BBE6B.mid",
+      "midi_sha256": "79e6d7c5a3d0644a93a4363efb58d3e46592929c246059a38dbfa57bcd196fc2",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_A_CA6BBE6B.musicxml",
+      "musicxml_sha256": "b23a78e8303202e01e991a350c4414b36c6f366de5afb75ab7d4018e31351b3d",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "ed90762bfafa7c809dd54d2978bc47eda766f4691f6b38ccaef49d0f512cfa18",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "f813c9112fcc329137c65771a1686c73c5b2de56961746f506bce4392528f796"
+        },
+        {
+          "position": "right",
+          "hash": "6d03887058c67a95a84d456f49a9b0dd9becbd7c5470c63ec1d96d9a430fdf85"
+        },
+        {
+          "position": "right",
+          "hash": "99dce80e7cea2689f2d0071c5ed456546a0f9112d077a8e2abf39e1313750716"
+        }
+      ]
+    },
+    {
+      "index": 587,
+      "work_id": "OMPA_09_Bb_29192E7D",
+      "uuid": "29192e7d-ac1c-51d1-a1bc-45b34d267812",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "Bb",
+      "scale_mode": "lydian_cinematic",
+      "bpm": 66,
+      "bars": 4,
+      "voicing_type": "second_inv",
+      "arpeggio_style": "arp_up",
+      "roman_progression": "vi9 -> IVmaj9 -> Iadd9 -> V7sus4",
+      "chord_progression": "Gm9 -> Ebmaj9 -> Bbadd9 -> F7sus4",
+      "scientific_pitch_notation": "Bb4 E4 D5 Bb3 F4 D5 Bb4 A4",
+      "midi_note_array": [
+        70,
+        64,
+        74,
+        58,
+        65,
+        74,
+        70,
+        69
+      ],
+      "semitone_interval_vector": [
+        -6,
+        10,
+        -16,
+        7,
+        9,
+        -4,
+        -1
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D U D U U D D",
+      "allen_forte_mod12_set": [
+        0,
+        4,
+        6,
+        7,
+        11
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-6,+10,-16,+7,+9,-4,-1|DUR:1,1,1,1,1,1,1,1|ROMAN:vi9-IVmaj9-Iadd9-V7sus4",
+      "canonical_invariant_sha256": "a9098e1bce934f535374ffba32bd3fe167d4c58ff620ea8e2709cecbf688f074",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_Bb_29192E7D.mid",
+      "midi_sha256": "3633f38e5bfc6b9870d87e45141f906d602d62f89eea416bd372f47437e1fbba",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_Bb_29192E7D.musicxml",
+      "musicxml_sha256": "fff65b40f42b5b313c01f94e1175205497587bb4dcf4c87e7a0639141b9f02b4",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "d66257fdad1e00cc2ef6c1b6348d1d06b5bd157db29afeee14b941e827a9e8a7",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "right",
+          "hash": "3ea1010f7164f1fc5d993d7c227b6268305c063646b38b2a7c3eb62a58d9293a"
+        },
+        {
+          "position": "left",
+          "hash": "700f546026beb1ba6c4faa986b9941534a495d0f1fce762a9adf0ca404a771a0"
+        },
+        {
+          "position": "right",
+          "hash": "99dce80e7cea2689f2d0071c5ed456546a0f9112d077a8e2abf39e1313750716"
+        }
+      ]
+    },
+    {
+      "index": 588,
+      "work_id": "OMPA_09_B_3B746F54",
+      "uuid": "3b746f54-9b8e-5ad9-bae1-16d7992981f1",
+      "genre_id": "09_Cinematic_Ambient_Meditation_Healing",
+      "genre_display": "Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM)",
+      "key": "B",
+      "scale_mode": "major_pentatonic",
+      "bpm": 74,
+      "bars": 4,
+      "voicing_type": "spread_open",
+      "arpeggio_style": "arp_up",
+      "roman_progression": "vi9 -> IVmaj9 -> Iadd9 -> V7sus4",
+      "chord_progression": "Abm9 -> Emaj9 -> Badd9 -> F#7sus4",
+      "scientific_pitch_notation": "B5 Eb5 Ab4 B5 B5 Ab5 F#5 B4",
+      "midi_note_array": [
+        83,
+        75,
+        68,
+        83,
+        83,
+        80,
+        78,
+        71
+      ],
+      "semitone_interval_vector": [
+        -8,
+        -7,
+        15,
+        0,
+        -3,
+        -2,
+        -7
+      ],
+      "normalized_duration_ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "parsons_contour_code": "* D D U R D D D",
+      "allen_forte_mod12_set": [
+        0,
+        4,
+        7,
+        9
+      ],
+      "canonical_invariant_string": "IDCSv1|INT:-8,-7,+15,0,-3,-2,-7|DUR:1,1,1,1,1,1,1,1|ROMAN:vi9-IVmaj9-Iadd9-V7sus4",
+      "canonical_invariant_sha256": "2ebcbdc6a6988cb7fdf44afdc05e67cd3e2fc6e634415d937838d642cbaea1f3",
+      "midi_file": "genres/09_Cinematic_Ambient_Meditation_Healing/midi/OMPA_09_B_3B746F54.mid",
+      "midi_sha256": "d56605dc79a1246950778a35020a559274880d9487ace3dc81f59b6c1ff40fe1",
+      "musicxml_file": "genres/09_Cinematic_Ambient_Meditation_Healing/musicxml/OMPA_09_B_3B746F54.musicxml",
+      "musicxml_sha256": "f96964a2f3006c3a0de8694eed6d452763dff284b4a07c0c8f7797865396bbbd",
+      "wav_file": null,
+      "wav_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "warp_minus5pct_wav_sha256": null,
+      "warp_plus5pct_wav_sha256": null,
+      "leaf_sha256": "3ea1010f7164f1fc5d993d7c227b6268305c063646b38b2a7c3eb62a58d9293a",
+      "merkle_proof_depth": 10,
+      "merkle_proof_head": [
+        {
+          "position": "left",
+          "hash": "d66257fdad1e00cc2ef6c1b6348d1d06b5bd157db29afeee14b941e827a9e8a7"
+        },
+        {
+          "position": "left",
+          "hash": "700f546026beb1ba6c4faa986b9941534a495d0f1fce762a9adf0ca404a771a0"
+        },
+        {
+          "position": "right",
+          "hash": "99dce80e7cea2689f2d0071c5ed456546a0f9112d077a8e2abf39e1313750716"
+        }
+      ]
+    }
+  ]
+}

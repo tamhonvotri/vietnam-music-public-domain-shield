@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="4.0">
+  <work>
+    <work-number>OMPA_04_Fs_EF12EFE5</work-number>
+    <work-title>Dance / VinaHouse / Eurodance / Hardstyle (128-145 BPM) - Key F# (IDCSv1|INT:+7,0,-7,+12,-5,-4,0,-3,+5,+7,-10,+5,0,-5,-6,+6,+1,+4,0,+1,-1,0,-11,+7,+5,0,-6,+8,-7,-1,+1|DUR:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1|ROMAN:i-iv-VII-III-VI-iv-V7-i)</work-title>
+  </work>
+  <identification>
+    <creator type="composer">OpenMusic-PriorArt-Engine (Autonomous Combinatorial Generator)</creator>
+    <rights>CC0 1.0 Universal (Public Domain Prior Art Dedication)</rights>
+  </identification>
+  <part-list>
+    <score-part id="P1"><part-name>Topline &amp; Harmonic Structure</part-name></score-part>
+  </part-list>
+  <part id="P1">
+    <measure number="1">
+      <attributes><divisions>4</divisions><time><beats>4</beats><beat-type>4</beat-type></time><clef><sign>G</sign><line>2</line></clef></attributes>
+      <direction placement="above"><sound tempo="128"/></direction>
+      <harmony><root><root-step>F</root-step><root-alter>1</root-alter></root><kind text="F#m">major</kind></harmony>
+      <note><pitch><step>F</step><alter>1</alter><octave>4</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>C</step><alter>1</alter><octave>5</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>C</step><alter>1</alter><octave>5</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>F</step><alter>1</alter><octave>4</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>F</step><alter>1</alter><octave>5</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>C</step><alter>1</alter><octave>5</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>A</step><octave>4</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>A</step><octave>4</octave></pitch><duration>2</duration><type>quarter</type></note>
+    </measure>
+    <measure number="2">
+      <harmony><root><root-step>B</root-step></root><kind text="Bm">major</kind></harmony>
+      <note><pitch><step>F</step><alter>1</alter><octave>4</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>B</step><octave>4</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>F</step><alter>1</alter><octave>5</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>A</step><alter>-1</alter><octave>4</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>C</step><alter>1</alter><octave>5</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>C</step><alter>1</alter><octave>5</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>A</step><alter>-1</alter><octave>4</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>D</step><octave>4</octave></pitch><duration>2</duration><type>quarter</type></note>
+    </measure>
+    <measure number="3">
+      <harmony><root><root-step>E</root-step></root><kind text="E">major</kind></harmony>
+      <note><pitch><step>A</step><alter>-1</alter><octave>4</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>A</step><octave>4</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>C</step><alter>1</alter><octave>5</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>C</step><alter>1</alter><octave>5</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>D</step><octave>5</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>C</step><alter>1</alter><octave>5</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>C</step><alter>1</alter><octave>5</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>D</step><octave>4</octave></pitch><duration>2</duration><type>quarter</type></note>
+    </measure>
+    <measure number="4">
+      <harmony><root><root-step>A</root-step></root><kind text="A">major</kind></harmony>
+      <note><pitch><step>A</step><octave>4</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>D</step><octave>5</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>D</step><octave>5</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>A</step><alter>-1</alter><octave>4</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>E</step><octave>5</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>A</step><octave>4</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>A</step><alter>-1</alter><octave>4</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>A</step><octave>4</octave></pitch><duration>2</duration><type>quarter</type></note>
+    </measure>
+  </part>
+</score-partwise>

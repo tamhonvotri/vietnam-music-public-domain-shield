@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="4.0">
+  <work>
+    <work-number>OMPA_09_A_CA6BBE6B</work-number>
+    <work-title>Cinematic / Ambient / Meditation / Healing BGM (60-76 BPM) - Key A (IDCSv1|INT:+7,+1,-7,-1,+1,+2,+7|DUR:1,1,1,1,1,1,1,1|ROMAN:vi9-IVmaj9-Iadd9-V7sus4)</work-title>
+  </work>
+  <identification>
+    <creator type="composer">OpenMusic-PriorArt-Engine (Autonomous Combinatorial Generator)</creator>
+    <rights>CC0 1.0 Universal (Public Domain Prior Art Dedication)</rights>
+  </identification>
+  <part-list>
+    <score-part id="P1"><part-name>Topline &amp; Harmonic Structure</part-name></score-part>
+  </part-list>
+  <part id="P1">
+    <measure number="1">
+      <attributes><divisions>4</divisions><time><beats>4</beats><beat-type>4</beat-type></time><clef><sign>G</sign><line>2</line></clef></attributes>
+      <direction placement="above"><sound tempo="60"/></direction>
+      <harmony><root><root-step>F</root-step><root-alter>1</root-alter></root><kind text="F#m9">major</kind></harmony>
+      <note><pitch><step>C</step><alter>1</alter><octave>4</octave></pitch><duration>8</duration><type>quarter</type></note>
+      <note><pitch><step>A</step><alter>-1</alter><octave>4</octave></pitch><duration>8</duration><type>quarter</type></note>
+    </measure>
+    <measure number="2">
+      <harmony><root><root-step>D</root-step></root><kind text="Dmaj9">major</kind></harmony>
+      <note><pitch><step>A</step><octave>4</octave></pitch><duration>8</duration><type>quarter</type></note>
+      <note><pitch><step>D</step><octave>4</octave></pitch><duration>8</duration><type>quarter</type></note>
+    </measure>
+    <measure number="3">
+      <harmony><root><root-step>A</root-step></root><kind text="Aadd9">major</kind></harmony>
+      <note><pitch><step>C</step><alter>1</alter><octave>4</octave></pitch><duration>8</duration><type>quarter</type></note>
+      <note><pitch><step>D</step><octave>4</octave></pitch><duration>8</duration><type>quarter</type></note>
+    </measure>
+    <measure number="4">
+      <harmony><root><root-step>E</root-step></root><kind text="E7sus4">major</kind></harmony>
+      <note><pitch><step>E</step><octave>4</octave></pitch><duration>8</duration><type>quarter</type></note>
+      <note><pitch><step>B</step><octave>4</octave></pitch><duration>8</duration><type>quarter</type></note>
+    </measure>
+  </part>
+</score-partwise>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="4.0">
+  <work>
+    <work-number>OMPA_08_A_3F2F90F1</work-number>
+    <work-title>Synthwave / Retrowave / City Pop / Disco-Funk (100-125 BPM) - Key A (IDCSv1|INT:-1,-2,+2,-11,-1,+7,-2,0,+10,-5,-2,0,-7,+2,+5|DUR:2,1,1,2,2,2,2,4,2,1,1,2,2,2,2,4|ROMAN:IVmaj7-V7-iii7-vi7)</work-title>
+  </work>
+  <identification>
+    <creator type="composer">OpenMusic-PriorArt-Engine (Autonomous Combinatorial Generator)</creator>
+    <rights>CC0 1.0 Universal (Public Domain Prior Art Dedication)</rights>
+  </identification>
+  <part-list>
+    <score-part id="P1"><part-name>Topline &amp; Harmonic Structure</part-name></score-part>
+  </part-list>
+  <part id="P1">
+    <measure number="1">
+      <attributes><divisions>4</divisions><time><beats>4</beats><beat-type>4</beat-type></time><clef><sign>G</sign><line>2</line></clef></attributes>
+      <direction placement="above"><sound tempo="102"/></direction>
+      <harmony><root><root-step>D</root-step></root><kind text="Dmaj7">major</kind></harmony>
+      <note><pitch><step>A</step><octave>5</octave></pitch><duration>4</duration><type>quarter</type></note>
+      <note><pitch><step>A</step><alter>-1</alter><octave>5</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>F</step><alter>1</alter><octave>5</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>A</step><alter>-1</alter><octave>5</octave></pitch><duration>4</duration><type>quarter</type></note>
+      <note><pitch><step>A</step><octave>4</octave></pitch><duration>4</duration><type>quarter</type></note>
+    </measure>
+    <measure number="2">
+      <harmony><root><root-step>E</root-step></root><kind text="E7">major</kind></harmony>
+      <note><pitch><step>A</step><alter>-1</alter><octave>4</octave></pitch><duration>4</duration><type>quarter</type></note>
+      <note><pitch><step>E</step><alter>-1</alter><octave>5</octave></pitch><duration>4</duration><type>quarter</type></note>
+      <note><pitch><step>C</step><alter>1</alter><octave>5</octave></pitch><duration>8</duration><type>quarter</type></note>
+    </measure>
+    <measure number="3">
+      <harmony><root><root-step>C</root-step><root-alter>1</root-alter></root><kind text="C#m7">major</kind></harmony>
+      <note><pitch><step>C</step><alter>1</alter><octave>5</octave></pitch><duration>4</duration><type>quarter</type></note>
+      <note><pitch><step>B</step><octave>5</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>F</step><alter>1</alter><octave>5</octave></pitch><duration>2</duration><type>quarter</type></note>
+      <note><pitch><step>E</step><octave>5</octave></pitch><duration>4</duration><type>quarter</type></note>
+      <note><pitch><step>E</step><octave>5</octave></pitch><duration>4</duration><type>quarter</type></note>
+    </measure>
+    <measure number="4">
+      <harmony><root><root-step>F</root-step><root-alter>1</root-alter></root><kind text="F#m7">major</kind></harmony>
+      <note><pitch><step>A</step><octave>4</octave></pitch><duration>4</duration><type>quarter</type></note>
+      <note><pitch><step>B</step><octave>4</octave></pitch><duration>4</duration><type>quarter</type></note>
+      <note><pitch><step>E</step><octave>5</octave></pitch><duration>8</duration><type>quarter</type></note>
+    </measure>
+  </part>
+</score-partwise>
