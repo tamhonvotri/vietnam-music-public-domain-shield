@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Dataset",
   "name": "VMPAC Self-Verifiable FIPS 180-4 SHA-256 & 11-Level Binary Merkle Tree Manifest (VMA-VLP-2026-CC0)",
-  "description": "Bảng kê mã băm mật mã học SHA-256 độc lập cho toàn bộ 11 tệp JSON Catalog và cây nhị phân Merkle Tree 11 tầng (660 tác phẩm đa rãnh CC0 1.0) giúp bất kỳ kỹ sư hoặc hội đồng pháp lý nào tự kiểm chứng toán học 100%.",
+  "description": "Bảng kê mã băm mật mã học SHA-256 độc lập cho toàn bộ 12 tệp JSON Catalog (gồm 10 nhánh nhạc hiện đại/AI, Nhánh 11 Sinh trắc học thanh quản 216 vector và Master Manifest) cùng cây nhị phân Merkle Tree 11 tầng (660 tác phẩm đa rãnh CC0 1.0) giúp bất kỳ kỹ sư hoặc hội đồng pháp lý nào tự kiểm chứng toán học 100%.",
   "archival_reference_id": "VMA-VLP-2026-CC0",
   "license": "https://creativecommons.org/publicdomain/zero/1.0/",
   "isAccessibleForFree": true,
@@ -10,6 +10,7 @@
   "merkle_root_sha256": "2d91d807fb1ef9ae818a41b409a36a93c5c02fd99d91cc73e4887a65899a8fce",
   "merkle_tree_depth": 11,
   "total_works_notarized": 660,
+  "branch_11_vocal_biometrics_catalog_sha256": "d8ad67f79b383ad1c3d23d1faee464171b592479fcdd98544396cbd4686d2c5f",
   "root_final_pair_proof": {
     "formula": "SHA256('NODEv1|41340eb27f85fa8dee55e6bfbf6d7a0cbc75ecc2c74ec2d6a9354ecfc5717e28|eb74be5a08803000e3436158ae5a03ddd469df526efc44a1538a3f3d4ebadf9d')",
     "left_child_sha256": "41340eb27f85fa8dee55e6bfbf6d7a0cbc75ecc2c74ec2d6a9354ecfc5717e28",
@@ -92,6 +93,13 @@
       "url": "https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/10_AI_Latent_Space_HighProb_Motifs.json",
       "size_bytes": 236279,
       "sha256": "8917221a56303c514b3ba34ae7ad1565af81bcdc8bfaee61ad81415e9853ad52"
+    },
+    {
+      "filename": "11_Vocal_Biometrics_Acoustic_PriorArt.json",
+      "relative_path": "/prior-art/catalogs/11_Vocal_Biometrics_Acoustic_PriorArt.json",
+      "url": "https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/11_Vocal_Biometrics_Acoustic_PriorArt.json",
+      "size_bytes": 227991,
+      "sha256": "d8ad67f79b383ad1c3d23d1faee464171b592479fcdd98544396cbd4686d2c5f"
     },
     {
       "filename": "MANIFEST_PRIOR_ART_CC0.json",

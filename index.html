@@ -15,9 +15,9 @@
   <meta name="google-site-verification" content="Wc_b_Rlq0atcOpP4QlJNWpSGPS-M5kvFLiISi4wdAMY" />
   <!-- MANDATORY: Declare support for both light and dark themes -->
   <meta name="color-scheme" content="light dark">
-  <title>VMPAC — Trung Tâm Lưu Ký Tiên Nghệ Thuật Âm Nhạc Học &amp; Bảo Tồn Di Sản Miền Công Cộng Việt Nam (CC0 1.0)</title>
-  <meta name="description" content="Cơ sở dữ liệu đối chứng học thuật, giám định âm nhạc học khách quan 6 lớp (Extrinsic Test), kho Tiên Nghệ Thuật 18 nhánh Dân ca &amp; 10 dòng nhạc hiện đại/AI (CC0 1.0) và công cụ trích xuất hồ sơ kháng cáo bản quyền YouTube Content ID.">
-  <meta name="keywords" content="vmpac clearinghouse, kháng cáo bản quyền youtube content id, tiên nghệ thuật âm nhạc prior art cc0, bản quyền nhạc dân ca bolero lofi vpop nhạc ai suno">
+  <title>VMPAC — Trung Tâm Lưu Ký Tiên Nghệ Thuật Âm Nhạc Học, Sinh Trắc Học Thanh Quản &amp; Bảo Tồn Di Sản Miền Công Cộng Việt Nam (CC0 1.0)</title>
+  <meta name="description" content="Hạ tầng Khoa học Pháp y Máy tính &amp; Âm học Mở xã hội hóa phi lợi nhuận 100%: Giám định âm nhạc học 6 lớp, Sinh trắc học ống thanh quản (Lvt/Formants), kho Tiên Nghệ Thuật 18 nhánh Dân ca &amp; 11 nhánh hiện đại/AI (CC0 1.0) và công cụ trích xuất hồ sơ kháng cáo Content ID / Nghị định 134/2026/NĐ-CP.">
+  <meta name="keywords" content="vmpac clearinghouse, kháng cáo bản quyền youtube content id, sinh trắc học thanh quản lvt formants, nghị định 134/2026/nđ-cp, tiên nghệ thuật âm nhạc prior art cc0, bản quyền nhạc dân ca bolero lofi vpop nhạc ai suno">
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
   <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
   <link rel="canonical" href="https://vietnam-music-public-domain-shield.vercel.app/">
@@ -25,8 +25,8 @@
   <link rel="alternate" type="text/plain" href="./llms.txt" title="VMPAC AI &amp; LLM Prior Art Knowledge Base (Plain Text)">
   <link rel="icon" type="image/svg+xml" href="./logo.svg">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="VMPAC — Trung Tâm Lưu Ký Tiên Nghệ Thuật Âm Nhạc Học &amp; Bảo Tồn Di Sản Miền Công Cộng Việt Nam (CC0 1.0)">
-  <meta property="og:description" content="Cơ sở dữ liệu đối chứng học thuật, giám định âm nhạc học khách quan 6 lớp (Extrinsic Test), kho Tiên Nghệ Thuật 18 nhánh Dân ca &amp; 10 dòng nhạc hiện đại/AI (CC0 1.0) và công cụ trích xuất hồ sơ kháng cáo bản quyền YouTube Content ID.">
+  <meta property="og:title" content="VMPAC — Trung Tâm Lưu Ký Tiên Nghệ Thuật Âm Nhạc Học, Sinh Trắc Học Thanh Quản &amp; Bảo Tồn Di Sản Miền Công Cộng Việt Nam (CC0 1.0)">
+  <meta property="og:description" content="Hạ tầng Khoa học Pháp y Máy tính &amp; Âm học Mở xã hội hóa phi lợi nhuận 100%: Giám định âm nhạc học 6 lớp, Sinh trắc học ống thanh quản (Lvt/Formants), kho Tiên Nghệ Thuật 18 nhánh Dân ca &amp; 11 nhánh hiện đại/AI (CC0 1.0) và công cụ trích xuất hồ sơ kháng cáo Content ID / Nghị định 134/2026/NĐ-CP.">
   <meta property="og:url" content="https://vietnam-music-public-domain-shield.vercel.app/">
   <meta property="og:site_name" content="VMPAC — Trung Tâm Lưu Ký Tiên Nghệ Thuật Âm Nhạc Học &amp; Bảo Tồn Di Sản Miền Công Cộng Việt Nam">
   <style>
@@ -1128,6 +1128,7 @@
       color: #94a3b8;
     }
 
+
     .seo-silo-grid {
       display: grid;
       grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -1289,18 +1290,29 @@
     }
     .sub-pills-grid {
       display: grid;
-      grid-template-columns: repeat(7, minmax(0, 1fr));
+      grid-template-columns: repeat(5, minmax(0, 1fr));
       gap: 0.4rem;
       width: 100%;
     }
     @media (max-width: 1120px) {
       .sub-pills-grid {
-        grid-template-columns: repeat(4, minmax(0, 1fr));
+        grid-template-columns: repeat(3, minmax(0, 1fr));
       }
     }
     @media (max-width: 680px) {
       .sub-pills-grid {
         grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+    .tool-controls {
+      display: grid !important;
+      grid-template-columns: repeat(2, 1fr) !important;
+      gap: 0.75rem !important;
+      margin-bottom: 1.25rem !important;
+    }
+    @media (max-width: 860px) {
+      .tool-controls {
+        grid-template-columns: 1fr !important;
       }
     }
     .sub-pill-link {
@@ -1513,19 +1525,20 @@
   </header>
 
 
+
   <nav class="inst-nav" aria-label="Thanh điều hướng chính">
     <div class="inst-nav-inner">
       <div class="nav-tabs-primary">
 <a href="./index.html" class="nav-page-link active-page">🏛️ Trang Chủ</a>
 <a href="./cong-cu-tao-don-khang-cao-content-id-dmca-512g.html" class="nav-page-link">⚡ Kháng Cáo 1&#8209;Click</a>
-<a href="./prior-art/index.html" class="nav-page-link">🎵 Kho 10 Dòng Nhạc &amp; AI</a>
+<a href="./prior-art/index.html" class="nav-page-link">🎵 Kho 11 Nhánh Nhạc &amp; Sinh Trắc AI</a>
 <a href="./so-cai-18-nhanh-di-san-am-nhac-viet-nam.html" class="nav-page-link">📜 18 Nhánh Dân Ca &amp; Bolero</a>
 <a href="./12-ho-so-thuc-chien-chong-danh-gay-ban-quyen.html" class="nav-page-link">📂 12 Tình Huống Thực Chiến</a>
 <a href="./cam-nang-25-cau-hoi-ban-quyen-am-nhac.html" class="nav-page-link">❓ 25 Câu Hỏi Q&amp;A Pháp Lý</a>
       </div>
     </div>
   </nav>
-  <div class="sub-directory-bar" role="navigation" aria-label="Danh mục 14 chuyên trang dòng nhạc và pháp lý tách biệt">
+  <div class="sub-directory-bar" role="navigation" aria-label="Danh mục 15 chuyên trang dòng nhạc, sinh trắc âm học và pháp lý tách biệt">
     <div class="sub-directory-inner">
       <div class="sub-pills-grid">
 <a href="./tham-quyen-va-co-so-phap-ly-ban-quyen-am-nhac.html" class="sub-pill-link">Cơ Sở Luật Quốc Tế</a>
@@ -1542,33 +1555,43 @@
 <a href="./prior-art/synthwave-retrowave-citypop-discofunk-cc0.html" class="sub-pill-link">08. Synthwave / City Pop</a>
 <a href="./prior-art/cinematic-ambient-meditation-healing-432hz-cc0.html" class="sub-pill-link">09. Nhạc Thiền / 432Hz</a>
 <a href="./prior-art/ai-suno-udio-minimax-melody-motifs-cc0.html" class="sub-pill-link">10. Nhạc AI (Suno / Udio)</a>
+<a href="./prior-art/sinh-trac-hoc-thanh-quan-va-chong-doc-quyen-am-sac-cc0.html" class="sub-pill-link">11. Sinh Trắc Giọng &amp; NĐ 134</a>
       </div>
     </div>
   </div>
 
   <main class="container">
-    <div style="background: var(--surface); border: 1px solid var(--border); border-left: 4px solid var(--gold); border-radius: 6px; padding: 0.75rem 1.1rem; margin-bottom: 1.15rem; font-size: 0.8rem; color: var(--muted); line-height: 1.55;">
+    <div style="background: var(--surface); border: 1px solid var(--border); border-left: 4px solid var(--gold); border-radius: 6px; padding: 0.8rem 1.15rem; margin-bottom: 1.15rem; font-size: 0.8rem; color: var(--muted); line-height: 1.58;">
       <strong style="color: var(--brand);">📌 TUYÊN BỐ BẢN CHẤT PHÁP LÝ &amp; LƯU KÝ MỞ (OPEN ARCHIVAL DISCLAIMER):</strong>
-      VMPAC (Mã định danh lưu ký: <code>VMA-VLP-2026-CC0</code> • Merkle Root: <code>2d91d807fb1ef9ae818a41b409a36a93c5c02fd99d91cc73e4887a65899a8fce</code>) là cơ sở dữ liệu lưu ký Tiên nghệ thuật âm nhạc học mở (<em>Open Defensive Prior Art Clearinghouse &amp; Digital Repository</em>) vận hành theo tiêu chuẩn mật mã FIPS 180-4 SHA-256 và hiến tặng miền công cộng <strong>CC0 1.0 Universal</strong>. Các chứng thư mã băm (<em>Cryptographic Hash Attestation</em>) và hồ sơ phân tích âm nhạc học 6 lớp trên hệ thống là tài liệu chứng cứ kỹ thuật khách quan (<em>Extrinsic Musicological Evidence &amp; Public Prior Art Record</em>) phục vụ bảo vệ quyền lợi hợp pháp theo <strong>Điều 8, Điều 15, Điều 23 Luật Sở hữu trí tuệ Việt Nam</strong> và <strong>17 U.S.C. § 102(b)</strong>, không thay thế văn bằng bảo hộ hành chính của cơ quan quản lý nhà nước.
+      VMPAC (Mã định danh lưu ký: <code>VMA-VLP-2026-CC0</code> • Merkle Root: <code>2d91d807fb1ef9ae818a41b409a36a93c5c02fd99d91cc73e4887a65899a8fce</code>) là cơ sở dữ liệu lưu ký Tiên nghệ thuật âm nhạc học mở (<em>Open Defensive Prior Art Clearinghouse &amp; Digital Repository</em>) vận hành theo tiêu chuẩn mật mã FIPS 180-4 SHA-256 và hiến tặng miền công cộng <strong>CC0 1.0 Universal</strong>. Các chứng thư mã băm (<em>Cryptographic Hash Attestation</em>) và hồ sơ phân tích âm nhạc học 6 lớp / sinh trắc học thanh quản trên hệ thống là tài liệu chứng cứ kỹ thuật khách quan (<em>Extrinsic Musicological &amp; Acoustic Evidence</em>) phục vụ bảo vệ quyền lợi hợp pháp theo <strong>Điều 8, Điều 15, Điều 23 Luật Sở hữu trí tuệ Việt Nam</strong>, <strong>Nghị định 134/2026/NĐ-CP</strong> và <strong>17 U.S.C. § 102(b), § 114(b)</strong>, không thay thế văn bằng bảo hộ hành chính của cơ quan quản lý nhà nước.<br>
+      <span style="display: block; margin-top: 0.45rem; padding-top: 0.45rem; border-top: 1px dashed var(--border); color: var(--text);">
+        <strong style="color: #15803d;">🏛️ SỨ MỆNH XÃ HỘI HÓA HẠ TẦNG SỐ CÔNG ÍCH (NGHỊ QUYẾT 80-NQ/TW &amp; KHUNG PHÁP LÝ 2026):</strong>
+        <em>"Hạ tầng Khoa học Pháp y Máy tính &amp; Âm học Mở (Open Computational &amp; Acoustic Forensics Infrastructure) được xây dựng theo hình thức xã hội hóa phi lợi nhuận 100% (0 đồng ngân sách nhà nước, không thu phí người dùng), nhằm hưởng ứng Nghị quyết số 80-NQ/TW (07/01/2026) của Bộ Chính trị về phát triển văn hóa và trực tiếp tháo gỡ rào cản kỹ thuật cho người sáng tạo Việt Nam trong việc tự thiết lập 'Thông tin quản lý quyền dạng máy đọc được (Machine-Readable RMI)' cũng như 'Hồ sơ chứng minh đóng góp mang tính quyết định của con người' theo đúng Luật Trí tuệ nhân tạo (01/3/2026), Luật Sở hữu trí tuệ sửa đổi (01/4/2026) và Nghị định số 134/2026/NĐ-CP của Chính phủ."</em>
+      </span>
       • Chỉ mục AI/LLM: <a href="./llms.html" style="color: var(--brand); font-weight: 700;">llms.html (HTML)</a> | <a href="./llms.txt" style="color: var(--brand); font-weight: 600;">llms.txt</a>
       • Kiểm chứng SHA-256 &amp; Merkle Tree: <a href="./prior-art/sha256-manifest.html" style="color: var(--brand); font-weight: 700;">Tự Kiểm Chứng Độc Lập (HTML)</a> | <a href="./prior-art/sha256-manifest.json" style="color: var(--brand); font-weight: 600;">sha256-manifest.json</a>
+      • Sinh trắc học giọng hát &amp; NĐ 134/2026: <a href="./prior-art/sinh-trac-hoc-thanh-quan-va-chong-doc-quyen-am-sac-cc0.html" style="color: var(--brand); font-weight: 700;">Nhánh 11 (L<sub>vt</sub> / Formants)</a> | <a href="./prior-art/catalogs/11_Vocal_Biometrics_Acoustic_PriorArt.json" style="color: var(--brand); font-weight: 600;">JSON 216 Vector</a>
     </div>
 
 
     <section class="section-block" style="border-top: 4px solid var(--accent);">
       <div class="section-header-row">
         <div>
-          <span class="section-kicker">Kiến Trúc Phân Tầng Chuẩn SEO Googlebot &amp; AI Browsing • 23 Chuyên Trang HTML &amp; 13 Catalog JSON Phẳng</span>
-          <h2 class="section-title">Danh Mục Tách Bạch Chuyên Trang Theo Từng Lĩnh Vực Pháp Lý &amp; Từng Dòng Nhạc (Dành Cho Người Dùng, Googlebot &amp; AI)</h2>
+          <span class="section-kicker">Kiến Trúc Phân Tầng Chuẩn SEO Googlebot &amp; AI Browsing • 24 Chuyên Trang HTML &amp; 14 Catalog JSON Phẳng</span>
+          <h2 class="section-title">Danh Mục Tách Bạch Chuyên Trang Theo Từng Lĩnh Vực Pháp Lý, Sinh Trắc Thanh Quản &amp; Từng Dòng Nhạc (Dành Cho Người Dùng, Googlebot &amp; AI)</h2>
         </div>
         <div class="seo-silo-links">
           <a href="./llms.html" class="btn-link-outline">🤖 Chỉ Mục AI/LLM (llms.html)</a>
           <a href="./prior-art/sha256-manifest.html" class="btn-link-outline">🔐 Tự Kiểm Chứng SHA-256 &amp; Merkle Root</a>
-          <a href="./prior-art/index.html" class="btn-link-pill">⚡ Mở Kho 10 Dòng Nhạc Hiện Đại &amp; AI (660 File) →</a>
+          <a href="./prior-art/sinh-trac-hoc-thanh-quan-va-chong-doc-quyen-am-sac-cc0.html" class="btn-link-pill" style="background:#15803d; border-color:#15803d;">🔬 Nhánh 11: Sinh Trắc Giọng &amp; NĐ 134/2026 →</a>
         </div>
       </div>
+      <div class="legal-Callout" style="border-left: 5px solid #15803d; margin-bottom: 1rem;">
+        <strong style="color: #15803d;">🏛️ SỨ MỆNH XÃ HỘI HÓA HẠ TẦNG SỐ CÔNG ÍCH &amp; THỰC THI CHÍNH SÁCH QUỐC GIA (NGHỊ QUYẾT 80-NQ/TW &amp; KHUNG PHÁP LÝ 2026):</strong><br>
+        <em>"Hạ tầng Khoa học Pháp y Máy tính &amp; Âm học Mở (Open Computational &amp; Acoustic Forensics Infrastructure) được xây dựng theo hình thức xã hội hóa phi lợi nhuận 100% (0 đồng ngân sách nhà nước, không thu phí người dùng), nhằm hưởng ứng Nghị quyết số 80-NQ/TW (07/01/2026) của Bộ Chính trị về phát triển văn hóa và trực tiếp tháo gỡ rào cản kỹ thuật cho người sáng tạo Việt Nam trong việc tự thiết lập 'Thông tin quản lý quyền dạng máy đọc được (Machine-Readable RMI)' cũng như 'Hồ sơ chứng minh đóng góp mang tính quyết định của con người' theo đúng Luật Trí tuệ nhân tạo (01/3/2026), Luật Sở hữu trí tuệ sửa đổi (01/4/2026) và Nghị định số 134/2026/NĐ-CP của Chính phủ."</em>
+      </div>
       <p style="margin-top:0; color:var(--muted);">
-        Mỗi chuyên đề pháp lý và mỗi dòng nhạc dưới đây đều có <strong>đường dẫn (URL) độc lập</strong>, bảng dữ liệu HTML tĩnh và tệp <code>JSON</code> phẳng không nén để <strong>Googlebot</strong>, các trình đọc AI (<strong>Gemini, ChatGPT, Claude, Perplexity</strong>) và người tìm kiếm truy cập trực tiếp không bị trộn lẫn:
+        Mỗi chuyên đề pháp lý, sinh trắc học thanh quản và mỗi dòng nhạc dưới đây đều có <strong>đường dẫn (URL) độc lập</strong>, bảng dữ liệu HTML tĩnh và tệp <code>JSON</code> phẳng không nén để <strong>Googlebot</strong>, các trình đọc AI (<strong>Gemini, ChatGPT, Claude, Perplexity</strong>) và người tìm kiếm truy cập trực tiếp không bị trộn lẫn:
       </p>
       <div class="seo-silo-grid">
         
@@ -1682,6 +1705,18 @@
             <a href="./prior-art/catalogs/10_AI_Latent_Space_HighProb_Motifs.json" class="btn-link-outline" target="_blank" rel="noopener">📄 JSON Phẳng Cho Bot</a>
           </div>
         </article>
+        <article class="seo-silo-card" style="grid-column: 1 / -1; border-left: 5px solid #15803d;">
+          <div>
+            <span class="silo-badge" style="color:#15803d; border-color:#15803d;">PHÂN NHÁNH 11 MỚI • 216 VECTOR SINH TRẮC THANH QUẢN (L<sub>vt</sub> / FORMANTS F<sub>1</sub>–F<sub>5</sub>) &amp; KHUNG PHÁP LÝ 2026 (NGHỊ ĐỊNH 134/2026/NĐ-CP)</span>
+            <h3><a href="./prior-art/sinh-trac-hoc-thanh-quan-va-chong-doc-quyen-am-sac-cc0.html" style="color:var(--brand); text-decoration:none;">11. Sinh Trắc Học Ống Thanh Quản (L<sub>vt</sub>, Formants F<sub>1</sub>–F<sub>5</sub>, Jitter/Shimmer), Ma Trận Hình Học Kỷ Hà (7 Frieze / 17 Wallpaper) &amp; Chống Độc Quyền Màu Giọng (Luật AI &amp; NĐ 134/2026/NĐ-CP)</a></h3>
+            <p style="margin-top:0.4rem;">Phân định rạch ròi giữa <strong>Sinh trắc cá nhân bất biến ($L_{vt}, F_3, F_4, F_5$, Jitter/Shimmer/CPP)</strong> và <strong>Màu giọng / Khẩu hình công cộng ($F_1, F_2$, Vibrato 5–7 Hz)</strong> theo Lý thuyết Nguồn – Bộ lọc Gunnar Fant (1960) &amp; 17 U.S.C. § 114(b); tách biệt Điều 15 vs. Điều 23 Luật SHTT (chuẩn <code>PD-VN-Art23</code>) và thiết lập <strong>Hồ sơ Đóng góp Quyết định của Con người (Mẫu VMA-134-BIO-CLEAN)</strong>.</p>
+          </div>
+          <div class="seo-silo-links">
+            <a href="./prior-art/sinh-trac-hoc-thanh-quan-va-chong-doc-quyen-am-sac-cc0.html" class="btn-link-pill" style="background:#15803d; border-color:#15803d;">Mở Chuyên Trang Sinh Trắc Giọng &amp; NĐ 134/2026 →</a>
+            <a href="./prior-art/catalogs/11_Vocal_Biometrics_Acoustic_PriorArt.json" class="btn-link-outline" target="_blank" rel="noopener">📄 JSON Phẳng (216 Vector Âm Học • SHA-256: d8ad67f79b38...)</a>
+            <a href="./cong-cu-tao-don-khang-cao-content-id-dmca-512g.html#tool-panel-4" class="btn-link-outline">⚖ Mở Biểu Mẫu VMA-134-BIO-CLEAN</a>
+          </div>
+        </article>
       </div>
     </section>
 
@@ -1696,6 +1731,11 @@
         </div>
 
         
+        
+        <div style="background: var(--surface); border: 1px solid #0b3568; border-left: 5px solid #0b3568; border-radius: 6px; padding: 0.85rem 1.15rem; margin-bottom: 0.85rem; font-size: 0.84rem; color: var(--text); line-height: 1.58;">
+          <strong style="color: var(--brand);">🏛️ Sứ Mệnh Xã Hội Hóa Hạ Tầng Số Công Ích &amp; Thực Thi Chính Sách Quốc Gia (Nghị Quyết 80-NQ/TW &amp; Nghị Định 134/2026/NĐ-CP):</strong>
+          <em>"Hạ tầng Khoa học Pháp y Máy tính &amp; Âm học Mở (Open Computational &amp; Acoustic Forensics Infrastructure) được xây dựng theo hình thức xã hội hóa phi lợi nhuận 100% (0 đồng ngân sách nhà nước, không thu phí người dùng), nhằm hưởng ứng Nghị quyết số 80-NQ/TW (07/01/2026) của Bộ Chính trị về phát triển văn hóa và trực tiếp tháo gỡ rào cản kỹ thuật cho người sáng tạo Việt Nam trong việc tự thiết lập 'Thông tin quản lý quyền dạng máy đọc được (Machine-Readable RMI)' cũng như 'Hồ sơ chứng minh đóng góp mang tính quyết định của con người' theo đúng Luật Trí tuệ nhân tạo (01/3/2026), Luật Sở hữu trí tuệ sửa đổi (01/4/2026) và Nghị định số 134/2026/NĐ-CP của Chính phủ."</em>
+        </div>
         <div style="background: var(--surface); border: 1px solid #16a34a; border-left: 5px solid #15803d; border-radius: 6px; padding: 0.85rem 1.15rem; margin-bottom: 1rem; font-size: 0.84rem; color: var(--text); line-height: 1.58;">
           <strong style="color: #15803d;">🔒 Bảo mật Zero-Knowledge (Client-Side Processing 100% — Tuân thủ Nghị định 13/2023/NĐ-CP):</strong>
           <em>Toàn bộ thông tin bạn nhập vào biểu mẫu này chỉ được xử lý cục bộ bằng JavaScript thuần ngay trên trình duyệt máy tính của bạn để xuất văn bản mẫu. Hệ thống không thu thập, không lưu trữ, không thực hiện lệnh <code>fetch()</code> / <code>POST</code> và không truyền tải bất kỳ dữ liệu cá nhân nào về máy chủ.</em>
@@ -1705,7 +1745,7 @@
             ⚡ CHẾ ĐỘ 1-CLICK SIÊU TỐC (DÀNH CHO NGƯỜI KHÔNG BIẾT NHẠC LÝ — BẤM 1 NÚT LÀ TỰ ĐỘNG TẠO &amp; COPY ĐƠN KHÁNG CÁO)
           </div>
           <p style="margin:0 0 0.85rem 0; font-size:0.86rem; color:var(--text);">
-            Bạn <strong>không cần biết nốt nhạc hay hợp âm</strong>. Chỉ cần bấm đúng <strong>1 trong 8 nút tình huống</strong> bên dưới, hệ thống sẽ tự động nạp mã công chứng <code>SHA-256 / Merkle Root</code>, biên dịch toàn văn đơn phản tố song ngữ chuẩn Luật Liên bang Hoa Kỳ (<code>17 U.S.C. § 512(g)</code>) và <strong>tự động Copy sẵn vào bộ nhớ máy</strong>:
+            Bạn <strong>không cần biết nốt nhạc hay hợp âm</strong>. Chỉ cần bấm đúng <strong>1 trong 9 nút tình huống</strong> bên dưới, hệ thống sẽ tự động nạp mã công chứng <code>SHA-256 / Merkle Root</code>, biên dịch toàn văn đơn phản tố song ngữ chuẩn Luật Liên bang Hoa Kỳ (<code>17 U.S.C. § 512(g)</code>) và <strong>tự động Copy sẵn vào bộ nhớ máy</strong>:
           </p>
           <div class="express-grid-8">
             <button type="button" class="express-card-btn" id="exp-btn-1" onclick="oneClickExpress('AI_Suno_Udio', this)">
@@ -1740,10 +1780,14 @@
               <strong>📄 8. Bị Đòi Tiền &amp; Kê Khống Nhiều Link</strong>
               <span style="font-weight:500; font-size:0.77rem; margin-top:0.25rem;">Xuất công văn bác bỏ nhân bản link YouTube</span>
             </button>
+            <button type="button" class="express-card-btn" id="exp-btn-9" style="grid-column: 1 / -1; background: linear-gradient(135deg, #0b3568 0%, #15803d 100%); border-color: #15803d;" onclick="oneClickBioClean(this)">
+              <strong>🔬 9. Giám Định Sinh Trắc Giọng Hát (L<sub>vt</sub> / Formants F<sub>1</sub>–F<sub>5</sub>) &amp; Chứng Thư Luật AI / Nghị Định 134/2026/NĐ-CP (Mẫu VMA-134-BIO-CLEAN)</strong>
+              <span style="font-weight:400; font-size:0.79rem; opacity:0.95; margin-top:0.25rem;">Bác bỏ cáo buộc "độc quyền màu giọng / phong cách", chứng minh nguồn giọng hợp pháp (Giọng bản thân / Giọng mẫu trả phí Clean-Room) &amp; đóng góp quyết định của con người</span>
+            </button>
           </div>
           <div id="express-banner" style="display:none; padding:0.8rem 1rem; border-radius:6px; background:#e6f4ea; color:#137333; font-weight:700; font-size:0.88rem; border:2px solid #137333; margin-bottom:0.85rem;" aria-live="polite"></div>
           <div class="steps-grid-3">
-            <div><strong>Bước 1:</strong> Bấm 1 trong 8 nút tình huống ở trên (Đơn kháng cáo sẽ tự động được tạo và Copy vào máy).</div>
+            <div><strong>Bước 1:</strong> Bấm 1 trong 9 nút tình huống ở trên (Đơn kháng cáo sẽ tự động được tạo và Copy vào máy).</div>
             <div><strong>Bước 2:</strong> Mở <strong>YouTube Studio</strong> ➔ <strong>Nội dung</strong> ➔ Bấm vào chữ <strong>Bản quyền (Khiếu nại)</strong> ➔ Chọn <strong>Thực hiện hành động</strong> ➔ <strong>Khiếu nại (Dispute)</strong>.</div>
             <div><strong>Bước 3:</strong> Tick chọn <em>"Phạm vi công cộng / Tôi có giấy phép hoặc quyền hợp pháp"</em> ➔ Nhấn <strong>Ctrl+V (Dán)</strong> toàn bộ văn bản vừa copy vào ô lý do ➔ Ký tên &amp; <strong>Gửi</strong>.</div>
           </div>
@@ -1759,6 +1803,9 @@
             </button>
             <button type="button" class="tool-tab-btn" id="btn-tool-3" aria-expanded="false" aria-controls="tool-panel-3" onclick="activateToolPanel(3)">
               <strong>3. Biểu mẫu VMA-CC0-META (Phòng Ngừa Trước Khi Đăng):</strong><br>Khối Tuyên Bố Siêu Dữ Liệu Miền Công Cộng (CC0 1.0 Description Shield)
+            </button>
+            <button type="button" class="tool-tab-btn" id="btn-tool-4" aria-expanded="false" aria-controls="tool-panel-4" onclick="activateToolPanel(4)">
+              <strong>4. Biểu mẫu VMA-134-BIO-CLEAN (Sinh Trắc Giọng &amp; Luật AI / NĐ 134/2026):</strong><br>Hồ Sơ Giám Định Ống Thanh Quản (L<sub>vt</sub> / Formants) &amp; Đóng Góp Quyết Định Của Con Người
             </button>
           </div>
 
@@ -1918,6 +1965,81 @@ II. VĂN BẢN PHẢN TỐ PHÁP LÝ TIẾNG VIỆT (LUẬT SHTT VIỆT NAM 2022
               <textarea id="shield-output" class="output-box" style="min-height:240px;" readonly aria-label="Khối tuyên bố siêu dữ liệu miền công cộng"></textarea>
             </div>
           </div>
+          <!-- TOOL 4: VMA-134-BIO-CLEAN SPLIT-PANE WORKBENCH -->
+          <div id="tool-panel-4" class="tool-panel" style="display:none;">
+            <div class="tool-panel-inner">
+              <div class="legal-Callout" style="border-left: 4px solid #b42318; margin-bottom: 1rem; padding: 0.75rem 1rem; font-size: 0.82rem;">
+                <strong style="color: var(--error);">⚠️ Chốt Chặn Đạo Đức &amp; Pháp Lý (Ethical Firewall):</strong> Biểu mẫu <code>VMA-134-BIO-CLEAN</code> <strong>CHỈ bảo vệ</strong> người sử dụng giọng thật của chính mình, người sử dụng giọng mẫu tham chiếu đã trả phí hợp pháp có hợp đồng (<em>Clean-Room Paid Reference Voice</em>), hoặc tổng hợp tham số âm học độc lập. Hệ thống <strong>tuyệt đối không bảo vệ</strong> hành vi nhân bản giọng nói trái phép nhằm mạo danh nhân thân nghệ sĩ khác (<em>Unauthorized Deepfake Impersonation</em>).
+              </div>
+              <div class="workbench-split">
+                <div class="workbench-form-pane">
+                  <div class="pane-header">
+                    <span>Tham Số Sinh Trắc Thanh Quản &amp; Nhật Ký Sáng Tạo (NĐ 134/2026)</span>
+                    <span>Mẫu VMA-134-BIO-CLEAN</span>
+                  </div>
+                  <form id="bio-clean-form" onsubmit="event.preventDefault(); renderBioCleanDossier();">
+                    <div class="field">
+                      <label for="bio-work-title">1. Tên Tác Phẩm / Dự Án Âm Nhạc Cần Bảo Vệ</label>
+                      <input type="text" id="bio-work-title" required value="Bản Thu Âm Độc Lập — Dự Án Âm Nhạc Sạch (Clean-Room Production 2026)" oninput="renderBioCleanDossier()">
+                    </div>
+
+                    <div class="field">
+                      <label for="bio-source-type">2. Nguồn Gốc Hợp Pháp Của Dữ Liệu Giọng Hát (Clean-Room Vocal Source)</label>
+                      <select id="bio-source-type" onchange="renderBioCleanDossier()">
+                        <option value="SELF_BIOMETRIC">1. Giọng thật sinh trắc của chính người sáng tạo / ca sĩ phòng thu trực tiếp (Self-Biometric Natural Voice)</option>
+                        <option value="CLEAN_ROOM_PAID">2. Mô hình tinh chỉnh từ Giọng mẫu Tham chiếu Trả phí có Hợp đồng Hợp pháp (Clean-Room Paid Reference Voice License)</option>
+                        <option value="PARAMETRIC_SYNTH">3. Tổng hợp Tham số Âm học Độc lập trong Không gian Vật lý (Independent Parametric Vocal Synthesis)</option>
+                      </select>
+                    </div>
+
+                    <div class="field">
+                      <label for="bio-lvt-params">3. Hằng Số Giải Phẫu Ống Thanh Quản (L<sub>vt</sub> &amp; Formants Bậc Cao F<sub>3</sub>, F<sub>4</sub>, F<sub>5</sub> — Gunnar Fant, 1960)</label>
+                      <span class="hint">Công thức: L<sub>vt</sub> ≈ ((2n-1)·c)/(4·F<sub>n</sub>) với c = 35,000 cm/s; ΔF = (F<sub>5</sub> - F<sub>1</sub>)/4</span>
+                      <input type="text" id="bio-lvt-params" required value="L_vt = 15.82 cm | ΔF = 1106.5 Hz | F3 = 2780 Hz, F4 = 3890 Hz, F5 = 4960 Hz (Độc lập giải phẫu sinh học)" oninput="renderBioCleanDossier()">
+                    </div>
+
+                    <div class="field">
+                      <label for="bio-glottal-params">4. Chỉ Số Nguồn Thanh Môn &amp; Kỹ Thuật Biểu Diễn Công Cộng (Jitter / Shimmer / HNR / CPP / Vibrato)</label>
+                      <input type="text" id="bio-glottal-params" required value="Jitter (local) = 0.42%, RAP = 0.21% | Shimmer (local) = 2.85% | HNR = 22.4 dB | CPP = 14.8 dB | Vibrato f_vib = 5.8 Hz (±45 cents)" oninput="renderBioCleanDossier()">
+                    </div>
+
+                    <div class="field">
+                      <label for="bio-human-log">5. Nhật Ký Đóng Góp Quyết Định Của Con Người (Human-in-the-Loop — Nghị định 134/2026/NĐ-CP)</label>
+                      <input type="text" id="bio-human-log" required value="Con người trực tiếp biên soạn cấu trúc hòa âm bậc La Mã, thiết kế ma trận ngữ âm 6 thanh điệu, điều khiển đường cong F0/Formants, cân chỉnh EQ/Dynamics 64-bit và Mastering" oninput="renderBioCleanDossier()">
+                    </div>
+
+                    <div class="field">
+                      <label for="bio-art23-tag">6. Chuẩn Dẫn Chiếu Xuất Xứ Di Sản Dân Gian (Điều 15 &amp; Khoản 2 Điều 23 Luật SHTT)</label>
+                      <input type="text" id="bio-art23-tag" required value="PD-VN-Art23: Kế thừa có dẫn chiếu trân trọng thang âm Ngũ cung truyền thống Việt Nam &amp; Ma trận đối xứng kỷ hà miền công cộng (Miễn phí bản quyền tài sản)" oninput="renderBioCleanDossier()">
+                    </div>
+
+                    <div class="btn-row">
+                      <button type="submit" class="primary">Kết Xuất Hồ Sơ Giám Định Sinh Trắc &amp; NĐ 134/2026</button>
+                      <button type="button" class="secondary" onclick="copyText('bio-clean-output', 'toast-4')">Sao Chép Toàn Văn</button>
+                      <span id="toast-4" class="status-toast" aria-live="polite"></span>
+                    </div>
+                  </form>
+                </div>
+
+                <div class="workbench-output-pane">
+                  <div class="pane-header">
+                    <span>Hồ Sơ Giám Định Sinh Trắc Học Thanh Quản &amp; Chứng Thư NĐ 134/2026 Song Ngữ</span>
+                    <span>Mẫu VMA-134-BIO-CLEAN</span>
+                  </div>
+                  <textarea id="bio-clean-output" class="output-box" readonly aria-label="Hồ sơ giám định sinh trắc học giọng hát và chứng thư Nghị định 134/2026/NĐ-CP">======================================================================
+HỒ SƠ GIÁM ĐỊNH ĐỘC LẬP SINH TRẮC HỌC ỐNG THANH QUẢN (L_vt / FORMANTS F1-F5)
+&amp; CHỨNG THƯ ĐÓNG GÓP QUYẾT ĐỊNH CỦA CON NGƯỜI (NGHỊ ĐỊNH 134/2026/NĐ-CP)
+FORENSIC VOCAL TRACT BIOMETRIC &amp; CLEAN-ROOM AI COMPLIANCE DOSSIER (VMA-134-BIO-CLEAN)
+======================================================================
+Archival Reference ID : VMA-VLP-2026-CC0 (Branch 11: Vocal Biometrics &amp; Acoustic Prior Art)
+Master Merkle Root    : 2d91d807fb1ef9ae818a41b409a36a93c5c02fd99d91cc73e4887a65899a8fce
+Branch 11 JSON SHA256 : d8ad67f79b383ad1c3d23d1faee464171b592479fcdd98544396cbd4686d2c5f
+Reference URL         : https://vietnam-music-public-domain-shield.vercel.app/prior-art/sinh-trac-hoc-thanh-quan-va-chong-doc-quyen-am-sac-cc0.html
+======================================================================</textarea>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </section>
     </div>
@@ -1938,7 +2060,7 @@ II. VĂN BẢN PHẢN TỐ PHÁP LÝ TIẾNG VIỆT (LUẬT SHTT VIỆT NAM 2022
 
       <div class="legal-Callout" style="border-left: 5px solid #15803d;">
         <strong>🔐 Tính Minh Bạch Toán Học 100% (Zero-Trust Cryptographic Verification):</strong><br>
-        Mã <code>Merkle Root: 2d91d807fb1ef9ae818a41b409a36a93c5c02fd99d91cc73e4887a65899a8fce</code> hoàn toàn <strong>không phải là một chuỗi ký tự ngẫu nhiên</strong>, mà là kết quả băm nhị phân 11 tầng (FIPS 180-4 SHA-256) của đúng <strong>660 tác phẩm đa rãnh</strong> trong kho lưu ký mở VMPAC. Bất kỳ kỹ sư công nghệ, giám định viên âm nhạc học hoặc bộ phận pháp chế nào cũng có thể tự kiểm chứng độc lập bằng <strong>1 cú nhấp chuột ngay trên trình duyệt</strong> hoặc bằng lệnh <code>shasum -a 256</code> trên Terminal dưới đây:
+        Mã <code>Merkle Root: 2d91d807fb1ef9ae818a41b409a36a93c5c02fd99d91cc73e4887a65899a8fce</code> hoàn toàn <strong>không phải là một chuỗi ký tự ngẫu nhiên</strong>, mà là kết quả băm nhị phân 11 tầng (FIPS 180-4 SHA-256) của đúng <strong>660 tác phẩm đa rãnh</strong> trong kho lưu ký mở VMPAC (cùng 216 vector sinh trắc học thanh quản tại Nhánh 11 — SHA-256: <code>d8ad67f79b383ad1c3d23d1faee464171b592479fcdd98544396cbd4686d2c5f</code>). Bất kỳ kỹ sư công nghệ, giám định viên âm nhạc học hoặc bộ phận pháp chế nào cũng có thể tự kiểm chứng độc lập bằng <strong>1 cú nhấp chuột ngay trên trình duyệt</strong> hoặc bằng lệnh <code>shasum -a 256</code> trên Terminal dưới đây:
         <div style="margin-top: 0.85rem; display: flex; flex-wrap: wrap; gap: 0.65rem; align-items: center;">
           <button type="button" class="btn-link-pill" style="cursor: pointer; font-size: 0.85rem; padding: 0.55rem 1rem; background: #15803d; border-color: #15803d;" onclick="verifyMerkleTreeInBrowser()">
             ⚡ Bấm Để Trình Duyệt Tự Tính Lại 660 Lá &amp; Kiểm Chứng Merkle Root (WebCrypto SHA-256)
@@ -1974,9 +2096,9 @@ print("Computed Root:", cur[0], "| Matches Official:", cur[0]==d["merkle_root_sh
         </div>
       </div>
 
-      <div tabindex="0" role="region" aria-label="Bảng mã băm SHA-256 của 11 tệp JSON Catalog" class="table-wrapper" style="margin-top: 1rem;">
+      <div tabindex="0" role="region" aria-label="Bảng mã băm SHA-256 của 12 tệp JSON Catalog" class="table-wrapper" style="margin-top: 1rem;">
         <table>
-          <caption>Bảng Kê Mã Băm SHA-256 Thực Tế Của Toàn Bộ 11 Tệp JSON Catalog Phẳng (Kiểm Chứng Bằng <code>shasum -a 256</code>)</caption>
+          <caption>Bảng Kê Mã Băm SHA-256 Thực Tế Của Toàn Bộ 12 Tệp JSON Catalog Phẳng (Kiểm Chứng Bằng <code>shasum -a 256</code>)</caption>
           <thead>
             <tr>
               <th>STT</th>
@@ -2059,6 +2181,13 @@ print("Computed Root:", cur[0], "| Matches Official:", cur[0]==d["merkle_root_sh
         </tr>
 <tr>
           <td><strong>11</strong></td>
+          <td><a href="./prior-art/catalogs/11_Vocal_Biometrics_Acoustic_PriorArt.json" target="_blank" rel="noopener"><code>/prior-art/catalogs/11_Vocal_Biometrics_Acoustic_PriorArt.json</code></a></td>
+          <td>227,991 bytes</td>
+          <td><code class="hash-code">d8ad67f79b383ad1c3d23d1faee464171b592479fcdd98544396cbd4686d2c5f</code></td>
+          <td><code class="hash-code">curl -s https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/11_Vocal_Biometrics_Acoustic_PriorArt.json | shasum -a 256</code></td>
+        </tr>
+<tr>
+          <td><strong>12</strong></td>
           <td><a href="./prior-art/catalogs/MANIFEST_PRIOR_ART_CC0.json" target="_blank" rel="noopener"><code>/prior-art/catalogs/MANIFEST_PRIOR_ART_CC0.json</code></a></td>
           <td>2,168,547 bytes</td>
           <td><code class="hash-code">c7063525d86c41fbe61a96032a1439b4743df880229dadbe0e9748ef6e1a4406</code></td>
@@ -2170,14 +2299,13 @@ print("Computed Root:", cur[0], "| Matches Official:", cur[0]==d["merkle_root_sh
     
 
   </main>
-
   <!-- INSTITUTIONAL MULTI-COLUMN FOOTER -->
   <footer>
     <div class="footer-inner">
       <div>
         <h4>Về Hội Đồng Lưu Ký &amp; Pháp Chế VMPAC</h4>
         <p style="margin:0 0 0.75rem; line-height:1.6;">
-          <strong>VIETNAM MUSICOLOGICAL PRIOR ART &amp; PUBLIC DOMAIN CLEARINGHOUSE (VMPAC)</strong> vận hành hệ thống đối chứng toán học, âm nhạc học ngoại tại 6 lớp và ngôn ngữ học tính toán nhằm bảo vệ các nhạc sĩ, nghệ sĩ biểu diễn, phòng thu và đơn vị sản xuất trước các hành vi lạm dụng thuật toán nhận diện tự động để độc quyền hóa di sản dân gian hoặc nhân bản đơn vị tính phí bản quyền trái pháp luật.
+          <strong>VIETNAM MUSICOLOGICAL PRIOR ART &amp; PUBLIC DOMAIN CLEARINGHOUSE (VMPAC)</strong> vận hành hệ thống đối chứng toán học, âm nhạc học ngoại tại 6 lớp, sinh trắc học thanh quản và ngôn ngữ học tính toán nhằm bảo vệ các nhạc sĩ, nghệ sĩ biểu diễn, phòng thu và đơn vị sản xuất trước các hành vi lạm dụng thuật toán nhận diện tự động để độc quyền hóa di sản dân gian, âm sắc công cộng hoặc nhân bản đơn vị tính phí bản quyền trái pháp luật.
         </p>
         <p style="margin:0; font-size:0.8rem;">
           Giấy phép dữ liệu toàn cầu: <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="noopener">Creative Commons Zero 1.0 Universal (CC0 1.0 Public Domain Dedication)</a>.
@@ -2187,22 +2315,24 @@ print("Computed Root:", cur[0], "| Matches Official:", cur[0]==d["merkle_root_sh
         <h4>Hệ Thống Chuyên Trang Chuyên Sâu</h4>
         <ul>
           <li><a href="./index.html">1. Cổng Lưu Ký &amp; Trích Xuất Hồ Sơ Chính (Trang Chủ)</a></li>
-          <li><a href="./khang-cao-content-id-nhac-dan-ca-bolero.html">2. Chuyên Trang Kháng Cáo Content ID Dân Ca &amp; Bolero</a></li>
-          <li><a href="./phan-bien-ke-khong-link-youtube-ban-ghi-am.html">3. Chuyên Trang Bác Bỏ Kê Khống Đường Dẫn (URL) YouTube</a></li>
-          <li><a href="./cam-nang-25-cau-hoi-ban-quyen-am-nhac.html">4. Cẩm Nang 25 Câu Hỏi – Đáp Pháp Điển &amp; Ví Dụ Thực Chiến</a></li>
-          <li><a href="./sitemap.xml">5. Sơ Đồ Chỉ Mục Tìm Kiếm Quốc Tế (XML Sitemap)</a></li>
+          <li><a href="./prior-art/sinh-trac-hoc-thanh-quan-va-chong-doc-quyen-am-sac-cc0.html">2. Chuyên Trang Sinh Trắc Thanh Quản &amp; Nghị Định 134/2026/NĐ-CP</a></li>
+          <li><a href="./khang-cao-content-id-nhac-dan-ca-bolero.html">3. Chuyên Trang Kháng Cáo Content ID Dân Ca &amp; Bolero</a></li>
+          <li><a href="./phan-bien-ke-khong-link-youtube-ban-ghi-am.html">4. Chuyên Trang Bác Bỏ Kê Khống Đường Dẫn (URL) YouTube</a></li>
+          <li><a href="./cam-nang-25-cau-hoi-ban-quyen-am-nhac.html">5. Cẩm Nang 25 Câu Hỏi – Đáp Pháp Điển &amp; Ví Dụ Thực Chiến</a></li>
+          <li><a href="./sitemap.xml">6. Sơ Đồ Chỉ Mục Tìm Kiếm Quốc Tế (XML Sitemap)</a></li>
         </ul>
       </div>
       <div>
         <h4>Kho Lưu Trữ Đối Chứng Trên Internet Archive (Hoa Kỳ)</h4>
         <ul>
-          <li>• <a href="https://archive.org/details/linhhuong-vietnamese-18-branches-arrangement-prior-art-vault-2026" target="_blank" rel="noopener">Kho Hòa Âm &amp; Phối Khí 18 Nhánh (4,500 Cấu Trúc)</a> — <a href="https://archive.org/download/linhhuong-vietnamese-18-branches-arrangement-prior-art-vault-2026/04_FULL_4500_MUSICAL_NOTATION_AND_CHORD_CATALOG.json" target="_blank" rel="noopener">[JSON 6 Lớp]</a></li>
-          <li>• <a href="https://archive.org/details/linhhuong-vietnamese-18-branches-lyric-prosody-prior-art-2026" target="_blank" rel="noopener">Kho Ma Trận Ca Từ &amp; Thanh Điệu (24,300 Đơn Vị)</a> — <a href="https://archive.org/download/linhhuong-vietnamese-18-branches-lyric-prosody-prior-art-2026/04_CORPUS_18000_PROSODIC_LYRIC_LINES_AND_900_FULL_SONGS.json" target="_blank" rel="noopener">[JSON Ca Từ]</a></li>
-          <li>• <a href="https://archive.org/details/linhhuong-master-music-public-domain-corpus-2026" target="_blank" rel="noopener">Kho Dữ Liệu Âm Nhạc Tổng Thể (Master Corpus)</a></li>
-          <li>• <a href="https://archive.org/details/linhhuong-vietnamese-vocal-ai-anti-monopoly-study-2026" target="_blank" rel="noopener">Chuyên Khảo Khoa Học Khẩu Âm &amp; Chống Độc Quyền Âm Sắc</a></li>
+          <li>• <a href="https://archive.org/details/linhhuong-vietnamese-18-branches-arrangement-prior-art-vault-2026" target="_blank" rel="noopener">[Archive Vault #01 - VMA-2026-ARR]: Kho Hòa Âm &amp; Phối Khí 18 Nhánh Di Sản (4,500 Cấu Trúc JSON 6 Lớp)</a> — <a href="https://archive.org/download/linhhuong-vietnamese-18-branches-arrangement-prior-art-vault-2026/04_FULL_4500_MUSICAL_NOTATION_AND_CHORD_CATALOG.json" target="_blank" rel="noopener">[JSON 6 Lớp]</a></li>
+          <li>• <a href="https://archive.org/details/linhhuong-vietnamese-18-branches-lyric-prosody-prior-art-2026" target="_blank" rel="noopener">[Archive Vault #02 - VMA-2026-PROSODY]: Kho Ma Trận Ca Từ &amp; Thanh Điệu Tiếng Việt (24,300 Đơn Vị)</a> — <a href="https://archive.org/download/linhhuong-vietnamese-18-branches-lyric-prosody-prior-art-2026/04_CORPUS_18000_PROSODIC_LYRIC_LINES_AND_900_FULL_SONGS.json" target="_blank" rel="noopener">[JSON Ca Từ]</a></li>
+          <li>• <a href="https://archive.org/details/linhhuong-master-music-public-domain-corpus-2026" target="_blank" rel="noopener">[Archive Vault #03 - VMA-2026-CORPUS]: Kho Dữ Liệu Âm Nhạc Tổng Thể Miền Công Cộng (Master Corpus)</a></li>
+          <li>• <a href="https://archive.org/details/linhhuong-vietnamese-vocal-ai-anti-monopoly-study-2026" target="_blank" rel="noopener">[Archive Vault #04 - VMA-2026-VOCAL]: Chuyên Khảo Pháp Y Khẩu Âm, Sinh Trắc Thanh Quản &amp; Chống Độc Quyền Âm Sắc</a></li>
         </ul>
       </div>
     </div>
+    
     
     <div style="max-width: 1320px; margin: 1.4rem auto 0; padding: 0.9rem 1.25rem; border-top: 1px solid #1e3a5f; font-size: 0.78rem; color: #cbd5e1; line-height: 1.6;">
       <strong style="color: #f3d27a;">TUYÊN BỐ BẢN CHẤT PHÁP LÝ &amp; LƯU KÝ MỞ (OPEN ARCHIVAL DISCLAIMER):</strong>
@@ -2214,7 +2344,6 @@ print("Computed Root:", cur[0], "| Matches Official:", cur[0]==d["merkle_root_sh
       <span>Mã kiểm định SHA-256 JSON: <code>cc62de2b4671578304010bfb6b836a79771a5a3730ba4f3b3f13bcb90837797c</code></span>
     </div>
   </footer>
-
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -2922,7 +3051,7 @@ NOTICE: Automated Content ID or Manual Claiming on CC0 1.0 Public Domain buildin
 
     // Sub-Tool Switcher inside Panel 2
     function activateToolPanel(idx) {
-      for (let i = 1; i <= 3; i++) {
+      for (let i = 1; i <= 4; i++) {
         const panel = document.getElementById(`tool-panel-${i}`);
         const btn = document.getElementById(`btn-tool-${i}`);
         if (!panel || !btn) continue;
@@ -3106,12 +3235,97 @@ NOTICE: Automated Content ID or Manual Claiming on CC0 1.0 Public Domain buildin
       if (outBox) outBox.scrollIntoView({ behavior: "smooth", block: "center" });
     }
     
+
+    function renderBioCleanDossier() {
+      const workEl = document.getElementById("bio-work-title");
+      if (!workEl) return;
+      const workTitle = workEl.value;
+      const srcType = document.getElementById("bio-source-type").value;
+      const lvtParams = document.getElementById("bio-lvt-params").value;
+      const glottalParams = document.getElementById("bio-glottal-params").value;
+      const humanLog = document.getElementById("bio-human-log").value;
+      const art23Tag = document.getElementById("bio-art23-tag").value;
+
+      const srcMapVN = {
+        SELF_BIOMETRIC: "Giọng thật sinh trắc học của chính người sáng tạo / ca sĩ phòng thu trực tiếp (Self-Biometric Natural Vocal Fixation)",
+        CLEAN_ROOM_PAID: "Mô hình tinh chỉnh từ Giọng mẫu Tham chiếu Trả phí có Hợp đồng Hợp pháp (Clean-Room Paid Reference Voice License — Dữ liệu huấn luyện sạch 100%)",
+        PARAMETRIC_SYNTH: "Tổng hợp Tham số Âm học Độc lập trong Không gian Vật lý (Independent Parametric Vocal Synthesis — Không sao chép sinh trắc của bất kỳ cá nhân nào)"
+      };
+      const srcMapEN = {
+        SELF_BIOMETRIC: "Natural Self-Biometric Vocal Recording performed directly by the creator / contracted studio vocalist",
+        CLEAN_ROOM_PAID: "Clean-Room Model fine-tuned exclusively on a Lawfully Contracted & Compensated Reference Vocalist (100% Clean Training Corpus)",
+        PARAMETRIC_SYNTH: "Independent Parametric Acoustic Synthesis in physical formant space (Zero biometric cloning of any third-party individual)"
+      };
+
+      const text = `======================================================================
+HỒ SƠ GIÁM ĐỊNH ĐỘC LẬP SINH TRẮC HỌC ỐNG THANH QUẢN (L_vt / FORMANTS F1–F5)
+& CHỨNG THƯ ĐÓNG GÓP QUYẾT ĐỊNH CỦA CON NGƯỜI (THEO LUẬT AI 2026, LUẬT SHTT SỬA ĐỔI 2026 & NGHỊ ĐỊNH 134/2026/NĐ-CP)
+FORENSIC VOCAL BIOMETRIC INDEPENDENCE & HUMAN-IN-THE-LOOP COMPLIANCE DOSSIER (FORM VMA-134-BIO-CLEAN)
+======================================================================
+• Tác phẩm / Dự án (Work Title) : "${workTitle}"
+• Mã Lưu ký Mở (Archival ID)    : VMA-VLP-2026-CC0 (Branch 11: Vocal Biometrics & Acoustic Prior Art)
+• Master Merkle Root (11-Level) : 2d91d807fb1ef9ae818a41b409a36a93c5c02fd99d91cc73e4887a65899a8fce
+• Branch 11 Catalog SHA-256     : d8ad67f79b383ad1c3d23d1faee464171b592479fcdd98544396cbd4686d2c5f
+• Endpoint Đối chứng Toán học   : https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/11_Vocal_Biometrics_Acoustic_PriorArt.json
+----------------------------------------------------------------------
+I. CHỐT CHẶN ĐẠO ĐỨC & CAM KẾT KHÔNG MẠO DANH NHÂN THÂN (ETHICAL & ANTI-IMPERSONATION ATTESTATION):
+   1. Nguồn gốc dữ liệu giọng hát (Verified Clean-Room Source):
+      • [VN]: ${srcMapVN[srcType]}
+      • [EN]: ${srcMapEN[srcType]}
+   2. Cam kết chống giả mạo nhân thân (Strict Anti-Impersonation Firewall):
+      Bản thu âm này TUYỆT ĐỐI KHÔNG sử dụng mẫu giọng nhân bản trái phép (Unauthorized Deepfake Voice Cloning) của bất kỳ ca sĩ đang sống hay đã khuất nào, và KHÔNG sử dụng tên tuổi, hình ảnh hay bút danh của bất kỳ nghệ sĩ bên thứ ba nào để gây nhầm lẫn thương mại (Tuân thủ Điều 32 Bộ luật Dân sự 2015; Midler v. Ford Motor Co., 849 F.2d 460; Waits v. Frito-Lay, Inc., 978 F.2d 1093).
+----------------------------------------------------------------------
+II. GIÁM ĐỊNH SINH TRẮC GIẢI PHẪU ỐNG THANH QUẢN VS. "MÀU GIỌNG" CÔNG CỘNG (GUNNAR FANT SOURCE-FILTER THEORY):
+   1. Hằng số Giải phẫu Ống thanh quản & Độ giãn cách Formants (Anatomical Vocal Tract Invariants):
+      • Công thức vật lý: F_n ≈ ((2n - 1) * c) / (4 * L_vt) => L_vt ≈ ((2n - 1) * c) / (4 * F_n) (c = 35,000 cm/s); ΔF = (F_n - F_1) / (n - 1)
+      • Thông số đo đạc thực tế: ${lvtParams}
+      • Kết luận pháp y: Trong khi F1 và F2 là tham số ngữ âm phụ thuộc vào khẩu hình 12 nguyên âm tiếng Việt và lối nhả chữ chung của thể loại âm nhạc (thuộc Miền Công Cộng), các tần số cộng hưởng bậc cao (F3, F4, F5) và chiều dài ống thanh quản (L_vt) chứng minh bản thu này xuất phát từ một cấu trúc giải phẫu thanh quản độc lập.
+   2. Chỉ số Nguồn Thanh môn & Kỹ thuật Biểu diễn (Glottal Source Biomarkers & Public Domain Vibrato):
+      • Thông số nguồn thanh môn: ${glottalParams}
+      • Căn cứ Điều 15 Luật SHTT Việt Nam và 17 U.S.C. §§ 102(b), 114(b), tần số ngân rung (Vibrato 5–7 Hz), cách luyến láy ngũ cung và màu giọng tổng quát (Timbre archetype) là kỹ thuật biểu diễn công cộng, không thuộc độc quyền của bất kỳ cá nhân hay tổ chức nào.
+----------------------------------------------------------------------
+III. TUÂN THỦ KHUNG PHÁP LÝ VIỆT NAM NĂM 2026 (NGHỊ QUYẾT 80-NQ/TW, LUẬT AI 2026, LUẬT SHTT SỬA ĐỔI 2026 & NGHỊ ĐỊNH 134/2026/NĐ-CP):
+   1. Đóng góp đáng kể, mang tính quyết định của con người (Human-in-the-Loop Decisive Contribution — Nghị định 134/2026/NĐ-CP):
+      • Nhật ký sáng tạo: ${humanLog}
+   2. Phân tách Điều 15 & Điều 23 Luật SHTT & Chuẩn Siêu dữ liệu Xuất xứ Di sản (PD-VN-Art23):
+      • Khai báo RMI máy đọc được: ${art23Tag}
+      • Căn cứ Điều 15 và Khoản 2 Điều 23 Luật SHTT Việt Nam (kết hợp Nghị quyết số 80-NQ/TW ngày 07/01/2026 của Bộ Chính trị), việc kế thừa thang âm Ngũ cung, vòng hòa âm cơ bản và ma trận đối xứng hình học dân gian (7 nhóm Frieze / 17 nhóm Wallpaper) kèm dẫn chiếu xuất xứ đầy đủ là hoàn toàn hợp pháp và miễn phí 100% quyền tài sản (Không một tổ chức CMO/MCN nào có quyền thu phí bản quyền hay tuyên bố bảo lưu Opt-out trái phép trên tài sản công cộng).
+----------------------------------------------------------------------
+IV. [FORMAL ENGLISH NOTICE FOR GLOBAL DIGITAL PLATFORMS & LEGAL COUNSEL]:
+"PURSUANT TO 17 U.S.C. §§ 102(b), 114(b), 512(f), 512(g), Vietnam Law on Artificial Intelligence (effective March 1, 2026), Amended Vietnam IP Law (effective April 1, 2026 — Arts. 8, 15, 23 & TDM Exception), and Government Decree No. 134/2026/ND-CP:
+1. BIOMETRIC & ACOUSTIC INDEPENDENCE: Under Gunnar Fant's Source-Filter Theory of Speech Production (F_n = (2n-1)c / 4L_vt), the vocal track in '${workTitle}' is derived from ${srcMapEN[srcType]} with verified anatomical Vocal Tract Length and high-order formant dispersion (${lvtParams} | ${glottalParams}). Mere similarity in musical genre style, vowel articulation (F1/F2), vibrato rate (5-7 Hz), or vocal timbre archetype is unprotectable as a matter of law under 17 U.S.C. § 114(b) ('Mere imitation of a recorded performance or vocal style does not constitute a copyright infringement') and Art. 15 Vietnam IP Law.
+2. HUMAN-IN-THE-LOOP & MACHINE-READABLE RMI (DECREE 134/2026/ND-CP): This work embodies decisive human creative contribution (${humanLog}) and carries cryptographically notarized Machine-Readable Rights Management Information (Archival ID: VMA-VLP-2026-CC0, Merkle Root: 2d91d807fb1ef9ae818a41b409a36a93c5c02fd99d91cc73e4887a65899a8fce, SHA-256: d8ad67f79b383ad1c3d23d1faee464171b592479fcdd98544396cbd4686d2c5f). Any automated or manual claim attempting to monopolize public domain vocal timbre archetypes, traditional pentatonic scales, or geometric folklore matrices is invalid and subject to misrepresentation liability under 17 U.S.C. § 512(f)."`;
+
+      document.getElementById("bio-clean-output").value = text;
+    }
+
+    async function oneClickBioClean(btnEl) {
+      document.querySelectorAll(".express-card-btn").forEach(b => b.classList.remove("active-express"));
+      if (btnEl) btnEl.classList.add("active-express");
+      activateToolPanel(4);
+      renderBioCleanDossier();
+      await copyText("bio-clean-output", "toast-4");
+      if (typeof gtag === "function") {
+        gtag("event", "one_click_bio_clean", {
+          event_category: "Legal_Generator",
+          event_label: "VMA-134-BIO-CLEAN"
+        });
+      }
+      const banner = document.getElementById("express-banner");
+      if (banner) {
+        banner.style.display = "block";
+        banner.innerHTML = "✅ <strong>ĐÃ TẠO &amp; TỰ ĐỘNG COPY HỒ SƠ GIÁM ĐỊNH SINH TRẮC GIỌNG HÁT &amp; CHỨNG THƯ NGHỊ ĐỊNH 134/2026/NĐ-CP (VMA-134-BIO-CLEAN)!</strong> Toàn văn hồ sơ song ngữ Việt - Anh bên dưới đã sẵn sàng để bạn dán vào đơn kháng cáo hoặc công văn pháp lý.";
+      }
+      const outBox = document.getElementById("bio-clean-output");
+      if (outBox) outBox.scrollIntoView({ behavior: "smooth", block: "center" });
+    }
+    
     loadBranchPreset();
     renderExtortionRebuttal();
     renderDescriptionShield();
-    activateToolPanel(1);
+    renderBioCleanDossier();
+    if (window.location.hash === '#tool-panel-4') { activateToolPanel(4); } else { activateToolPanel(1); }
   </script>
-
 
   <script>
     async function sha256HexBrowser(str) {
