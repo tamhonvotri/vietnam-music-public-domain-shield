@@ -169,6 +169,24 @@
     <priority>0.90</priority>
   </url>
   <url>
+    <loc>https://vietnam-music-public-domain-shield.vercel.app/prior-art/vmpac-merkle-root.ots</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.92</priority>
+  </url>
+  <url>
+    <loc>https://vietnam-music-public-domain-shield.vercel.app/prior-art/decentralized-mirrors.json</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.92</priority>
+  </url>
+  <url>
+    <loc>https://vietnam-music-public-domain-shield.vercel.app/prior-art/vmpac-portable-node-bundle.json</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.92</priority>
+  </url>
+  <url>
     <loc>https://vietnam-music-public-domain-shield.vercel.app/prior-art/index.html</loc>
     <lastmod>2026-10-29</lastmod>
     <changefreq>daily</changefreq>

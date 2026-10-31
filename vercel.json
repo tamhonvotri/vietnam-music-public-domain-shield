@@ -54,6 +54,19 @@
           "value": "*"
         }
       ]
+    },
+    {
+      "source": "/(.*)\\.ots",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/vnd.opentimestamps.ots"
+        },
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,557 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "VMPAC Censorship-Resistant Decentralized Mirror Configuration (Bitcoin OpenTimestamps • IPFS CIDv1 • Arweave Permaweb • BitTorrent v2 BEP-52)",
+  "archival_reference_id": "VMA-VLP-2026-CC0",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "master_merkle_root_sha256": "2d91d807fb1ef9ae818a41b409a36a93c5c02fd99d91cc73e4887a65899a8fce",
+  "master_merkle_root_ipfs_cidv1": "bafkreibnshmap6y67gxidcsbwqe2g2utyxac7wm5shghhzeipjsytgupzy",
+  "layer_1_bitcoin_opentimestamps": {
+    "ots_file_relative_path": "/prior-art/vmpac-merkle-root.ots",
+    "ots_file_url": "https://vietnam-music-public-domain-shield.vercel.app/prior-art/vmpac-merkle-root.ots",
+    "ots_size_bytes": 775,
+    "ots_file_sha256": "0f91c118c9e21a390d79476ffb7b40932c70b2220608d803f1e9521668741377",
+    "ots_file_ipfs_cidv1": "bafkreiapsharrspcdi4q26khn75xwqetfryleiqgbdmah4pjkilgq5ato4",
+    "magic_header_hex": "004f70656e54696d657374616d7073000050726f6f6600bf89e2e884e89294",
+    "version": 1,
+    "file_hash_op": "SHA256 (0x08)",
+    "stamped_merkle_root_sha256": "2d91d807fb1ef9ae818a41b409a36a93c5c02fd99d91cc73e4887a65899a8fce",
+    "stamped_merkle_root_ipfs_cidv1": "bafkreibnshmap6y67gxidcsbwqe2g2utyxac7wm5shghhzeipjsytgupzy",
+    "ots_raw_hex": "004f70656e54696d657374616d7073000050726f6f6600bf89e2e884e8929401082d91d807fb1ef9ae818a41b409a36a93c5c02fd99d91cc73e4887a65899a8fcefff0085f6222479de0861d08f0202215db9f64562fd3e3b53ac08fd3d220c0d0397fb9a12932448396a53e9450c208f0100f955fed956bf0587d1d91596f5e992f08f020fdd3c21158d7735b83b551429a9932060f4b6be77aa54c48c8b4a65b3e6f4ba908f020dbae517a723fe7c10b37be9ff75dd2b9a8b6eb68d94eb089baaf7580d9e050ea08f1046ae649fcf0080200bf95cb0aadc20083dfe30d2ef90c8e2e2d68747470733a2f2f616c6963652e6274632e63616c656e6461722e6f70656e74696d657374616d70732e6f7267fff008da09073315e8243208f120928ad5ea3366be5731a104177cb5262b7fcbeeb45eca5b70f0a84a436b4e27c108f120e3b957385e2fe8a5185e0319ac669531c7089c685fd6c328df2f30ad0b794c6c08f020e703a0410354bc2c4038988591cf4d0576fc621e53288ea5a0ee273005d9301108f010d6ff719851efe9e7bc66fe0a3693212908f120d89e0a8c18a1bfe43edfe73b463383ccb9b450c489e8217a54858bed402823c408f1203356308ad23328adbf4b9c06899fed2a63c92dab5f8fb891b46a287ea5f1d66408f1046ae649fdf008e73794c0648580d70083dfe30d2ef90c8e2c2b68747470733a2f2f626f622e6274632e63616c656e6461722e6f70656e74696d657374616d70732e6f7267f0100a4c68815deef981250b78c1f40be3a608f1202ce488b0320b86a2e49a089b0c90ca86ea944dcb59d8faf48536f9ef4442b86c08f02091839ac32d8d4626f128ff5e7e1cba46174abb7cc14bd2a4f6e221cb2f07ee7108f1204ab2bc96e7c39d81d35f10f5ef4fdec5f4bb2d167b1beb3c49a462ad7421dcc108f020c4d1fc27957741c71ee59349b8d59173d642c7bac6abebd2613ea329cfba3ceb08f1046ae649fff0080c5a3ec0d2ce3d1b0083dfe30d2ef90c8e292868747470733a2f2f66696e6e65792e63616c656e6461722e657465726e69747977616c6c2e636f6d",
+    "ots_raw_base64": "AE9wZW5UaW1lc3RhbXBzAABQcm9vZgC/ieLohOiSlAEILZHYB/se+a6BikG0CaNqk8XAL9mdkcxz5Ih6ZYmaj87/8AhfYiJHneCGHQjwICIV259kVi/T47U6wI/T0iDA0Dl/uaEpMkSDlqU+lFDCCPAQD5Vf7ZVr8Fh9HZFZb16ZLwjwIP3TwhFY13Nbg7VRQpqZMgYPS2vneqVMSMi0pls+b0upCPAg265RenI/58ELN76f913Suai262jZTrCJuq91gNngUOoI8QRq5kn88AgCAL+VywqtwgCD3+MNLvkMji4taHR0cHM6Ly9hbGljZS5idGMuY2FsZW5kYXIub3BlbnRpbWVzdGFtcHMub3Jn//AI2gkHMxXoJDII8SCSitXqM2a+VzGhBBd8tSYrf8vutF7KW3DwqEpDa04nwQjxIOO5VzheL+ilGF4DGaxmlTHHCJxoX9bDKN8vMK0LeUxsCPAg5wOgQQNUvCxAOJiFkc9NBXb8Yh5TKI6loO4nMAXZMBEI8BDW/3GYUe/p57xm/go2kyEpCPEg2J4KjBihv+Q+3+c7RjODzLm0UMSJ6CF6VIWL7UAoI8QI8SAzVjCK0jMorb9LnAaJn+0qY8ktq1+PuJG0aih+pfHWZAjxBGrmSf3wCOc3lMBkhYDXAIPf4w0u+QyOLCtodHRwczovL2JvYi5idGMuY2FsZW5kYXIub3BlbnRpbWVzdGFtcHMub3Jn8BAKTGiBXe75gSULeMH0C+OmCPEgLOSIsDILhqLkmgibDJDKhuqUTctZ2Pr0hTb570RCuGwI8CCRg5rDLY1GJvEo/15+HLpGF0q7fMFL0qT24iHLLwfucQjxIEqyvJbnw52B018Q9e9P3sX0uy0WexvrPEmkYq10IdzBCPAgxNH8J5V3Qcce5ZNJuNWRc9ZCx7rGq+vSYT6jKc+6POsI8QRq5kn/8AgMWj7A0s49GwCD3+MNLvkMjikoaHR0cHM6Ly9maW5uZXkuY2FsZW5kYXIuZXRlcm5pdHl3YWxsLmNvbQ==",
+    "calendar_commitments": [
+      {
+        "calendar_server": "https://alice.btc.calendar.opentimestamps.org",
+        "attestation_tag_hex": "83dfe30d2ef90c8e",
+        "calendar_commitment_hex": "6ae649fc97cfb442e9c93de2c5d755a28618ef0f246e3909e0017f08e82b07a7a51954a60200bf95cb0aadc2",
+        "calendar_timestamp_lookup_url": "https://alice.btc.calendar.opentimestamps.org/timestamp/6ae649fc97cfb442e9c93de2c5d755a28618ef0f246e3909e0017f08e82b07a7a51954a60200bf95cb0aadc2",
+        "operation_count": 12,
+        "operations": [
+          {
+            "op": "append",
+            "arg_hex": "5f6222479de0861d"
+          },
+          {
+            "op": "sha256",
+            "result_hex": "38e81b78d1853b2fb90c1d5f856292f7373b1a9f98eea11b5b24f1c2d39f0e36"
+          },
+          {
+            "op": "append",
+            "arg_hex": "2215db9f64562fd3e3b53ac08fd3d220c0d0397fb9a12932448396a53e9450c2"
+          },
+          {
+            "op": "sha256",
+            "result_hex": "acd760e9cb32fb38bdca78d29e6014258c8cb8d82fa5cf62a7c29dde2461cf0d"
+          },
+          {
+            "op": "append",
+            "arg_hex": "0f955fed956bf0587d1d91596f5e992f"
+          },
+          {
+            "op": "sha256",
+            "result_hex": "a8fac5855b11e06d4a3265dd108ab733ea7eddfd91bdf046cd7f0c910fe83a4a"
+          },
+          {
+            "op": "append",
+            "arg_hex": "fdd3c21158d7735b83b551429a9932060f4b6be77aa54c48c8b4a65b3e6f4ba9"
+          },
+          {
+            "op": "sha256",
+            "result_hex": "eb6f0855d3edf4309a60a1c4390f3f2aac1739abded9d82b1d765bdb81665906"
+          },
+          {
+            "op": "append",
+            "arg_hex": "dbae517a723fe7c10b37be9ff75dd2b9a8b6eb68d94eb089baaf7580d9e050ea"
+          },
+          {
+            "op": "sha256",
+            "result_hex": "97cfb442e9c93de2c5d755a28618ef0f246e3909e0017f08e82b07a7a51954a6"
+          },
+          {
+            "op": "prepend",
+            "arg_hex": "6ae649fc"
+          },
+          {
+            "op": "append",
+            "arg_hex": "0200bf95cb0aadc2"
+          }
+        ]
+      },
+      {
+        "calendar_server": "https://bob.btc.calendar.opentimestamps.org",
+        "attestation_tag_hex": "83dfe30d2ef90c8e",
+        "calendar_commitment_hex": "6ae649fdc720d59503b31e2d6bdbe5388fa684d92c427f9f5876552f7b2c1ff2eb334598e73794c0648580d7",
+        "calendar_timestamp_lookup_url": "https://bob.btc.calendar.opentimestamps.org/timestamp/6ae649fdc720d59503b31e2d6bdbe5388fa684d92c427f9f5876552f7b2c1ff2eb334598e73794c0648580d7",
+        "operation_count": 16,
+        "operations": [
+          {
+            "op": "append",
+            "arg_hex": "da09073315e82432"
+          },
+          {
+            "op": "sha256",
+            "result_hex": "93ec2f410d0f9c5672ae6594d2b7e7c5634be4d91d9e7c16009996e2d3d0bc76"
+          },
+          {
+            "op": "prepend",
+            "arg_hex": "928ad5ea3366be5731a104177cb5262b7fcbeeb45eca5b70f0a84a436b4e27c1"
+          },
+          {
+            "op": "sha256",
+            "result_hex": "a4d6c716444e443b2d9ac2bac6e81d427edcb1a0c52fa5a6536d8d58c04066e5"
+          },
+          {
+            "op": "prepend",
+            "arg_hex": "e3b957385e2fe8a5185e0319ac669531c7089c685fd6c328df2f30ad0b794c6c"
+          },
+          {
+            "op": "sha256",
+            "result_hex": "981b3d18d40f5d739d9236ff125e9fbf6916c9e7a0b694d3c4b34832446790bd"
+          },
+          {
+            "op": "append",
+            "arg_hex": "e703a0410354bc2c4038988591cf4d0576fc621e53288ea5a0ee273005d93011"
+          },
+          {
+            "op": "sha256",
+            "result_hex": "58e5d8a7a2d10d172ad2baf996f58fb031dc1328c1aafe3d16dc804e669faf4e"
+          },
+          {
+            "op": "append",
+            "arg_hex": "d6ff719851efe9e7bc66fe0a36932129"
+          },
+          {
+            "op": "sha256",
+            "result_hex": "9f47c06bf27c52673612ac4fc54461573fc7bda2f995decffc5c516cb95f49f1"
+          },
+          {
+            "op": "prepend",
+            "arg_hex": "d89e0a8c18a1bfe43edfe73b463383ccb9b450c489e8217a54858bed402823c4"
+          },
+          {
+            "op": "sha256",
+            "result_hex": "f760d75f33d850a945d0430e0369483f9125da0567903a83a9115c538d11f4cf"
+          },
+          {
+            "op": "prepend",
+            "arg_hex": "3356308ad23328adbf4b9c06899fed2a63c92dab5f8fb891b46a287ea5f1d664"
+          },
+          {
+            "op": "sha256",
+            "result_hex": "c720d59503b31e2d6bdbe5388fa684d92c427f9f5876552f7b2c1ff2eb334598"
+          },
+          {
+            "op": "prepend",
+            "arg_hex": "6ae649fd"
+          },
+          {
+            "op": "append",
+            "arg_hex": "e73794c0648580d7"
+          }
+        ]
+      },
+      {
+        "calendar_server": "https://finney.calendar.eternitywall.com",
+        "attestation_tag_hex": "83dfe30d2ef90c8e",
+        "calendar_commitment_hex": "6ae649ffdbf2ab81126966979120ea66616dcb8abc93519a92e2cced5d709930ba2c9bac0c5a3ec0d2ce3d1b",
+        "calendar_timestamp_lookup_url": "https://finney.calendar.eternitywall.com/timestamp/6ae649ffdbf2ab81126966979120ea66616dcb8abc93519a92e2cced5d709930ba2c9bac0c5a3ec0d2ce3d1b",
+        "operation_count": 12,
+        "operations": [
+          {
+            "op": "append",
+            "arg_hex": "0a4c68815deef981250b78c1f40be3a6"
+          },
+          {
+            "op": "sha256",
+            "result_hex": "54386f936329346cd2b38ce2dacf0f1b7cad7a5eeea31e7e1bf78ba82fb19b74"
+          },
+          {
+            "op": "prepend",
+            "arg_hex": "2ce488b0320b86a2e49a089b0c90ca86ea944dcb59d8faf48536f9ef4442b86c"
+          },
+          {
+            "op": "sha256",
+            "result_hex": "15269907218a95477bd049d581362e1101e1248db03e98292f95cb5c93fcee1f"
+          },
+          {
+            "op": "append",
+            "arg_hex": "91839ac32d8d4626f128ff5e7e1cba46174abb7cc14bd2a4f6e221cb2f07ee71"
+          },
+          {
+            "op": "sha256",
+            "result_hex": "1ed3ea1d99c4144efea70a690da7d70097261fcc55dcce623dc54354f484b85f"
+          },
+          {
+            "op": "prepend",
+            "arg_hex": "4ab2bc96e7c39d81d35f10f5ef4fdec5f4bb2d167b1beb3c49a462ad7421dcc1"
+          },
+          {
+            "op": "sha256",
+            "result_hex": "9ebfdea5e855915cbfe1498d04e9ccb8bb131721809c62e00b17675a19b0f721"
+          },
+          {
+            "op": "append",
+            "arg_hex": "c4d1fc27957741c71ee59349b8d59173d642c7bac6abebd2613ea329cfba3ceb"
+          },
+          {
+            "op": "sha256",
+            "result_hex": "dbf2ab81126966979120ea66616dcb8abc93519a92e2cced5d709930ba2c9bac"
+          },
+          {
+            "op": "prepend",
+            "arg_hex": "6ae649ff"
+          },
+          {
+            "op": "append",
+            "arg_hex": "0c5a3ec0d2ce3d1b"
+          }
+        ]
+      }
+    ],
+    "cli_verification_commands": {
+      "ots_info": "ots info vmpac-merkle-root.ots",
+      "ots_verify": "ots verify vmpac-merkle-root.ots",
+      "curl_calendar_check_alice": "curl -i https://alice.btc.calendar.opentimestamps.org/timestamp/6ae649fc97cfb442e9c93de2c5d755a28618ef0f246e3909e0017f08e82b07a7a51954a60200bf95cb0aadc2",
+      "curl_calendar_check_bob": "curl -i https://bob.btc.calendar.opentimestamps.org/timestamp/6ae649fdc720d59503b31e2d6bdbe5388fa684d92c427f9f5876552f7b2c1ff2eb334598e73794c0648580d7",
+      "curl_calendar_check_finney": "curl -i https://finney.calendar.eternitywall.com/timestamp/6ae649ffdbf2ab81126966979120ea66616dcb8abc93519a92e2cced5d709930ba2c9bac0c5a3ec0d2ce3d1b"
+    }
+  },
+  "layer_2_ipfs_cidv1_network": {
+    "specification": "CIDv1 (Multibase base32 'b' + Version 0x01 + Multicodec raw 0x55 + Multihash sha2-256 0x1220 + 32-byte digest)",
+    "deterministic_formula_python": "'b' + base64.b32encode(bytes.fromhex('01551220' + sha256_hex)).decode('ascii').lower().rstrip('=')",
+    "public_ipfs_gateways": [
+      "https://ipfs.io/ipfs/",
+      "https://dweb.link/ipfs/",
+      "https://w3s.link/ipfs/",
+      "https://flk-ipfs.xyz/ipfs/"
+    ],
+    "cli_verification_commands": {
+      "ipfs_put_raw": "ipfs block put --format=raw --mhtype=sha2-256 <catalog.json>",
+      "ipfs_cid_verify": "python3 -c \"import base64,hashlib,sys; h=hashlib.sha256(open(sys.argv[1],'rb').read()).hexdigest(); print('b'+base64.b32encode(bytes.fromhex('01551220'+h)).decode().lower().rstrip('='))\" <catalog.json>"
+    },
+    "catalog_cidv1_registry": [
+      {
+        "filename": "01_Lofi_Chillhop_Jazzhop.json",
+        "url": "https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/01_Lofi_Chillhop_Jazzhop.json",
+        "size_bytes": 232200,
+        "sha256": "2e11cb448b9fb600be7d3e41ec397f803ee3f8a4ccbe163f3069e9a9f43c7904",
+        "ipfs_cidv1": "bafkreibochfujc47wyal47j6ihwds74ah3r7rjgmxyld6mdj5gu7ipdzaq",
+        "ipfs_uri": "ipfs://bafkreibochfujc47wyal47j6ihwds74ah3r7rjgmxyld6mdj5gu7ipdzaq",
+        "gateway_urls": [
+          "https://ipfs.io/ipfs/bafkreibochfujc47wyal47j6ihwds74ah3r7rjgmxyld6mdj5gu7ipdzaq",
+          "https://dweb.link/ipfs/bafkreibochfujc47wyal47j6ihwds74ah3r7rjgmxyld6mdj5gu7ipdzaq",
+          "https://w3s.link/ipfs/bafkreibochfujc47wyal47j6ihwds74ah3r7rjgmxyld6mdj5gu7ipdzaq",
+          "https://flk-ipfs.xyz/ipfs/bafkreibochfujc47wyal47j6ihwds74ah3r7rjgmxyld6mdj5gu7ipdzaq"
+        ]
+      },
+      {
+        "filename": "02_VPop_Ballad_SadPiano_RnB.json",
+        "url": "https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/02_VPop_Ballad_SadPiano_RnB.json",
+        "size_bytes": 235070,
+        "sha256": "7d792508d237e1c4672b3812f5626756f5bb7b7cd1afda512351e3142ccdef63",
+        "ipfs_cidv1": "bafkreid5pesqrurx4hcgokzycl2wez2w6w5xw7grv7nfci2r4mkcztppmm",
+        "ipfs_uri": "ipfs://bafkreid5pesqrurx4hcgokzycl2wez2w6w5xw7grv7nfci2r4mkcztppmm",
+        "gateway_urls": [
+          "https://ipfs.io/ipfs/bafkreid5pesqrurx4hcgokzycl2wez2w6w5xw7grv7nfci2r4mkcztppmm",
+          "https://dweb.link/ipfs/bafkreid5pesqrurx4hcgokzycl2wez2w6w5xw7grv7nfci2r4mkcztppmm",
+          "https://w3s.link/ipfs/bafkreid5pesqrurx4hcgokzycl2wez2w6w5xw7grv7nfci2r4mkcztppmm",
+          "https://flk-ipfs.xyz/ipfs/bafkreid5pesqrurx4hcgokzycl2wez2w6w5xw7grv7nfci2r4mkcztppmm"
+        ]
+      },
+      {
+        "filename": "03_Bolero_NhacQueHuong_Pentatonic.json",
+        "url": "https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/03_Bolero_NhacQueHuong_Pentatonic.json",
+        "size_bytes": 239590,
+        "sha256": "3db6f4b9101b004c2cf8665ec79d8e21ab52fafe3ce107757261bdf2506b67fd",
+        "ipfs_cidv1": "bafkreib5w32lsea3abgcz6dgl3dz3drbvnjpv7r44edxk4tbxxzfa23h7u",
+        "ipfs_uri": "ipfs://bafkreib5w32lsea3abgcz6dgl3dz3drbvnjpv7r44edxk4tbxxzfa23h7u",
+        "gateway_urls": [
+          "https://ipfs.io/ipfs/bafkreib5w32lsea3abgcz6dgl3dz3drbvnjpv7r44edxk4tbxxzfa23h7u",
+          "https://dweb.link/ipfs/bafkreib5w32lsea3abgcz6dgl3dz3drbvnjpv7r44edxk4tbxxzfa23h7u",
+          "https://w3s.link/ipfs/bafkreib5w32lsea3abgcz6dgl3dz3drbvnjpv7r44edxk4tbxxzfa23h7u",
+          "https://flk-ipfs.xyz/ipfs/bafkreib5w32lsea3abgcz6dgl3dz3drbvnjpv7r44edxk4tbxxzfa23h7u"
+        ]
+      },
+      {
+        "filename": "04_Dance_VinaHouse_Eurodance_Hardstyle.json",
+        "url": "https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/04_Dance_VinaHouse_Eurodance_Hardstyle.json",
+        "size_bytes": 313304,
+        "sha256": "22e1ab83f0b67c9d0fa59d9a02cef167ed45103ecaecccc4a36b00c143864d1a",
+        "ipfs_cidv1": "bafkreibc4gvyh4fwpsoq7jm5tibm54lh5vcrapwk5tgmji3ladauhbsndi",
+        "ipfs_uri": "ipfs://bafkreibc4gvyh4fwpsoq7jm5tibm54lh5vcrapwk5tgmji3ladauhbsndi",
+        "gateway_urls": [
+          "https://ipfs.io/ipfs/bafkreibc4gvyh4fwpsoq7jm5tibm54lh5vcrapwk5tgmji3ladauhbsndi",
+          "https://dweb.link/ipfs/bafkreibc4gvyh4fwpsoq7jm5tibm54lh5vcrapwk5tgmji3ladauhbsndi",
+          "https://w3s.link/ipfs/bafkreibc4gvyh4fwpsoq7jm5tibm54lh5vcrapwk5tgmji3ladauhbsndi",
+          "https://flk-ipfs.xyz/ipfs/bafkreibc4gvyh4fwpsoq7jm5tibm54lh5vcrapwk5tgmji3ladauhbsndi"
+        ]
+      },
+      {
+        "filename": "05_House_Deep_Tech_Progressive_Slap.json",
+        "url": "https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/05_House_Deep_Tech_Progressive_Slap.json",
+        "size_bytes": 191611,
+        "sha256": "33437ae93736c695c8a7bd8d79175fe5d61246125a96ad5abc27c1f79b1c4b55",
+        "ipfs_cidv1": "bafkreibtin5osnzwy2k4rj55rv4rox7f2yjemes2s2wvvpbhyh3zwhclku",
+        "ipfs_uri": "ipfs://bafkreibtin5osnzwy2k4rj55rv4rox7f2yjemes2s2wvvpbhyh3zwhclku",
+        "gateway_urls": [
+          "https://ipfs.io/ipfs/bafkreibtin5osnzwy2k4rj55rv4rox7f2yjemes2s2wvvpbhyh3zwhclku",
+          "https://dweb.link/ipfs/bafkreibtin5osnzwy2k4rj55rv4rox7f2yjemes2s2wvvpbhyh3zwhclku",
+          "https://w3s.link/ipfs/bafkreibtin5osnzwy2k4rj55rv4rox7f2yjemes2s2wvvpbhyh3zwhclku",
+          "https://flk-ipfs.xyz/ipfs/bafkreibtin5osnzwy2k4rj55rv4rox7f2yjemes2s2wvvpbhyh3zwhclku"
+        ]
+      },
+      {
+        "filename": "06_HipHop_Trap_Drill_BoomBap.json",
+        "url": "https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/06_HipHop_Trap_Drill_BoomBap.json",
+        "size_bytes": 188996,
+        "sha256": "90ebed64da412b577114252c3974fce0000d4e756f9b8f3e4f786954796c423c",
+        "ipfs_cidv1": "bafkreieq5pwwjwsbfnlxcfbffq4xj7haaagu45lptoht4t3ynfkhs3cchq",
+        "ipfs_uri": "ipfs://bafkreieq5pwwjwsbfnlxcfbffq4xj7haaagu45lptoht4t3ynfkhs3cchq",
+        "gateway_urls": [
+          "https://ipfs.io/ipfs/bafkreieq5pwwjwsbfnlxcfbffq4xj7haaagu45lptoht4t3ynfkhs3cchq",
+          "https://dweb.link/ipfs/bafkreieq5pwwjwsbfnlxcfbffq4xj7haaagu45lptoht4t3ynfkhs3cchq",
+          "https://w3s.link/ipfs/bafkreieq5pwwjwsbfnlxcfbffq4xj7haaagu45lptoht4t3ynfkhs3cchq",
+          "https://flk-ipfs.xyz/ipfs/bafkreieq5pwwjwsbfnlxcfbffq4xj7haaagu45lptoht4t3ynfkhs3cchq"
+        ]
+      },
+      {
+        "filename": "07_Punk_PopPunk_AltRock.json",
+        "url": "https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/07_Punk_PopPunk_AltRock.json",
+        "size_bytes": 188867,
+        "sha256": "384881d2f04c7f096c56cc1cb678b167c56d3c603abe72a66b93181075627bbc",
+        "ipfs_cidv1": "bafkreibyjca5f4cmp4ewyvwmds3hrmlhyvwtyyb2xzzkm24tdaihkyt3xq",
+        "ipfs_uri": "ipfs://bafkreibyjca5f4cmp4ewyvwmds3hrmlhyvwtyyb2xzzkm24tdaihkyt3xq",
+        "gateway_urls": [
+          "https://ipfs.io/ipfs/bafkreibyjca5f4cmp4ewyvwmds3hrmlhyvwtyyb2xzzkm24tdaihkyt3xq",
+          "https://dweb.link/ipfs/bafkreibyjca5f4cmp4ewyvwmds3hrmlhyvwtyyb2xzzkm24tdaihkyt3xq",
+          "https://w3s.link/ipfs/bafkreibyjca5f4cmp4ewyvwmds3hrmlhyvwtyyb2xzzkm24tdaihkyt3xq",
+          "https://flk-ipfs.xyz/ipfs/bafkreibyjca5f4cmp4ewyvwmds3hrmlhyvwtyyb2xzzkm24tdaihkyt3xq"
+        ]
+      },
+      {
+        "filename": "08_Synthwave_Retrowave_CityPop_DiscoFunk.json",
+        "url": "https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/08_Synthwave_Retrowave_CityPop_DiscoFunk.json",
+        "size_bytes": 193354,
+        "sha256": "27ecf60e14cb311ee7fc2108398555ca339dae7ae498b15ace17b2c1978c4615",
+        "ipfs_cidv1": "bafkreibh5t3a4fglgepop7bbba4ykvokgoo246xetcyvvtqxwlazpdcgcu",
+        "ipfs_uri": "ipfs://bafkreibh5t3a4fglgepop7bbba4ykvokgoo246xetcyvvtqxwlazpdcgcu",
+        "gateway_urls": [
+          "https://ipfs.io/ipfs/bafkreibh5t3a4fglgepop7bbba4ykvokgoo246xetcyvvtqxwlazpdcgcu",
+          "https://dweb.link/ipfs/bafkreibh5t3a4fglgepop7bbba4ykvokgoo246xetcyvvtqxwlazpdcgcu",
+          "https://w3s.link/ipfs/bafkreibh5t3a4fglgepop7bbba4ykvokgoo246xetcyvvtqxwlazpdcgcu",
+          "https://flk-ipfs.xyz/ipfs/bafkreibh5t3a4fglgepop7bbba4ykvokgoo246xetcyvvtqxwlazpdcgcu"
+        ]
+      },
+      {
+        "filename": "09_Cinematic_Ambient_Meditation_Healing.json",
+        "url": "https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/09_Cinematic_Ambient_Meditation_Healing.json",
+        "size_bytes": 162848,
+        "sha256": "d8b0763ada1320028d163b82bf7d25eb268521a8e45be41cdeda36cf4ff29ebb",
+        "ipfs_cidv1": "bafkreigywb3dvwqteabi2fr3qk7x2jple2csdkhelpsbzxw2g3hu74u6xm",
+        "ipfs_uri": "ipfs://bafkreigywb3dvwqteabi2fr3qk7x2jple2csdkhelpsbzxw2g3hu74u6xm",
+        "gateway_urls": [
+          "https://ipfs.io/ipfs/bafkreigywb3dvwqteabi2fr3qk7x2jple2csdkhelpsbzxw2g3hu74u6xm",
+          "https://dweb.link/ipfs/bafkreigywb3dvwqteabi2fr3qk7x2jple2csdkhelpsbzxw2g3hu74u6xm",
+          "https://w3s.link/ipfs/bafkreigywb3dvwqteabi2fr3qk7x2jple2csdkhelpsbzxw2g3hu74u6xm",
+          "https://flk-ipfs.xyz/ipfs/bafkreigywb3dvwqteabi2fr3qk7x2jple2csdkhelpsbzxw2g3hu74u6xm"
+        ]
+      },
+      {
+        "filename": "10_AI_Latent_Space_HighProb_Motifs.json",
+        "url": "https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/10_AI_Latent_Space_HighProb_Motifs.json",
+        "size_bytes": 236279,
+        "sha256": "8917221a56303c514b3ba34ae7ad1565af81bcdc8bfaee61ad81415e9853ad52",
+        "ipfs_cidv1": "bafkreiejc4rbuvrqhriuwo5djlt22flfv6a3zxel7lxgdlmbifpjqu5nki",
+        "ipfs_uri": "ipfs://bafkreiejc4rbuvrqhriuwo5djlt22flfv6a3zxel7lxgdlmbifpjqu5nki",
+        "gateway_urls": [
+          "https://ipfs.io/ipfs/bafkreiejc4rbuvrqhriuwo5djlt22flfv6a3zxel7lxgdlmbifpjqu5nki",
+          "https://dweb.link/ipfs/bafkreiejc4rbuvrqhriuwo5djlt22flfv6a3zxel7lxgdlmbifpjqu5nki",
+          "https://w3s.link/ipfs/bafkreiejc4rbuvrqhriuwo5djlt22flfv6a3zxel7lxgdlmbifpjqu5nki",
+          "https://flk-ipfs.xyz/ipfs/bafkreiejc4rbuvrqhriuwo5djlt22flfv6a3zxel7lxgdlmbifpjqu5nki"
+        ]
+      },
+      {
+        "filename": "11_Vocal_Biometrics_Acoustic_PriorArt.json",
+        "url": "https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/11_Vocal_Biometrics_Acoustic_PriorArt.json",
+        "size_bytes": 289927,
+        "sha256": "4b17f4d0a90de886794695ccf1d9b8c669be74534cb077db581855fafc05ebd4",
+        "ipfs_cidv1": "bafkreiclc72nbkin5cdhsruvzty5toggng7hiu2mwb35wwaykx5pybpl2q",
+        "ipfs_uri": "ipfs://bafkreiclc72nbkin5cdhsruvzty5toggng7hiu2mwb35wwaykx5pybpl2q",
+        "gateway_urls": [
+          "https://ipfs.io/ipfs/bafkreiclc72nbkin5cdhsruvzty5toggng7hiu2mwb35wwaykx5pybpl2q",
+          "https://dweb.link/ipfs/bafkreiclc72nbkin5cdhsruvzty5toggng7hiu2mwb35wwaykx5pybpl2q",
+          "https://w3s.link/ipfs/bafkreiclc72nbkin5cdhsruvzty5toggng7hiu2mwb35wwaykx5pybpl2q",
+          "https://flk-ipfs.xyz/ipfs/bafkreiclc72nbkin5cdhsruvzty5toggng7hiu2mwb35wwaykx5pybpl2q"
+        ]
+      },
+      {
+        "filename": "12_Vocal_Timbre_Archetypes_PublicDomain.json",
+        "url": "https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/12_Vocal_Timbre_Archetypes_PublicDomain.json",
+        "size_bytes": 247371,
+        "sha256": "3f73a1ff16155e91bb5c16dd82af4e9da7a6c00bacfc3aff104a9b49ee2ffc15",
+        "ipfs_cidv1": "bafkreib7ooq76fqvl2i3wxaw3wbk6tu5u6tmac5m7q5p6ecktne64l74cu",
+        "ipfs_uri": "ipfs://bafkreib7ooq76fqvl2i3wxaw3wbk6tu5u6tmac5m7q5p6ecktne64l74cu",
+        "gateway_urls": [
+          "https://ipfs.io/ipfs/bafkreib7ooq76fqvl2i3wxaw3wbk6tu5u6tmac5m7q5p6ecktne64l74cu",
+          "https://dweb.link/ipfs/bafkreib7ooq76fqvl2i3wxaw3wbk6tu5u6tmac5m7q5p6ecktne64l74cu",
+          "https://w3s.link/ipfs/bafkreib7ooq76fqvl2i3wxaw3wbk6tu5u6tmac5m7q5p6ecktne64l74cu",
+          "https://flk-ipfs.xyz/ipfs/bafkreib7ooq76fqvl2i3wxaw3wbk6tu5u6tmac5m7q5p6ecktne64l74cu"
+        ]
+      },
+      {
+        "filename": "13_Geometric_Motif_Vectors_PD_VN_Art23.json",
+        "url": "https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/13_Geometric_Motif_Vectors_PD_VN_Art23.json",
+        "size_bytes": 54539,
+        "sha256": "f6fe1025383d7c617abb346ee6992494502c43ddb7eb282284b35ca57caaf5b4",
+        "ipfs_cidv1": "bafkreihw7yickob5prqxvozun3tjsjeukawehxnx5mucfbftlssxzkxvwq",
+        "ipfs_uri": "ipfs://bafkreihw7yickob5prqxvozun3tjsjeukawehxnx5mucfbftlssxzkxvwq",
+        "gateway_urls": [
+          "https://ipfs.io/ipfs/bafkreihw7yickob5prqxvozun3tjsjeukawehxnx5mucfbftlssxzkxvwq",
+          "https://dweb.link/ipfs/bafkreihw7yickob5prqxvozun3tjsjeukawehxnx5mucfbftlssxzkxvwq",
+          "https://w3s.link/ipfs/bafkreihw7yickob5prqxvozun3tjsjeukawehxnx5mucfbftlssxzkxvwq",
+          "https://flk-ipfs.xyz/ipfs/bafkreihw7yickob5prqxvozun3tjsjeukawehxnx5mucfbftlssxzkxvwq"
+        ]
+      },
+      {
+        "filename": "MANIFEST_PRIOR_ART_CC0.json",
+        "url": "https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/MANIFEST_PRIOR_ART_CC0.json",
+        "size_bytes": 2168547,
+        "sha256": "c7063525d86c41fbe61a96032a1439b4743df880229dadbe0e9748ef6e1a4406",
+        "ipfs_cidv1": "bafkreighay2slwdmih56mguwamvbionuoq67rabctww34duxjdxw4gseay",
+        "ipfs_uri": "ipfs://bafkreighay2slwdmih56mguwamvbionuoq67rabctww34duxjdxw4gseay",
+        "gateway_urls": [
+          "https://ipfs.io/ipfs/bafkreighay2slwdmih56mguwamvbionuoq67rabctww34duxjdxw4gseay",
+          "https://dweb.link/ipfs/bafkreighay2slwdmih56mguwamvbionuoq67rabctww34duxjdxw4gseay",
+          "https://w3s.link/ipfs/bafkreighay2slwdmih56mguwamvbionuoq67rabctww34duxjdxw4gseay",
+          "https://flk-ipfs.xyz/ipfs/bafkreighay2slwdmih56mguwamvbionuoq67rabctww34duxjdxw4gseay"
+        ]
+      }
+    ]
+  },
+  "layer_3_arweave_permaweb_and_internet_archive": {
+    "arweave_protocol_scheme": "ar://VMPAC-VMA-VLP-2026-CC0",
+    "arweave_graphql_tags": [
+      {
+        "name": "App-Name",
+        "value": "VMPAC-PriorArt-Clearinghouse"
+      },
+      {
+        "name": "Archival-ID",
+        "value": "VMA-VLP-2026-CC0"
+      },
+      {
+        "name": "Merkle-Root-SHA256",
+        "value": "2d91d807fb1ef9ae818a41b409a36a93c5c02fd99d91cc73e4887a65899a8fce"
+      },
+      {
+        "name": "License",
+        "value": "CC0-1.0"
+      }
+    ],
+    "internet_archive_permanent_vaults": [
+      "https://archive.org/details/linhhuong-vietnamese-18-branches-arrangement-prior-art-vault-2026",
+      "https://archive.org/details/linhhuong-vietnamese-18-branches-lyric-prosody-prior-art-2026",
+      "https://archive.org/details/linhhuong-master-music-public-domain-corpus-2026",
+      "https://archive.org/details/linhhuong-vietnamese-vocal-ai-anti-monopoly-study-2026",
+      "https://archive.org/details/vmpac-vocal-timbre-biometrics-and-geometric-motif-vectors-2026"
+    ]
+  },
+  "layer_4_bittorrent_v2_bep52": {
+    "specification": "BitTorrent v2 (BEP 52 — SHA-256 Merkle Hash Multihash 0x1220)",
+    "master_btmh_urn": "urn:btmh:12202d91d807fb1ef9ae818a41b409a36a93c5c02fd99d91cc73e4887a65899a8fce",
+    "master_magnet_uri": "magnet:?xt=urn:btmh:12202d91d807fb1ef9ae818a41b409a36a93c5c02fd99d91cc73e4887a65899a8fce&dn=VMPAC_VMA-VLP-2026-CC0_PriorArt_Vault&ws=https%3A%2F%2Fvietnam-music-public-domain-shield.vercel.app%2Fprior-art%2Fvmpac-portable-node-bundle.json&ws=https%3A%2F%2Fvietnam-music-public-domain-shield.vercel.app%2Fprior-art%2Fsha256-manifest.json&ws=https%3A%2F%2Fvietnam-music-public-domain-shield.vercel.app%2Fprior-art%2Fvmpac-merkle-root.ots&ws=https%3A%2F%2Farchive.org%2Fdownload%2Fvmpac-vocal-timbre-biometrics-and-geometric-motif-vectors-2026%2FVMPAC_VOCAL_TIMBRE_AND_GEOMETRIC_MOTIF_VECTORS_2026_CC0.zip&ws=https%3A%2F%2Farchive.org%2Fdownload%2Flinhhuong-vietnamese-18-branches-arrangement-prior-art-vault-2026%2F04_FULL_4500_MUSICAL_NOTATION_AND_CHORD_CATALOG.json&xs=https%3A%2F%2Fvietnam-music-public-domain-shield.vercel.app%2Fprior-art%2Fdecentralized-mirrors.json",
+    "webseeds": [
+      "https://vietnam-music-public-domain-shield.vercel.app/prior-art/vmpac-portable-node-bundle.json",
+      "https://vietnam-music-public-domain-shield.vercel.app/prior-art/sha256-manifest.json",
+      "https://vietnam-music-public-domain-shield.vercel.app/prior-art/vmpac-merkle-root.ots",
+      "https://archive.org/download/vmpac-vocal-timbre-biometrics-and-geometric-motif-vectors-2026/VMPAC_VOCAL_TIMBRE_AND_GEOMETRIC_MOTIF_VECTORS_2026_CC0.zip",
+      "https://archive.org/download/linhhuong-vietnamese-18-branches-arrangement-prior-art-vault-2026/04_FULL_4500_MUSICAL_NOTATION_AND_CHORD_CATALOG.json"
+    ],
+    "per_catalog_bep52_magnets": [
+      {
+        "filename": "01_Lofi_Chillhop_Jazzhop.json",
+        "sha256": "2e11cb448b9fb600be7d3e41ec397f803ee3f8a4ccbe163f3069e9a9f43c7904",
+        "btmh_urn": "urn:btmh:12202e11cb448b9fb600be7d3e41ec397f803ee3f8a4ccbe163f3069e9a9f43c7904",
+        "magnet_uri": "magnet:?xt=urn:btmh:12202e11cb448b9fb600be7d3e41ec397f803ee3f8a4ccbe163f3069e9a9f43c7904&dn=01_Lofi_Chillhop_Jazzhop.json&ws=https%3A%2F%2Fvietnam-music-public-domain-shield.vercel.app%2Fprior-art%2Fcatalogs%2F01_Lofi_Chillhop_Jazzhop.json"
+      },
+      {
+        "filename": "02_VPop_Ballad_SadPiano_RnB.json",
+        "sha256": "7d792508d237e1c4672b3812f5626756f5bb7b7cd1afda512351e3142ccdef63",
+        "btmh_urn": "urn:btmh:12207d792508d237e1c4672b3812f5626756f5bb7b7cd1afda512351e3142ccdef63",
+        "magnet_uri": "magnet:?xt=urn:btmh:12207d792508d237e1c4672b3812f5626756f5bb7b7cd1afda512351e3142ccdef63&dn=02_VPop_Ballad_SadPiano_RnB.json&ws=https%3A%2F%2Fvietnam-music-public-domain-shield.vercel.app%2Fprior-art%2Fcatalogs%2F02_VPop_Ballad_SadPiano_RnB.json"
+      },
+      {
+        "filename": "03_Bolero_NhacQueHuong_Pentatonic.json",
+        "sha256": "3db6f4b9101b004c2cf8665ec79d8e21ab52fafe3ce107757261bdf2506b67fd",
+        "btmh_urn": "urn:btmh:12203db6f4b9101b004c2cf8665ec79d8e21ab52fafe3ce107757261bdf2506b67fd",
+        "magnet_uri": "magnet:?xt=urn:btmh:12203db6f4b9101b004c2cf8665ec79d8e21ab52fafe3ce107757261bdf2506b67fd&dn=03_Bolero_NhacQueHuong_Pentatonic.json&ws=https%3A%2F%2Fvietnam-music-public-domain-shield.vercel.app%2Fprior-art%2Fcatalogs%2F03_Bolero_NhacQueHuong_Pentatonic.json"
+      },
+      {
+        "filename": "04_Dance_VinaHouse_Eurodance_Hardstyle.json",
+        "sha256": "22e1ab83f0b67c9d0fa59d9a02cef167ed45103ecaecccc4a36b00c143864d1a",
+        "btmh_urn": "urn:btmh:122022e1ab83f0b67c9d0fa59d9a02cef167ed45103ecaecccc4a36b00c143864d1a",
+        "magnet_uri": "magnet:?xt=urn:btmh:122022e1ab83f0b67c9d0fa59d9a02cef167ed45103ecaecccc4a36b00c143864d1a&dn=04_Dance_VinaHouse_Eurodance_Hardstyle.json&ws=https%3A%2F%2Fvietnam-music-public-domain-shield.vercel.app%2Fprior-art%2Fcatalogs%2F04_Dance_VinaHouse_Eurodance_Hardstyle.json"
+      },
+      {
+        "filename": "05_House_Deep_Tech_Progressive_Slap.json",
+        "sha256": "33437ae93736c695c8a7bd8d79175fe5d61246125a96ad5abc27c1f79b1c4b55",
+        "btmh_urn": "urn:btmh:122033437ae93736c695c8a7bd8d79175fe5d61246125a96ad5abc27c1f79b1c4b55",
+        "magnet_uri": "magnet:?xt=urn:btmh:122033437ae93736c695c8a7bd8d79175fe5d61246125a96ad5abc27c1f79b1c4b55&dn=05_House_Deep_Tech_Progressive_Slap.json&ws=https%3A%2F%2Fvietnam-music-public-domain-shield.vercel.app%2Fprior-art%2Fcatalogs%2F05_House_Deep_Tech_Progressive_Slap.json"
+      },
+      {
+        "filename": "06_HipHop_Trap_Drill_BoomBap.json",
+        "sha256": "90ebed64da412b577114252c3974fce0000d4e756f9b8f3e4f786954796c423c",
+        "btmh_urn": "urn:btmh:122090ebed64da412b577114252c3974fce0000d4e756f9b8f3e4f786954796c423c",
+        "magnet_uri": "magnet:?xt=urn:btmh:122090ebed64da412b577114252c3974fce0000d4e756f9b8f3e4f786954796c423c&dn=06_HipHop_Trap_Drill_BoomBap.json&ws=https%3A%2F%2Fvietnam-music-public-domain-shield.vercel.app%2Fprior-art%2Fcatalogs%2F06_HipHop_Trap_Drill_BoomBap.json"
+      },
+      {
+        "filename": "07_Punk_PopPunk_AltRock.json",
+        "sha256": "384881d2f04c7f096c56cc1cb678b167c56d3c603abe72a66b93181075627bbc",
+        "btmh_urn": "urn:btmh:1220384881d2f04c7f096c56cc1cb678b167c56d3c603abe72a66b93181075627bbc",
+        "magnet_uri": "magnet:?xt=urn:btmh:1220384881d2f04c7f096c56cc1cb678b167c56d3c603abe72a66b93181075627bbc&dn=07_Punk_PopPunk_AltRock.json&ws=https%3A%2F%2Fvietnam-music-public-domain-shield.vercel.app%2Fprior-art%2Fcatalogs%2F07_Punk_PopPunk_AltRock.json"
+      },
+      {
+        "filename": "08_Synthwave_Retrowave_CityPop_DiscoFunk.json",
+        "sha256": "27ecf60e14cb311ee7fc2108398555ca339dae7ae498b15ace17b2c1978c4615",
+        "btmh_urn": "urn:btmh:122027ecf60e14cb311ee7fc2108398555ca339dae7ae498b15ace17b2c1978c4615",
+        "magnet_uri": "magnet:?xt=urn:btmh:122027ecf60e14cb311ee7fc2108398555ca339dae7ae498b15ace17b2c1978c4615&dn=08_Synthwave_Retrowave_CityPop_DiscoFunk.json&ws=https%3A%2F%2Fvietnam-music-public-domain-shield.vercel.app%2Fprior-art%2Fcatalogs%2F08_Synthwave_Retrowave_CityPop_DiscoFunk.json"
+      },
+      {
+        "filename": "09_Cinematic_Ambient_Meditation_Healing.json",
+        "sha256": "d8b0763ada1320028d163b82bf7d25eb268521a8e45be41cdeda36cf4ff29ebb",
+        "btmh_urn": "urn:btmh:1220d8b0763ada1320028d163b82bf7d25eb268521a8e45be41cdeda36cf4ff29ebb",
+        "magnet_uri": "magnet:?xt=urn:btmh:1220d8b0763ada1320028d163b82bf7d25eb268521a8e45be41cdeda36cf4ff29ebb&dn=09_Cinematic_Ambient_Meditation_Healing.json&ws=https%3A%2F%2Fvietnam-music-public-domain-shield.vercel.app%2Fprior-art%2Fcatalogs%2F09_Cinematic_Ambient_Meditation_Healing.json"
+      },
+      {
+        "filename": "10_AI_Latent_Space_HighProb_Motifs.json",
+        "sha256": "8917221a56303c514b3ba34ae7ad1565af81bcdc8bfaee61ad81415e9853ad52",
+        "btmh_urn": "urn:btmh:12208917221a56303c514b3ba34ae7ad1565af81bcdc8bfaee61ad81415e9853ad52",
+        "magnet_uri": "magnet:?xt=urn:btmh:12208917221a56303c514b3ba34ae7ad1565af81bcdc8bfaee61ad81415e9853ad52&dn=10_AI_Latent_Space_HighProb_Motifs.json&ws=https%3A%2F%2Fvietnam-music-public-domain-shield.vercel.app%2Fprior-art%2Fcatalogs%2F10_AI_Latent_Space_HighProb_Motifs.json"
+      },
+      {
+        "filename": "11_Vocal_Biometrics_Acoustic_PriorArt.json",
+        "sha256": "4b17f4d0a90de886794695ccf1d9b8c669be74534cb077db581855fafc05ebd4",
+        "btmh_urn": "urn:btmh:12204b17f4d0a90de886794695ccf1d9b8c669be74534cb077db581855fafc05ebd4",
+        "magnet_uri": "magnet:?xt=urn:btmh:12204b17f4d0a90de886794695ccf1d9b8c669be74534cb077db581855fafc05ebd4&dn=11_Vocal_Biometrics_Acoustic_PriorArt.json&ws=https%3A%2F%2Fvietnam-music-public-domain-shield.vercel.app%2Fprior-art%2Fcatalogs%2F11_Vocal_Biometrics_Acoustic_PriorArt.json"
+      },
+      {
+        "filename": "12_Vocal_Timbre_Archetypes_PublicDomain.json",
+        "sha256": "3f73a1ff16155e91bb5c16dd82af4e9da7a6c00bacfc3aff104a9b49ee2ffc15",
+        "btmh_urn": "urn:btmh:12203f73a1ff16155e91bb5c16dd82af4e9da7a6c00bacfc3aff104a9b49ee2ffc15",
+        "magnet_uri": "magnet:?xt=urn:btmh:12203f73a1ff16155e91bb5c16dd82af4e9da7a6c00bacfc3aff104a9b49ee2ffc15&dn=12_Vocal_Timbre_Archetypes_PublicDomain.json&ws=https%3A%2F%2Fvietnam-music-public-domain-shield.vercel.app%2Fprior-art%2Fcatalogs%2F12_Vocal_Timbre_Archetypes_PublicDomain.json"
+      },
+      {
+        "filename": "13_Geometric_Motif_Vectors_PD_VN_Art23.json",
+        "sha256": "f6fe1025383d7c617abb346ee6992494502c43ddb7eb282284b35ca57caaf5b4",
+        "btmh_urn": "urn:btmh:1220f6fe1025383d7c617abb346ee6992494502c43ddb7eb282284b35ca57caaf5b4",
+        "magnet_uri": "magnet:?xt=urn:btmh:1220f6fe1025383d7c617abb346ee6992494502c43ddb7eb282284b35ca57caaf5b4&dn=13_Geometric_Motif_Vectors_PD_VN_Art23.json&ws=https%3A%2F%2Fvietnam-music-public-domain-shield.vercel.app%2Fprior-art%2Fcatalogs%2F13_Geometric_Motif_Vectors_PD_VN_Art23.json"
+      },
+      {
+        "filename": "MANIFEST_PRIOR_ART_CC0.json",
+        "sha256": "c7063525d86c41fbe61a96032a1439b4743df880229dadbe0e9748ef6e1a4406",
+        "btmh_urn": "urn:btmh:1220c7063525d86c41fbe61a96032a1439b4743df880229dadbe0e9748ef6e1a4406",
+        "magnet_uri": "magnet:?xt=urn:btmh:1220c7063525d86c41fbe61a96032a1439b4743df880229dadbe0e9748ef6e1a4406&dn=MANIFEST_PRIOR_ART_CC0.json&ws=https%3A%2F%2Fvietnam-music-public-domain-shield.vercel.app%2Fprior-art%2Fcatalogs%2FMANIFEST_PRIOR_ART_CC0.json"
+      }
+    ]
+  }
+}
