@@ -139,6 +139,18 @@
     <priority>0.92</priority>
   </url>
   <url>
+    <loc>https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/12_Vocal_Timbre_Archetypes_PublicDomain.json</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.92</priority>
+  </url>
+  <url>
+    <loc>https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/13_Geometric_Motif_Vectors_PD_VN_Art23.json</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.92</priority>
+  </url>
+  <url>
     <loc>https://vietnam-music-public-domain-shield.vercel.app/prior-art/sha256-manifest.html</loc>
     <lastmod>2026-10-29</lastmod>
     <changefreq>daily</changefreq>

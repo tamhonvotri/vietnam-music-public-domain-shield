@@ -10,7 +10,7 @@
   "merkle_root_sha256": "2d91d807fb1ef9ae818a41b409a36a93c5c02fd99d91cc73e4887a65899a8fce",
   "merkle_tree_depth": 11,
   "total_works_notarized": 660,
-  "branch_11_vocal_biometrics_catalog_sha256": "d8ad67f79b383ad1c3d23d1faee464171b592479fcdd98544396cbd4686d2c5f",
+  "branch_11_vocal_biometrics_catalog_sha256": "4b17f4d0a90de886794695ccf1d9b8c669be74534cb077db581855fafc05ebd4",
   "root_final_pair_proof": {
     "formula": "SHA256('NODEv1|41340eb27f85fa8dee55e6bfbf6d7a0cbc75ecc2c74ec2d6a9354ecfc5717e28|eb74be5a08803000e3436158ae5a03ddd469df526efc44a1538a3f3d4ebadf9d')",
     "left_child_sha256": "41340eb27f85fa8dee55e6bfbf6d7a0cbc75ecc2c74ec2d6a9354ecfc5717e28",
@@ -98,8 +98,22 @@
       "filename": "11_Vocal_Biometrics_Acoustic_PriorArt.json",
       "relative_path": "/prior-art/catalogs/11_Vocal_Biometrics_Acoustic_PriorArt.json",
       "url": "https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/11_Vocal_Biometrics_Acoustic_PriorArt.json",
-      "size_bytes": 227991,
-      "sha256": "d8ad67f79b383ad1c3d23d1faee464171b592479fcdd98544396cbd4686d2c5f"
+      "size_bytes": 289927,
+      "sha256": "4b17f4d0a90de886794695ccf1d9b8c669be74534cb077db581855fafc05ebd4"
+    },
+    {
+      "filename": "12_Vocal_Timbre_Archetypes_PublicDomain.json",
+      "relative_path": "/prior-art/catalogs/12_Vocal_Timbre_Archetypes_PublicDomain.json",
+      "url": "https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/12_Vocal_Timbre_Archetypes_PublicDomain.json",
+      "size_bytes": 247371,
+      "sha256": "3f73a1ff16155e91bb5c16dd82af4e9da7a6c00bacfc3aff104a9b49ee2ffc15"
+    },
+    {
+      "filename": "13_Geometric_Motif_Vectors_PD_VN_Art23.json",
+      "relative_path": "/prior-art/catalogs/13_Geometric_Motif_Vectors_PD_VN_Art23.json",
+      "url": "https://vietnam-music-public-domain-shield.vercel.app/prior-art/catalogs/13_Geometric_Motif_Vectors_PD_VN_Art23.json",
+      "size_bytes": 54539,
+      "sha256": "f6fe1025383d7c617abb346ee6992494502c43ddb7eb282284b35ca57caaf5b4"
     },
     {
       "filename": "MANIFEST_PRIOR_ART_CC0.json",
