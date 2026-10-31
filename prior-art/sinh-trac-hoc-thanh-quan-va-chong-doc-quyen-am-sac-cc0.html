@@ -1250,11 +1250,11 @@
       width: 100%;
     }
     .nav-page-link {
-      font-size: 0.78rem !important;
-      padding: 0.52rem 0.45rem !important;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
+      font-size: 0.76rem !important;
+      padding: 0.45rem 0.4rem !important;
+      white-space: normal;
+      line-height: 1.25;
+      min-height: 38px;
     }
     @media (max-width: 1120px) {
       .nav-tabs-primary {
@@ -1311,17 +1311,17 @@
       align-items: center;
       justify-content: center;
       text-align: center;
-      padding: 0.34rem 0.45rem;
-      font-size: 0.74rem;
+      padding: 0.34rem 0.42rem;
+      font-size: 0.73rem;
       font-weight: 600;
       color: var(--text);
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: 6px;
       text-decoration: none;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
+      white-space: normal;
+      line-height: 1.25;
+      min-height: 32px;
       transition: all 0.15s ease;
     }
     .sub-pill-link:hover, .sub-pill-link.active-sub-pill {
@@ -3511,15 +3511,36 @@
         ctx.stroke();
       }
 
-      // Zone labels
-      ctx.font = "bold 11.5px -apple-system, BlinkMacSystemFont, sans-serif";
-      ctx.textAlign = "left";
-      ctx.fillStyle = "#4ade80";
-      ctx.fillText("VÙNG F1–F2 (250–2250 Hz): KHẨU HÌNH NGUYÊN ÂM & NHẢ CHỮ CÔNG CỘNG (ĐIỀU 15 LUẬT SHTT)", padL + 10, padT + 16);
-      ctx.fillStyle = "#f87171";
-      ctx.fillText("VÙNG F3–F4 (2250–4800 Hz): HẰNG SỐ GIẢI PHẪU ỐNG THANH QUẢN L_vt (GUNNAR FANT)", x2250 + 10, padT + 16);
+      // Vertical boundary line at 2250 Hz separating F1-F2 (Public Domain) and F3-F4 (Biometric L_vt)
+      ctx.save();
+      ctx.strokeStyle = "rgba(148, 163, 184, 0.55)";
+      ctx.lineWidth = 1.4;
+      ctx.setLineDash([5, 4]);
+      ctx.beginPath();
+      ctx.moveTo(x2250, padT);
+      ctx.lineTo(x2250, padT + plotH);
+      ctx.stroke();
+      ctx.restore();
 
-      function plotCurve(res, strokeColor, dashed) {
+      // Zone labels (2-line wrapped within each zone width so text never overlaps)
+      const leftZoneMaxW = Math.max(120, x2250 - padL - 16);
+      const rightZoneMaxW = Math.max(120, padL + plotW - x2250 - 16);
+      ctx.textAlign = "left";
+      ctx.font = "bold 11px -apple-system, BlinkMacSystemFont, sans-serif";
+      ctx.fillStyle = "#4ade80";
+      ctx.fillText("VÙNG F1–F2 (250–2250 Hz): KHẨU HÌNH NGUYÊN ÂM & NHẢ CHỮ", padL + 8, padT + 14, leftZoneMaxW);
+      ctx.font = "10px -apple-system, BlinkMacSystemFont, sans-serif";
+      ctx.fillStyle = "#86efac";
+      ctx.fillText("Miền Công Cộng Ngữ Âm (Khoản 3 Điều 8 & Điều 15 Luật SHTT)", padL + 8, padT + 28, leftZoneMaxW);
+
+      ctx.font = "bold 11px -apple-system, BlinkMacSystemFont, sans-serif";
+      ctx.fillStyle = "#f87171";
+      ctx.fillText("VÙNG F3–F4 (2250–5000 Hz): HẰNG SỐ GIẢI PHẪU ỐNG THANH QUẢN L_vt", x2250 + 8, padT + 14, rightZoneMaxW);
+      ctx.font = "10px -apple-system, BlinkMacSystemFont, sans-serif";
+      ctx.fillStyle = "#fca5a5";
+      ctx.fillText("Định Danh Sinh Trắc Cá Nhân (Phương Trình Gunnar Fant 1960)", x2250 + 8, padT + 28, rightZoneMaxW);
+
+      function plotCurve(res, strokeColor, dashed, isSecondCurve, voiceTag) {
         if (!res || !res.envCurve5000) return;
         const arr = res.envCurve5000;
         let minV = Infinity, maxV = -Infinity;
@@ -3528,6 +3549,9 @@
           if (arr[i] > maxV) maxV = arr[i];
         }
         const span = Math.max(10, maxV - minV);
+        const topHeadroom = 58;
+        const bottomHeadroom = 24;
+        const usableH = Math.max(60, plotH - topHeadroom - bottomHeadroom);
 
         ctx.save();
         ctx.strokeStyle = strokeColor;
@@ -3538,14 +3562,15 @@
           const hz = i * 20;
           const x = padL + (hz / 5000) * plotW;
           const norm = Math.max(0, Math.min(1, (arr[i] - minV) / span));
-          const y = padT + plotH - norm * (plotH - 32);
+          const y = padT + plotH - bottomHeadroom - norm * usableH;
           if (i === 1) ctx.moveTo(x, y);
           else ctx.lineTo(x, y);
         }
         ctx.stroke();
         ctx.restore();
 
-        // Mark Formant peaks F1, F2, F3, F4
+        // Mark Formant peaks F1, F2, F3, F4 with non-overlapping pill badges
+        // Voice A badges sit ABOVE the peak; Voice B badges sit BELOW the peak
         const fList = [
           ["F1", res.F1],
           ["F2", res.F2],
@@ -3556,19 +3581,38 @@
           const idx = Math.min(250, Math.max(1, Math.round(fHz / 20)));
           const norm = Math.max(0, Math.min(1, (arr[idx] - minV) / span));
           const x = padL + (fHz / 5000) * plotW;
-          const y = padT + plotH - norm * (plotH - 32);
+          const y = padT + plotH - bottomHeadroom - norm * usableH;
           ctx.fillStyle = strokeColor;
           ctx.beginPath();
-          ctx.arc(x, y, 4.5, 0, 2 * Math.PI);
+          ctx.arc(x, y, 4.2, 0, 2 * Math.PI);
           ctx.fill();
-          ctx.font = "bold 10.5px ui-monospace, monospace";
+
+          const tagText = `${voiceTag}:${fLabel}=${Math.round(fHz)}`;
+          ctx.font = "bold 10px ui-monospace, monospace";
+          const textW = ctx.measureText(tagText).width;
+          const boxW = textW + 8;
+          const boxH = 15;
+          const boxX = Math.max(padL + 2, Math.min(padL + plotW - boxW - 2, x - boxW / 2));
+          const boxY = isSecondCurve
+            ? Math.min(padT + plotH - boxH - 2, y + 7)
+            : Math.max(padT + 34, y - boxH - 7);
+
+          ctx.fillStyle = "rgba(15, 23, 42, 0.90)";
+          ctx.fillRect(boxX, boxY, boxW, boxH);
+          ctx.strokeStyle = strokeColor;
+          ctx.lineWidth = 1;
+          ctx.strokeRect(boxX, boxY, boxW, boxH);
+
+          ctx.fillStyle = strokeColor;
           ctx.textAlign = "center";
-          ctx.fillText(`${fLabel}=${Math.round(fHz)}`, x, Math.max(padT + 28, y - 9));
+          ctx.textBaseline = "middle";
+          ctx.fillText(tagText, boxX + boxW / 2, boxY + boxH / 2 + 0.5);
+          ctx.textBaseline = "alphabetic";
         }
       }
 
-      plotCurve(lab1State.A, "#38bdf8", false);
-      plotCurve(lab1State.B, "#f59e0b", true);
+      plotCurve(lab1State.A, "#38bdf8", false, false, "A");
+      plotCurve(lab1State.B, "#f59e0b", true, true, "B");
     }
 
     function updateLab1UI() {
@@ -3689,9 +3733,9 @@ III. KẾT LUẬN PHÁP Y ÂM HỌC & CĂN CỨ PHÁP LÝ (ĐIỀU 15 LUẬT SHT
       lab1State.B = analyzePCMBuffer(demoB.samples, demoB.sampleRate, demoB.label, shaB);
 
       const stA = document.getElementById("vocal-status-a");
-      if (stA) stA.textContent = `✓ Đã nạp: ${demoA.label} (SHA-256: ${shaA.slice(0, 16)}...)`;
+      if (stA) stA.textContent = `✓ Đã nạp: ${demoA.label} (SHA-256: ${shaA})`;
       const stB = document.getElementById("vocal-status-b");
-      if (stB) stB.textContent = `✓ Đã nạp: ${demoB.label} (SHA-256: ${shaB.slice(0, 16)}...)`;
+      if (stB) stB.textContent = `✓ Đã nạp: ${demoB.label} (SHA-256: ${shaB})`;
 
       updateLab1UI();
     }
@@ -3700,7 +3744,7 @@ III. KẾT LUẬN PHÁP Y ÂM HỌC & CĂN CỨ PHÁP LÝ (ĐIỀU 15 LUẬT SHT
       if (!inputEl || !inputEl.files || !inputEl.files[0]) return;
       const file = inputEl.files[0];
       const statusEl = document.getElementById(slot === "A" ? "vocal-status-a" : "vocal-status-b");
-      if (statusEl) statusEl.textContent = `⏳ Đang băm SHA-256 & giải mã PCM trên trình duyệt: ${file.name}...`;
+      if (statusEl) statusEl.textContent = `⏳ Đang băm SHA-256 & giải mã PCM trên trình duyệt: ${file.name}`;
 
       try {
         const arrayBuf = await file.arrayBuffer();
@@ -3715,7 +3759,7 @@ III. KẾT LUẬN PHÁP Y ÂM HỌC & CĂN CỨ PHÁP LÝ (ĐIỀU 15 LUẬT SHT
         const res = analyzePCMBuffer(sliceSamples, audioBuffer.sampleRate, file.name, shaHex);
         lab1State[slot] = res;
         if (statusEl) {
-          statusEl.textContent = `✅ Đã phân tích 100% Client-Side: ${file.name} (${res.durationSec}s @ ${res.sampleRate}Hz • SHA-256: ${shaHex.slice(0, 16)}...)`;
+          statusEl.textContent = `✅ Đã phân tích 100% Client-Side: ${file.name} (${res.durationSec}s @ ${res.sampleRate}Hz • SHA-256: ${shaHex})`;
         }
         if (audioCtx.close) audioCtx.close();
         updateLab1UI();
@@ -4044,7 +4088,7 @@ III. KẾT LUẬN PHÁP Y ÂM HỌC & CĂN CỨ PHÁP LÝ (ĐIỀU 15 LUẬT SHT
       document.getElementById("lab2-sc4").textContent = SC4.toFixed(2) + "%";
       document.getElementById("lab2-group").textContent = groupClass;
       document.getElementById("lab2-edge").textContent = edgeDensityPct.toFixed(2) + "%";
-      document.getElementById("lab2-sha").textContent = matrixSha256.slice(0, 24) + "...";
+      document.getElementById("lab2-sha").textContent = matrixSha256;
 
       const originVal = document.getElementById("motif-origin-select").value;
       const projTitle = document.getElementById("motif-project-title").value;
