@@ -3,15 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-DYMNF23SVB"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-DYMNF23SVB');
-  </script>
   <meta name="google-site-verification" content="Wc_b_Rlq0atcOpP4QlJNWpSGPS-M5kvFLiISi4wdAMY" />
   <!-- MANDATORY: Declare support for both light and dark themes -->
   <meta name="color-scheme" content="light dark">
@@ -1428,7 +1419,7 @@
       <div class="gov-ribbon-right">
         <span>Định danh: <strong>VMA-VLP-2026-CC0</strong></span>
         <span>Chuẩn băm: <strong>FIPS 180-4 SHA-256</strong></span>
-        <span>Liên thông: <strong>Internet Archive (USA)</strong></span>
+        <span>Sao lưu đối chứng: <strong>Internet Archive (Wayback &amp; Vault)</strong></span>
       </div>
     </div>
   </div>
@@ -1511,7 +1502,7 @@
         <div class="masthead-en">Vietnam Musicological Prior Art &amp; Public Domain Clearinghouse — Legal &amp; Forensic Council</div>
         <h1>Trung Tâm Lưu Ký Tiên Nghệ Thuật Âm Nhạc Học &amp; Bảo Tồn Di Sản Miền Công Cộng Việt Nam</h1>
         <p class="masthead-sub">
-          Định chế học thuật, giám định âm nhạc học khách quan 6 lớp (<em>Extrinsic Musicological Test</em>) và viện trợ văn bản pháp lý tiêu chuẩn quốc tế theo Công ước Berne, Hiệp định TRIPS, Đạo luật Bản quyền Liên bang Hoa Kỳ (17 U.S.C. §§ 102(b), 114(b), 512(f)-(g)) và Luật Sở hữu trí tuệ Việt Nam 2022 (Nghị định 17/2023/NĐ-CP).
+          Định chế học thuật, giám định âm nhạc học khách quan 6 lớp (<em>Extrinsic Musicological Test</em>), sinh trắc học ống thanh quản và viện trợ văn bản pháp lý tiêu chuẩn theo Luật Sở hữu trí tuệ Việt Nam 2022 (sửa đổi, bổ sung 2026), Luật Trí tuệ nhân tạo 2026, Nghị định 17/2023/NĐ-CP, Nghị định 134/2026/NĐ-CP, Công ước Berne, Hiệp định TRIPS và Đạo luật Bản quyền Liên bang Hoa Kỳ (17 U.S.C. §§ 102(b), 114(b), 512(f)-(g)).
         </p>
       </div>
       <div class="masthead-seal-card" aria-label="Chứng thư kiểm định mật mã">
@@ -1970,6 +1961,10 @@ II. VĂN BẢN PHẢN TỐ PHÁP LÝ TIẾNG VIỆT (LUẬT SHTT VIỆT NAM 2022
             <div class="tool-panel-inner">
               <div class="legal-Callout" style="border-left: 4px solid #b42318; margin-bottom: 1rem; padding: 0.75rem 1rem; font-size: 0.82rem;">
                 <strong style="color: var(--error);">⚠️ Chốt Chặn Đạo Đức &amp; Pháp Lý (Ethical Firewall):</strong> Biểu mẫu <code>VMA-134-BIO-CLEAN</code> <strong>CHỈ bảo vệ</strong> người sử dụng giọng thật của chính mình, người sử dụng giọng mẫu tham chiếu đã trả phí hợp pháp có hợp đồng (<em>Clean-Room Paid Reference Voice</em>), hoặc tổng hợp tham số âm học độc lập. Hệ thống <strong>tuyệt đối không bảo vệ</strong> hành vi nhân bản giọng nói trái phép nhằm mạo danh nhân thân nghệ sĩ khác (<em>Unauthorized Deepfake Impersonation</em>).
+                <div style="margin-top: 0.55rem; display: flex; flex-wrap: wrap; gap: 0.5rem;">
+                  <a href="./prior-art/sinh-trac-hoc-thanh-quan-va-chong-doc-quyen-am-sac-cc0.html#webaudio-vocal-biometrics-lab" class="btn-link-pill" style="background:#15803d; border-color:#15803d;">🔬 Mở Lab #1: Đo Trực Tiếp File Âm Thanh Của Bạn Bằng WebAudio DSP →</a>
+                  <a href="./prior-art/sinh-trac-hoc-thanh-quan-va-chong-doc-quyen-am-sac-cc0.html#canvas-geometric-symmetry-lab" class="btn-link-outline">📐 Mở Lab #2: Giải Phẫu Ma Trận Đối Xứng Hoa Văn Điều 15/23 →</a>
+                </div>
               </div>
               <div class="workbench-split">
                 <div class="workbench-form-pane">
@@ -3236,6 +3231,23 @@ NOTICE: Automated Content ID or Manual Claiming on CC0 1.0 Public Domain buildin
     }
     
 
+    function loadSyncedLab1BioParams() {
+      try {
+        const raw = sessionStorage.getItem("VMPAC_LAB1_BIO_PARAMS");
+        if (!raw) return;
+        const p = JSON.parse(raw);
+        if (p.workTitle && document.getElementById("bio-work-title")) {
+          document.getElementById("bio-work-title").value = p.workTitle;
+        }
+        if (p.lvtParams && document.getElementById("bio-lvt-params")) {
+          document.getElementById("bio-lvt-params").value = p.lvtParams;
+        }
+        if (p.glottalParams && document.getElementById("bio-glottal-params")) {
+          document.getElementById("bio-glottal-params").value = p.glottalParams;
+        }
+      } catch (e) {}
+    }
+
     function renderBioCleanDossier() {
       const workEl = document.getElementById("bio-work-title");
       if (!workEl) return;
@@ -3323,6 +3335,7 @@ IV. [FORMAL ENGLISH NOTICE FOR GLOBAL DIGITAL PLATFORMS & LEGAL COUNSEL]:
     loadBranchPreset();
     renderExtortionRebuttal();
     renderDescriptionShield();
+    loadSyncedLab1BioParams();
     renderBioCleanDossier();
     if (window.location.hash === '#tool-panel-4') { activateToolPanel(4); } else { activateToolPanel(1); }
   </script>
